@@ -10,7 +10,6 @@ fetch('data/spotify.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json(
   if(!rp.length&&!ta.length&&!tt.length&&!d.now_playing) return empty();
   let h='';
   if(d.now_playing){const n=d.now_playing;h+=`<h3>Now playing</h3><ul class="tracks">${row(n.name,(n.artists||[]).join(', '),n.image,n.url)}</ul>`}
-  if(rp.length)h+=`<h3>Recently played</h3><ul class="tracks">${rp.map(t=>row(t.name,(t.artists||[]).join(', ')+(t.played_at?' · '+ago(t.played_at):''),t.image,t.url)).join('')}</ul>`;
   if(ta.length)h+=`<h3>Top artists this month</h3><ul class="tracks round">${ta.map((a,i)=>row(a.name,'#'+(i+1),a.image,a.url)).join('')}</ul>`;
   if(tt.length)h+=`<h3>Top tracks this month</h3><ul class="tracks">${tt.map((t,i)=>row(t.name,'#'+(i+1)+' · '+(t.artists||[]).join(', '),t.image,t.url)).join('')}</ul>`;
   if(d.updated_at)h+=`<p class="muted upd">Updated ${esc(ago(d.updated_at))}</p>`;
