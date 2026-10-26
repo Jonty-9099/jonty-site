@@ -255,8 +255,7 @@
      "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     }
-   ],
-   "top_genres": []
+   ]
   },
   "medium_term": {
    "top_artists": [
@@ -332,8 +331,7 @@
      "image": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     }
-   ],
-   "top_genres": []
+   ]
   },
   "long_term": {
    "top_artists": [
@@ -412,10 +410,8 @@
      "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     }
-   ],
-   "top_genres": []
+   ]
   }
  },
- "top_genres": [],
  "updated_at": "2026-10-26T21:37:47+00:00"
 }

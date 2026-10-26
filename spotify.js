@@ -40,7 +40,7 @@
       const ranges = data.time_ranges || {};
       // Never relabel the existing monthly snapshot as another period.
       if (!ranges.short_term && (data.top_artists?.length || data.top_tracks?.length)) {
-        ranges.short_term = {top_artists:data.top_artists || [], top_tracks:data.top_tracks || [], top_genres:data.top_genres || []};
+        ranges.short_term = {top_artists:data.top_artists || [], top_tracks:data.top_tracks || []};
       }
       root.innerHTML = `<div class="time-switch" role="group" aria-label="Listening time range">${periods.map(([key,label]) => `<button type="button" data-period="${key}" aria-pressed="${key === 'short_term'}" aria-controls="listening-stats">${label}</button>`).join('')}</div><p class="sr-only" role="status" id="range-status"></p><div id="listening-stats"></div><p class="muted upd"></p>`;
       const panel = root.querySelector('#listening-stats');
@@ -52,11 +52,10 @@
         if (!stats) {
           panel.innerHTML = '<p class="stats-empty muted">These rankings haven’t synced yet. Check back after the next Spotify update.</p>';
         } else {
-          const artists = stats.top_artists || [], tracks = stats.top_tracks || [], genres = stats.top_genres || [];
+          const artists = stats.top_artists || [], tracks = stats.top_tracks || [];
           let html = tracks[0] ? player(tracks[0]) : '';
           html += `<section class="stats-section"><h3>Top artists</h3>${artists.length ? `<ol class="tracks round">${artists.map((artist,index) => row(artist.name,'',artist.image,artist.url,index + 1)).join('')}</ol>` : '<p class="muted">No artist rankings available for this period.</p>'}</section>`;
           html += `<section class="stats-section"><h3>Top tracks</h3>${tracks.length ? `<ol class="tracks">${tracks.map((track,index) => row(track.name,(track.artists || []).join(', '),track.image,track.url,index + 1)).join('')}</ol>` : '<p class="muted">No track rankings available for this period.</p>'}</section>`;
-          html += `<section class="stats-section"><h3>Top genres</h3>${genres.length ? `<ol class="genre-list">${genres.map(genre => `<li>${esc(genre.name)}</li>`).join('')}</ol><p class="muted genre-note">Based on genres shared by your top artists.</p>` : '<p class="muted">Spotify hasn’t provided genre data for this period.</p>'}</section>`;
           panel.innerHTML = html;
         }
         const updated = ago(data.updated_at);

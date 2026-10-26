@@ -2,7 +2,6 @@
 """Fetch public-safe Spotify listening stats into data/spotify.json (stdlib only)."""
 import base64, json, os, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
-from collections import Counter
 
 def req(url, data=None, headers=None):
     r = urllib.request.Request(url, data=data, headers=headers or {})
@@ -27,14 +26,11 @@ def track(t):
             "url": t.get("external_urls", {}).get("spotify")}
 
 def rankings(api, time_range):
-    artists = (api(f"me/top/artists?time_range={time_range}&limit=50") or {}).get("items", [])
-    # Genre frequency among top artists, not listening minutes.
-    genres = Counter(g for a in artists for g in set(a.get("genres") or []))
+    artists = (api(f"me/top/artists?time_range={time_range}&limit=5") or {}).get("items", [])
     return {
         "top_artists": [{"name": a["name"], "image": img(a.get("images"), 160),
                          "url": a.get("external_urls", {}).get("spotify")} for a in artists[:5]],
         "top_tracks": [track(t) for t in (api(f"me/top/tracks?time_range={time_range}&limit=5") or {}).get("items", [])],
-        "top_genres": [{"name": name, "artist_count": count} for name, count in sorted(genres.items(), key=lambda item: (-item[1], item[0]))[:5]],
     }
 
 def main():
