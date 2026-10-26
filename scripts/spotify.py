@@ -2,6 +2,7 @@
 """Fetch public-safe Spotify listening stats into data/spotify.json (stdlib only)."""
 import base64, json, os, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
+from collections import Counter
 
 def req(url, data=None, headers=None):
     r = urllib.request.Request(url, data=data, headers=headers or {})
@@ -25,15 +26,26 @@ def track(t):
             "album": t.get("album", {}).get("name"), "image": img(t.get("album", {}).get("images")),
             "url": t.get("external_urls", {}).get("spotify")}
 
+def rankings(api, time_range):
+    artists = (api(f"me/top/artists?time_range={time_range}&limit=50") or {}).get("items", [])
+    # Genre frequency among top artists, not listening minutes.
+    genres = Counter(g for a in artists for g in set(a.get("genres") or []))
+    return {
+        "top_artists": [{"name": a["name"], "image": img(a.get("images"), 160),
+                         "url": a.get("external_urls", {}).get("spotify")} for a in artists[:5]],
+        "top_tracks": [track(t) for t in (api(f"me/top/tracks?time_range={time_range}&limit=5") or {}).get("items", [])],
+        "top_genres": [{"name": name, "artist_count": count} for name, count in sorted(genres.items(), key=lambda item: (-item[1], item[0]))[:5]],
+    }
+
 def main():
     tok = token(); H = {"Authorization": "Bearer " + tok}
     api = lambda p: req("https://api.spotify.com/v1/" + p, headers=H)[1]
     out = {"recently_played": [], "top_artists": [], "top_tracks": [], "now_playing": None}
     for it in (api("me/player/recently-played?limit=10") or {}).get("items", []):
         d = track(it["track"]); d["played_at"] = it.get("played_at"); out["recently_played"].append(d)
-    for a in (api("me/top/artists?time_range=short_term&limit=5") or {}).get("items", []):
-        out["top_artists"].append({"name": a["name"], "image": img(a.get("images"), 160), "url": a.get("external_urls", {}).get("spotify")})
-    out["top_tracks"] = [track(t) for t in (api("me/top/tracks?time_range=short_term&limit=5") or {}).get("items", [])]
+    out["time_ranges"] = {period: rankings(api, period) for period in ("short_term", "medium_term", "long_term")}
+    # Preserve the original fields for older clients.
+    out.update(out["time_ranges"]["short_term"])
     try:
         cp = api("me/player/currently-playing")
         if cp and cp.get("is_playing") and cp.get("item") and cp.get("currently_playing_type") == "track":
