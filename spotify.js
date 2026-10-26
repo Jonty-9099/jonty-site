@@ -6,7 +6,7 @@
   const periods = [
     ['short_term', 'This month'],
     ['medium_term', 'Last 6 months'],
-    ['long_term', 'Last 1 year']
+    ['long_term', 'Last 12 months']
   ];
   const row = (name, subtitle, image, url, rank) => {
     const art = safeUrl(image) ? `<img src="${esc(image)}" alt="" loading="lazy">` : '<span class="art"></span>';
