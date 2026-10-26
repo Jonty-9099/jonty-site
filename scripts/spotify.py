@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Fetch public-safe Spotify listening stats into data/spotify.json (stdlib only)."""
 import base64, json, os, sys, urllib.parse, urllib.request
-from urllib.error import HTTPError, URLError
 from datetime import datetime, timezone
 from collections import Counter
 
@@ -27,36 +26,10 @@ def track(t):
             "album": t.get("album", {}).get("name"), "image": img(t.get("album", {}).get("images")),
             "url": t.get("external_urls", {}).get("spotify")}
 
-def artist_genres(api, artist, cache):
-    genres = artist.get("genres") or []
-    artist_id = artist.get("id")
-    if genres or not artist_id:
-        return genres
-    if artist_id not in cache:
-        try:
-            detail = api("artists/" + urllib.parse.quote(artist_id, safe="")) or {}
-            cache[artist_id] = detail.get("genres") or []
-            print("Artist genre lookup:", "provided" if cache[artist_id] else "empty" if "genres" in detail else "field omitted")
-        except HTTPError as error:
-            # Optional genre enrichment must not break the listening rankings.
-            if error.code in (401, 429):
-                raise
-            print("Artist genre lookup: HTTP", error.code)
-            cache[artist_id] = []
-        except (URLError, TimeoutError):
-            print("Artist genre lookup: temporarily unavailable")
-            cache[artist_id] = []
-    return cache[artist_id]
-
-def rankings(api, time_range, genre_cache=None):
-    if genre_cache is None:
-        genre_cache = {}
+def rankings(api, time_range):
     artists = (api(f"me/top/artists?time_range={time_range}&limit=50") or {}).get("items", [])
-    print(f"{time_range}: {len(artists)} artists, "
-          f"{sum('genres' in a for a in artists)} with a genre field, "
-          f"{sum(bool(a.get('genres')) for a in artists)} with genre labels")
     # Genre frequency among top artists, not listening minutes.
-    genres = Counter(g for a in artists for g in set(artist_genres(api, a, genre_cache)))
+    genres = Counter(g for a in artists for g in set(a.get("genres") or []))
     return {
         "top_artists": [{"name": a["name"], "image": img(a.get("images"), 160),
                          "url": a.get("external_urls", {}).get("spotify")} for a in artists[:5]],
@@ -70,8 +43,7 @@ def main():
     out = {"recently_played": [], "top_artists": [], "top_tracks": [], "now_playing": None}
     for it in (api("me/player/recently-played?limit=10") or {}).get("items", []):
         d = track(it["track"]); d["played_at"] = it.get("played_at"); out["recently_played"].append(d)
-    genre_cache = {}
-    out["time_ranges"] = {period: rankings(api, period, genre_cache) for period in ("short_term", "medium_term", "long_term")}
+    out["time_ranges"] = {period: rankings(api, period) for period in ("short_term", "medium_term", "long_term")}
     # Preserve the original fields for older clients.
     out.update(out["time_ranges"]["short_term"])
     try:
