@@ -1,45 +1,14 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Jonty</title><link rel="stylesheet" href="style.css"></head>
-<body class="loading">
-<div class="scene" id="scene">
-  <div class="grain" aria-hidden="true"></div>
-  <div class="frame" aria-hidden="true"><i class="c tl"></i><i class="c tr"></i><i class="c bl"></i><i class="c br"></i><div class="grid"></div></div>
-  <div class="focus" id="focus" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-
-  <header class="hud top">
-    <span class="rec"><b></b>REC</span>
-    <span id="clock">00:00:00</span>
-    <span class="batt" aria-label="battery"><i></i></span>
-  </header>
-
-  <main class="stage">
-    <section class="mode active" data-mode="home" aria-label="Home">
-      <p class="kicker">● LIVE VIEW</p>
-      <h1 class="name">Jonty</h1>
-      <p class="ph">[Intro line]</p>
-      <button class="shoot" id="shoot">Take a shot</button>
-    </section>
-    <section class="mode" data-mode="music" aria-label="Music"><p class="kicker">MODE · M</p><h2>Music</h2>
-      <ul class="list"><li class="ph">[Song / artist]</li><li class="ph">[Song / artist]</li><li class="ph">[Playlist link]</li></ul></section>
-    <section class="mode" data-mode="photo" aria-label="Photography"><p class="kicker">MODE · P</p><h2>Photography</h2>
-      <div class="roll" id="roll"></div><p class="hint">Placeholder frames</p></section>
-    <section class="mode" data-mode="gaming" aria-label="Gaming"><p class="kicker">MODE · G</p><h2>Gaming</h2>
-      <ul class="list"><li class="ph">[Game]</li><li class="ph">[Game]</li><li class="ph">[Platform / gamertag]</li></ul></section>
-    <section class="mode" data-mode="food" aria-label="Food"><p class="kicker">MODE · F</p><h2>Food</h2>
-      <ul class="list"><li class="ph">[Favourite dish]</li><li class="ph">[Favourite spot]</li><li class="ph">[Food photo]</li></ul></section>
-    <section class="mode" data-mode="contact" aria-label="Contact"><p class="kicker">MODE · C</p><h2>Contact</h2>
-      <a class="xbtn" href="https://x.com/Jonty46637104" target="_blank" rel="noopener">Say hi on 𝕏 ↗</a><p class="handle">@Jonty46637104</p></section>
-  </main>
-
-  <footer class="hud bottom">
-    <span>ISO <b id="iso">400</b></span><span><b id="sh">1/125</b></span><span>ƒ<b id="ap">2.8</b></span>
-    <span class="count">[<b id="shots">000</b>]</span>
-  </footer>
-
-  <nav class="dial" aria-label="Camera modes">
-    <button data-go="home" class="on">AUTO</button><button data-go="music">Music</button><button data-go="photo">Photo</button>
-    <button data-go="gaming">Gaming</button><button data-go="food">Food</button><button data-go="contact">Contact</button>
-  </nav>
-</div>
-<div class="flash" id="flash" aria-hidden="true"></div>
-<script src="script.js"></script></body></html>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Jonty</title><link rel="stylesheet" href="style.css"></head><body>
+<header class="top"><a href="index.html"><span class="ico">J</span>Jonty</a></header>
+<div class="cover in"><div class="ph">[Cover photo — one of your photos]</div></div>
+<main class="page">
+<div class="avatar ph in">[Profile photo]</div>
+<h1 class="in">Jonty</h1>
+<p class="bio ph in">[Intro line]</p>
+<ul class="links">
+<li class="in"><a href="music.html"><span>🎵</span><b>Music</b></a></li>
+<li class="in"><a href="photography.html"><span>📸</span><b>Photography</b></a></li>
+<li class="in"><a href="gaming.html"><span>🎮</span><b>Gaming</b></a></li>
+<li class="in"><a href="food.html"><span>🍜</span><b>Food</b></a></li>
+<li class="in"><a href="https://x.com/Jonty46637104" target="_blank" rel="noopener"><span>📫</span><b>Say hi on X</b></a></li>
+</ul></main><script src="main.js"></script></body></html>
