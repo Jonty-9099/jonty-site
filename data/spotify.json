@@ -179,5 +179,243 @@
   }
  ],
  "now_playing": null,
- "updated_at": "2026-10-26T20:59:38+00:00"
+ "time_ranges": {
+  "short_term": {
+   "top_artists": [
+    {
+     "name": "Drake",
+     "image": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
+     "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    },
+    {
+     "name": "J. Cole",
+     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
+     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    {
+     "name": "Olivia Rodrigo",
+     "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
+     "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    }
+   ],
+   "top_tracks": [
+    {
+     "name": "Quebec",
+     "artists": [
+      "Drake"
+     ],
+     "album": "HABIBTI (FOMO)",
+     "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+     "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+     "name": "SaWaDiKa",
+     "artists": [
+      "LISA"
+     ],
+     "album": "SaWaDiKa",
+     "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+     "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+     "name": "Hotel California - 2013 Remaster",
+     "artists": [
+      "Eagles"
+     ],
+     "album": "Hotel California (2013 Remaster)",
+     "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
+     "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+    },
+    {
+     "name": "Boom Shaka",
+     "artists": [
+      "KR$NA",
+      "Dhanda Nyoliwala"
+     ],
+     "album": "Boom Shaka",
+     "image": "https://i.scdn.co/image/ab67616d0000485113dcb5da9470852eb67f1783",
+     "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
+    },
+    {
+     "name": "Housewife",
+     "artists": [
+      "Tate McRae"
+     ],
+     "album": "Housewife",
+     "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+     "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    }
+   ],
+   "top_genres": []
+  },
+  "medium_term": {
+   "top_artists": [
+    {
+     "name": "Drake",
+     "image": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
+     "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+     "name": "Taylor Swift",
+     "image": "https://i.scdn.co/image/ab6761610000f17812184bdd29403de54cb9d9c7",
+     "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+     "name": "Olivia Rodrigo",
+     "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
+     "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    },
+    {
+     "name": "Justin Bieber",
+     "image": "https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034",
+     "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+    }
+   ],
+   "top_tracks": [
+    {
+     "name": "Quebec",
+     "artists": [
+      "Drake"
+     ],
+     "album": "HABIBTI (FOMO)",
+     "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+     "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+     "name": "SaWaDiKa",
+     "artists": [
+      "LISA"
+     ],
+     "album": "SaWaDiKa",
+     "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+     "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+     "name": "Jungle",
+     "artists": [
+      "Drake"
+     ],
+     "album": "If You're Reading This It's Too Late",
+     "image": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+     "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+    },
+    {
+     "name": "Feel No Ways",
+     "artists": [
+      "Drake"
+     ],
+     "album": "Views",
+     "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+     "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+     "name": "BIRDS OF A FEATHER",
+     "artists": [
+      "Billie Eilish"
+     ],
+     "album": "HIT ME HARD AND SOFT",
+     "image": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+     "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    }
+   ],
+   "top_genres": []
+  },
+  "long_term": {
+   "top_artists": [
+    {
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    },
+    {
+     "name": "Drake",
+     "image": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
+     "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+     "name": "Taylor Swift",
+     "image": "https://i.scdn.co/image/ab6761610000f17812184bdd29403de54cb9d9c7",
+     "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+     "name": "The Weeknd",
+     "image": "https://i.scdn.co/image/ab6761610000f178c1719ac9e6a75c1c25835018",
+     "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+     "name": "NF",
+     "image": "https://i.scdn.co/image/ab6761610000f1788fcc5c49d2116d7251ecbd65",
+     "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+    }
+   ],
+   "top_tracks": [
+    {
+     "name": "DtMF",
+     "artists": [
+      "Bad Bunny"
+     ],
+     "album": "DeBÍ TiRAR MáS FOToS",
+     "image": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+     "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+     "name": "Texas Tea",
+     "artists": [
+      "Post Malone"
+     ],
+     "album": "AUSTIN",
+     "image": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+     "url": "https://open.spotify.com/track/0cuNKdwaFrDJ4G1hYxI6aI"
+    },
+    {
+     "name": "Isis (feat. Logic)",
+     "artists": [
+      "Joyner Lucas",
+      "Logic"
+     ],
+     "album": "ADHD",
+     "image": "https://i.scdn.co/image/ab67616d00004851e7e2dac6389a96d8086ae0fe",
+     "url": "https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf"
+    },
+    {
+     "name": "Victory Anthem",
+     "artists": [
+      "Khushi TDT",
+      "Lash curry",
+      "Audiocrackerr"
+     ],
+     "album": "Victory Anthem",
+     "image": "https://i.scdn.co/image/ab67616d000048510a58ce522ade54c1bc4b48a4",
+     "url": "https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ"
+    },
+    {
+     "name": "Quebec",
+     "artists": [
+      "Drake"
+     ],
+     "album": "HABIBTI (FOMO)",
+     "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+     "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    }
+   ],
+   "top_genres": []
+  }
+ },
+ "top_genres": [],
+ "updated_at": "2026-10-26T21:37:47+00:00"
 }
