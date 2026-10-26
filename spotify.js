@@ -57,7 +57,7 @@
           let html = tracks[0] ? player(tracks[0]) : '';
           html += `<section class="stats-section"><h3>Top artists</h3>${artists.length ? `<ol class="tracks round">${artists.map((artist,index) => row(artist.name,'',artist.image,artist.url,index + 1)).join('')}</ol>` : '<p class="muted">No artist rankings available for this period.</p>'}</section>`;
           html += `<section class="stats-section"><h3>Top tracks</h3>${tracks.length ? `<ol class="tracks">${tracks.map((track,index) => row(track.name,(track.artists || []).join(', '),track.image,track.url,index + 1)).join('')}</ol>` : '<p class="muted">No track rankings available for this period.</p>'}</section>`;
-          html += `<section class="stats-section"><h3>Top genres</h3>${genres.length ? `<ol class="genre-list">${genres.map(genre => `<li>${esc(genre.name)}</li>`).join('')}</ol><p class="muted genre-note">Based on genres shared by your top artists.</p>` : '<p class="muted">Genre stats aren’t available yet.</p>'}</section>`;
+          html += `<section class="stats-section"><h3>Top genres</h3>${genres.length ? `<ol class="genre-list">${genres.map(genre => `<li>${esc(genre.name)}</li>`).join('')}</ol><p class="muted genre-note">Based on genres shared by your top artists.</p>` : '<p class="muted">Spotify hasn’t provided genre data for this period.</p>'}</section>`;
           panel.innerHTML = html;
         }
         const updated = ago(data.updated_at);
