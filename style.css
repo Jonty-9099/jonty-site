@@ -26,3 +26,4 @@ body{transition:opacity .25s}body.leaving{opacity:0}
 @media(max-width:640px){.page{padding:0 18px 60px}h1{font-size:34px}.avatar{width:96px;height:96px;margin-top:-48px}.grid{grid-template-columns:repeat(2,1fr)}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.in{opacity:1;transform:none}}
 .avatar img{width:100%;height:100%;object-fit:cover;border-radius:3px;display:block}.avatar:has(img){padding:0;overflow:hidden}
+.cover .cover-img{background:url(img/cover.jpg) center 50%/cover no-repeat}
