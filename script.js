@@ -1,7 +1,7 @@
 const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const $ = s => document.querySelector(s);
 // intro focus pull
-requestAnimationFrame(() => setTimeout(() => document.body.classList.remove('loading'), reduce ? 0 : 250));
+if (reduce) document.body.classList.remove('loading'); else setTimeout(() => document.body.classList.remove('loading'), 250);
 // clock
 const clk = $('#clock'); const tick = () => clk.textContent = new Date().toTimeString().slice(0, 8); tick(); setInterval(tick, 1000);
 // film roll placeholders
@@ -14,7 +14,7 @@ function go(m){
   document.querySelectorAll('.mode').forEach(s => s.classList.toggle('active', s.dataset.mode === m));
   document.querySelectorAll('.dial button').forEach(b => b.classList.toggle('on', b.dataset.go === m));
   const [i,s,a] = exp[m]; $('#iso').textContent=i; $('#sh').textContent=s; $('#ap').textContent=a;
-  refocus(); history.replaceState(null,'', m==='home' ? location.pathname : '#'+m);
+  const on=document.querySelector('.dial .on'); on && on.scrollIntoView({inline:'nearest',block:'nearest'}); refocus(); history.replaceState(null,'', m==='home' ? location.pathname : '#'+m);
 }
 document.querySelectorAll('.dial button').forEach(b => b.addEventListener('click', () => go(b.dataset.go)));
 const start = location.hash.slice(1); if (exp[start]) go(start);

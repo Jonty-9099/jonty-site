@@ -11,7 +11,7 @@ body.refocus .scene{filter:blur(6px);transition-duration:.18s}
 .c{position:absolute;width:34px;height:34px;border:2px solid var(--ink);opacity:.9}
 .tl{top:0;left:0;border-right:0;border-bottom:0}.tr{top:0;right:0;border-left:0;border-bottom:0}.bl{bottom:0;left:0;border-right:0;border-top:0}.br{bottom:0;right:0;border-left:0;border-top:0}
 .grid{position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(33.33% - .5px),rgba(255,255,255,.08) 0,rgba(255,255,255,.08) calc(33.33% + .5px),transparent 0,transparent calc(66.66% - .5px),rgba(255,255,255,.08) 0,rgba(255,255,255,.08) calc(66.66% + .5px),transparent 0),linear-gradient(transparent calc(33.33% - .5px),rgba(255,255,255,.08) 0,rgba(255,255,255,.08) calc(33.33% + .5px),transparent 0,transparent calc(66.66% - .5px),rgba(255,255,255,.08) 0,rgba(255,255,255,.08) calc(66.66% + .5px),transparent 0)}
-.focus{position:absolute;width:120px;height:90px;left:50%;top:50%;transform:translate(-50%,-50%);pointer-events:none;transition:left .35s cubic-bezier(.2,.8,.2,1),top .35s cubic-bezier(.2,.8,.2,1),width .3s,height .3s}
+.focus{position:absolute;width:120px;height:90px;left:50%;top:50%;transform:translate(-50%,-50%);pointer-events:none;z-index:1;opacity:.7;transition:left .35s cubic-bezier(.2,.8,.2,1),top .35s cubic-bezier(.2,.8,.2,1),width .3s,height .3s}
 .focus i{position:absolute;width:16px;height:16px;border:1.5px solid var(--accent)}
 .focus i:nth-child(1){top:0;left:0;border-right:0;border-bottom:0}.focus i:nth-child(2){top:0;right:0;border-left:0;border-bottom:0}.focus i:nth-child(3){bottom:0;left:0;border-right:0;border-top:0}.focus i:nth-child(4){bottom:0;right:0;border-left:0;border-top:0}
 .focus.lock{animation:lock .4s ease}@keyframes lock{40%{transform:translate(-50%,-50%) scale(.85)}}
@@ -19,8 +19,8 @@ body.refocus .scene{filter:blur(6px);transition-duration:.18s}
 .top{top:clamp(28px,4.5vw,56px)}.bottom{bottom:clamp(86px,9vw,110px);justify-content:center;gap:clamp(16px,4vw,48px);color:var(--dim)}.bottom b{color:var(--ink);font-weight:600}
 .rec{display:flex;align-items:center;gap:8px}.rec b{width:10px;height:10px;border-radius:50%;background:var(--rec);animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
 .batt{width:28px;height:13px;border:1.5px solid var(--ink);border-radius:3px;position:relative;padding:2px}.batt::after{content:"";position:absolute;right:-4px;top:3px;width:2px;height:5px;background:var(--ink)}.batt i{display:block;height:100%;width:75%;background:var(--ink)}
-.stage{position:absolute;inset:0;display:grid;place-items:center;padding:110px 9vw 170px}
-.mode{grid-area:1/1;text-align:center;opacity:0;visibility:hidden;transform:scale(.96);filter:blur(8px);transition:opacity .6s,transform .6s cubic-bezier(.2,.8,.2,1),filter .6s,visibility 0s .6s;max-width:900px;width:100%}
+.stage{position:absolute;inset:0;z-index:2;display:grid;grid-template-columns:minmax(0,1fr);place-items:center;padding:110px 9vw 170px}
+.mode{grid-area:1/1;text-align:center;opacity:0;visibility:hidden;transform:scale(.96);filter:blur(8px);transition:opacity .6s,transform .6s cubic-bezier(.2,.8,.2,1),filter .6s,visibility 0s .6s;max-width:900px;width:100%;min-width:0}
 .mode.active{opacity:1;visibility:visible;transform:none;filter:none;transition-delay:0s}
 .kicker{font:600 12px var(--mono);letter-spacing:.3em;color:var(--accent);margin-bottom:14px}
 .name{font-size:clamp(4.5rem,16vw,12rem);font-weight:800;letter-spacing:-.05em;line-height:.9}
@@ -43,5 +43,5 @@ h2{font-size:clamp(2.6rem,8vw,5.5rem);font-weight:800;letter-spacing:-.04em;marg
 .dial button:focus-visible,.shoot:focus-visible,.xbtn:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .flash{position:fixed;inset:0;background:#fff;opacity:0;pointer-events:none;z-index:10}.flash.go{animation:flash .45s ease-out}
 @keyframes flash{0%{opacity:.95}100%{opacity:0}}
-@media(max-width:640px){.hud{font-size:11px}.stage{padding:100px 22px 160px}.c{width:24px;height:24px}.bottom{gap:14px}.dial button{padding:9px 11px;font-size:11px}}
+@media(max-width:640px){.hud{font-size:11px}.stage{padding:100px 22px 160px}.c{width:24px;height:24px}.bottom{gap:14px}.dial{gap:0;padding:4px}.dial button{padding:9px 8px;font-size:10px;letter-spacing:.04em}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}body.loading .scene{filter:none;transform:none}.rec b{opacity:1}}
