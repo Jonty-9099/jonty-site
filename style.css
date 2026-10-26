@@ -55,7 +55,7 @@ main{transition:opacity .2s}body.leaving main{opacity:0}
 .time-switch button:hover,.stats-retry:hover{background:var(--hover);color:var(--ink)}
 .time-switch button[aria-pressed="true"]{background:#efefed;color:var(--ink);font-weight:600}
 .time-switch button:focus-visible,.stats-retry:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
-.range-note,.genre-note{font-size:12px;line-height:18px;margin-top:8px}
+.genre-note{font-size:12px;line-height:18px;margin-top:8px}
 .top-player{margin-top:24px}.top-player iframe{display:block;border:0;border-radius:8px;margin-top:10px;max-width:100%}
 .player-link{display:inline-block;font-size:12px;margin-top:6px}
 #spotify .stats-section h3{font-size:20px;margin:30px 0 10px}

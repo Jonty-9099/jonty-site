@@ -4,9 +4,9 @@
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const safeUrl = url => /^https:\/\//.test(url || '') ? url : null;
   const periods = [
-    ['short_term', 'This month', 'Based on approximately the last four weeks.'],
-    ['medium_term', 'Last 6 months', 'Based on approximately the last six months.'],
-    ['long_term', 'All time', 'Spotify’s long-term ranking: about a year of listening, plus new activity.']
+    ['short_term', 'This month'],
+    ['medium_term', 'Last 6 months'],
+    ['long_term', 'Last 1 year']
   ];
   const row = (name, subtitle, image, url, rank) => {
     const art = safeUrl(image) ? `<img src="${esc(image)}" alt="" loading="lazy">` : '<span class="art"></span>';
@@ -42,12 +42,11 @@
       if (!ranges.short_term && (data.top_artists?.length || data.top_tracks?.length)) {
         ranges.short_term = {top_artists:data.top_artists || [], top_tracks:data.top_tracks || [], top_genres:data.top_genres || []};
       }
-      root.innerHTML = `<div class="time-switch" role="group" aria-label="Listening time range">${periods.map(([key,label]) => `<button type="button" data-period="${key}" aria-pressed="${key === 'short_term'}" aria-controls="listening-stats">${label}</button>`).join('')}</div><p class="range-note muted" id="range-note"></p><p class="sr-only" role="status" id="range-status"></p><div id="listening-stats"></div><p class="muted upd"></p>`;
+      root.innerHTML = `<div class="time-switch" role="group" aria-label="Listening time range">${periods.map(([key,label]) => `<button type="button" data-period="${key}" aria-pressed="${key === 'short_term'}" aria-controls="listening-stats">${label}</button>`).join('')}</div><p class="sr-only" role="status" id="range-status"></p><div id="listening-stats"></div><p class="muted upd"></p>`;
       const panel = root.querySelector('#listening-stats');
       const render = period => {
-        const [,label,note] = periods.find(([key]) => key === period);
+        const [,label] = periods.find(([key]) => key === period);
         root.querySelectorAll('[data-period]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.period === period)));
-        root.querySelector('#range-note').textContent = note;
         root.querySelector('#range-status').textContent = `Showing ${label.toLowerCase()}.`;
         const stats = ranges[period];
         if (!stats) {
