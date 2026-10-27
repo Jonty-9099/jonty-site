@@ -17,7 +17,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,-apple-sys
 .spacer{height:100px}
 .wrap{max-width:900px;margin:0 auto;padding:0 96px 270px}
 .head{position:relative}
-.avatar{width:125px;height:125px;margin-top:-70px;position:relative;border-radius:3px;overflow:hidden;background:#d9d6cf}
+.avatar{width:125px;height:125px;margin-top:-70px;position:relative;border-radius:3px;overflow:hidden;background:#d9d6cf;box-shadow:0 0 0 4px var(--bg)}
 .avatar img{width:100%;height:100%;object-fit:cover;display:block}
 .icon{font-size:78px;line-height:84px;height:84px;margin-left:3px}
 h1{font-size:35px;line-height:1.2;font-weight:700;margin:40px 0 20px;padding:2px}
