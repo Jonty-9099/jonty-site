@@ -1,106 +1,112 @@
 {
  "recently_played": [
   {
-   "name": "Quebec",
+   "name": "Back To Back",
    "artists": [
     "Drake"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-27T01:32:30.799Z"
+   "album": "Back To Back",
+   "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
+   "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK",
+   "played_at": "2026-10-27T11:46:28.200Z"
   },
   {
-   "name": "Quebec",
+   "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+   "artists": [
+    "Drake",
+    "Julia Wolf",
+    "Yeat"
+   ],
+   "album": "DOG HOUSE",
+   "image": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
+   "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la",
+   "played_at": "2026-10-27T11:15:13.957Z"
+  },
+  {
+   "name": "Different Species (feat. Gunna)",
+   "artists": [
+    "Offset",
+    "Gunna"
+   ],
+   "album": "KIARI",
+   "image": "https://i.scdn.co/image/ab67616d00004851722bdc5a6faf3af8cb7618ee",
+   "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK",
+   "played_at": "2026-10-27T11:11:39.571Z"
+  },
+  {
+   "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+   "artists": [
+    "Ty Dolla $ign",
+    "Quavo",
+    "Juicy J"
+   ],
+   "album": "TYCOON",
+   "image": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
+   "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0",
+   "played_at": "2026-10-27T11:08:34.811Z"
+  },
+  {
+   "name": "ATM",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "OCTANE",
+   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
+   "played_at": "2026-10-27T11:06:21.831Z"
+  },
+  {
+   "name": "Me & U",
+   "artists": [
+    "Tems"
+   ],
+   "album": "Born in the Wild",
+   "image": "https://i.scdn.co/image/ab67616d00004851318f971d63a3a534ee237c9f",
+   "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX",
+   "played_at": "2026-10-27T11:03:20.607Z"
+  },
+  {
+   "name": "New Bestie",
    "artists": [
     "Drake"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-26T22:36:32.548Z"
+   "album": "MAID OF HONOUR",
+   "image": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
+   "url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS",
+   "played_at": "2026-10-27T11:00:07.331Z"
   },
   {
-   "name": "Janice STFU",
+   "name": "on one tonight",
    "artists": [
-    "Drake"
+    "Gunna"
    ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
-   "played_at": "2026-10-26T19:35:24.024Z"
+   "album": "One of Wun",
+   "image": "https://i.scdn.co/image/ab67616d000048519a0cbe7c93bc691f48f356ed",
+   "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ",
+   "played_at": "2026-10-27T10:55:47.019Z"
   },
   {
-   "name": "Quebec",
+   "name": "Hurts Me",
    "artists": [
-    "Drake"
+    "Tory Lanez",
+    "Trippie Redd",
+    "Yoko Gold"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-26T11:40:40.669Z"
+   "album": "Hurts Me",
+   "image": "https://i.scdn.co/image/ab67616d000048511dba361996f5b70c1df2b4ee",
+   "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga",
+   "played_at": "2026-10-27T10:54:15.733Z"
   },
   {
-   "name": "Circles",
+   "name": "luther (with sza)",
    "artists": [
-    "Post Malone"
+    "Kendrick Lamar",
+    "SZA"
    ],
-   "album": "Hollywood's Bleeding",
-   "image": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
-   "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-   "played_at": "2026-10-26T11:37:52.243Z"
-  },
-  {
-   "name": "River (feat. Ed Sheeran)",
-   "artists": [
-    "Eminem",
-    "Ed Sheeran"
-   ],
-   "album": "Revival",
-   "image": "https://i.scdn.co/image/ab67616d00004851dee6b58d35215322626b5701",
-   "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s",
-   "played_at": "2026-10-26T10:40:17.145Z"
-  },
-  {
-   "name": "In My Feelings",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Scorpion",
-   "image": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
-   "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ",
-   "played_at": "2026-10-26T10:36:31.114Z"
-  },
-  {
-   "name": "What They Want",
-   "artists": [
-    "Russ"
-   ],
-   "album": "There's Really A Wolf",
-   "image": "https://i.scdn.co/image/ab67616d00004851cb045e684adce8d49ada4045",
-   "url": "https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv",
-   "played_at": "2026-10-26T10:33:31.796Z"
-  },
-  {
-   "name": "Blame (feat. John Newman)",
-   "artists": [
-    "Calvin Harris",
-    "John Newman"
-   ],
-   "album": "Motion",
-   "image": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
-   "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn",
-   "played_at": "2026-10-26T10:30:59.709Z"
-  },
-  {
-   "name": "Sports car",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "So Close To What",
-   "image": "https://i.scdn.co/image/ab67616d000048516c691022744f42565f6b546e",
-   "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S",
-   "played_at": "2026-10-26T10:27:26.285Z"
+   "album": "GNX",
+   "image": "https://i.scdn.co/image/ab67616d000048517e5e269471fe4a43a42e2f15",
+   "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd",
+   "played_at": "2026-10-27T10:51:54.432Z"
   }
  ],
  "top_artists": [
@@ -120,14 +126,14 @@
    "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
   },
   {
+   "name": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+   "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+  },
+  {
    "name": "Olivia Rodrigo",
    "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
    "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-  },
-  {
-   "name": "Kanye West",
-   "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-   "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
   }
  ],
  "top_tracks": [
@@ -169,13 +175,13 @@
    "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
   },
   {
-   "name": "Housewife",
+   "name": "Back To Back",
    "artists": [
-    "Tate McRae"
+    "Drake"
    ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+   "album": "Back To Back",
+   "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
+   "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
   }
  ],
  "now_playing": null,
@@ -198,14 +204,14 @@
      "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
     },
     {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
      "name": "Olivia Rodrigo",
      "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
      "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-    },
-    {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
    ],
    "top_tracks": [
@@ -247,13 +253,13 @@
      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
     },
     {
-     "name": "Housewife",
+     "name": "Back To Back",
      "artists": [
-      "Tate McRae"
+      "Drake"
      ],
-     "album": "Housewife",
-     "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
-     "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+     "album": "Back To Back",
+     "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
+     "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
     }
    ]
   },
@@ -413,5 +419,5 @@
    ]
   }
  },
- "updated_at": "2026-10-27T05:58:21+00:00"
+ "updated_at": "2026-10-27T11:55:49+00:00"
 }
