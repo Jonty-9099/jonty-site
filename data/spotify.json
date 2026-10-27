@@ -342,14 +342,14 @@
   "long_term": {
    "top_artists": [
     {
-     "name": "Post Malone",
-     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
-     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-    },
-    {
      "name": "Drake",
      "image": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
      "name": "Taylor Swift",
@@ -419,5 +419,5 @@
    ]
   }
  },
- "updated_at": "2026-10-27T11:55:49+00:00"
+ "updated_at": "2026-10-27T21:48:47+00:00"
 }
