@@ -43,9 +43,10 @@ main{transition:opacity .2s}body.leaving main{opacity:0}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.in{opacity:1;transform:none}}
 .muted{color:var(--muted)}
 .wip-note{margin-top:4px}
-/* Podcast bookmarks follow the Things I Like reference page. */
-.likes-podcasts{margin-top:66px}
-.likes-podcasts h2{font-size:26.25px;line-height:1.3;font-weight:600;margin:0;padding:3px 2px}
+/* Bookmarks follow the Things I Like reference page. */
+.likes-section{margin-top:66px}
+.likes-section+.likes-section{margin-top:40px}
+.likes-section h2{font-size:26.25px;line-height:1.3;font-weight:600;margin:0;padding:3px 2px}
 .bookmark{display:flex;min-height:94.5px;margin:8px 0;border:1px solid var(--line);border-radius:5px;overflow:hidden;color:var(--ink);text-decoration:none}
 .bookmark:hover{background:#f7f7f5}
 .bookmark:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
@@ -56,6 +57,7 @@ main{transition:opacity .2s}body.leaving main{opacity:0}
 .bookmark-domain img{width:16px;height:16px;object-fit:cover;border-radius:3px;flex:none}
 .bookmark-cover{flex:0 0 35%;min-width:0;background:#f7f7f7;display:flex;align-items:center;justify-content:center}
 .bookmark-cover img{display:block;width:100%;height:94.5px;object-fit:contain}
+.newsletter-cover{font-size:36px;color:var(--muted)}
 /* Gaming keeps the same page hierarchy, with a growing collection of heroes. */
 .gaming-section{margin-top:66px}
 .gaming-section+.gaming-section{margin-top:48px}
