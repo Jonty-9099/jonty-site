@@ -1,6 +1,16 @@
 {
  "recently_played": [
   {
+   "name": "Quebec",
+   "artists": [
+    "Drake"
+   ],
+   "album": "HABIBTI (FOMO)",
+   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
+   "played_at": "2026-10-26T22:36:32.548Z"
+  },
+  {
    "name": "Janice STFU",
    "artists": [
     "Drake"
@@ -91,16 +101,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
    "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4",
    "played_at": "2026-10-26T10:24:44.891Z"
-  },
-  {
-   "name": "Lose Control",
-   "artists": [
-    "Teddy Swims"
-   ],
-   "album": "I've Tried Everything But Therapy (Part 1)",
-   "image": "https://i.scdn.co/image/ab67616d00004851ebea8d4457c4db5b2088f287",
-   "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj",
-   "played_at": "2026-10-26T10:22:33.682Z"
   }
  ],
  "top_artists": [
@@ -141,15 +141,6 @@
    "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
   },
   {
-   "name": "SaWaDiKa",
-   "artists": [
-    "LISA"
-   ],
-   "album": "SaWaDiKa",
-   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
-   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-  },
-  {
    "name": "Hotel California - 2013 Remaster",
    "artists": [
     "Eagles"
@@ -157,6 +148,15 @@
    "album": "Hotel California (2013 Remaster)",
    "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
    "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+  },
+  {
+   "name": "SaWaDiKa",
+   "artists": [
+    "LISA"
+   ],
+   "album": "SaWaDiKa",
+   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
   },
   {
    "name": "Boom Shaka",
@@ -219,15 +219,6 @@
      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
-     "name": "SaWaDiKa",
-     "artists": [
-      "LISA"
-     ],
-     "album": "SaWaDiKa",
-     "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
-     "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
      "name": "Hotel California - 2013 Remaster",
      "artists": [
       "Eagles"
@@ -235,6 +226,15 @@
      "album": "Hotel California (2013 Remaster)",
      "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
      "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+    },
+    {
+     "name": "SaWaDiKa",
+     "artists": [
+      "LISA"
+     ],
+     "album": "SaWaDiKa",
+     "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+     "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
      "name": "Boom Shaka",
@@ -413,5 +413,5 @@
    ]
   }
  },
- "updated_at": "2026-10-26T21:37:47+00:00"
+ "updated_at": "2026-10-27T00:40:28+00:00"
 }
