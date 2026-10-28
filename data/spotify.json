@@ -1,6 +1,88 @@
 {
  "recently_played": [
   {
+   "name": "Bomb A Drop",
+   "artists": [
+    "Garmiani"
+   ],
+   "album": "Bomb A Drop",
+   "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
+   "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0",
+   "played_at": "2026-10-28T21:18:29.755Z"
+  },
+  {
+   "name": "Voodoo (feat. Walshy Fire)",
+   "artists": [
+    "Garmiani",
+    "Walshy Fire"
+   ],
+   "album": "Voodoo (feat. Walshy Fire)",
+   "image": "https://i.scdn.co/image/ab67616d000048512f150c67e996b3e5c0651401",
+   "url": "https://open.spotify.com/track/7GoFqZMmQAAitxkhK276Yj",
+   "played_at": "2026-10-28T21:16:16.607Z"
+  },
+  {
+   "name": "Banana Brain",
+   "artists": [
+    "Die Antwoord"
+   ],
+   "album": "Mount Ninji And Da Nice Time Kid",
+   "image": "https://i.scdn.co/image/ab67616d000048513439491bc71aa89888adf038",
+   "url": "https://open.spotify.com/track/6vcgMBMmbpQVj59wyLkvC7",
+   "played_at": "2026-10-28T21:13:30.841Z"
+  },
+  {
+   "name": "Roll the Bass",
+   "artists": [
+    "Major Lazer",
+    "Diplo"
+   ],
+   "album": "Peace Is The Mission",
+   "image": "https://i.scdn.co/image/ab67616d00004851d6d24aee7b49a2db98a76856",
+   "url": "https://open.spotify.com/track/2UKf3nFTnwm06g3SjUj5Sy",
+   "played_at": "2026-10-28T21:08:41.653Z"
+  },
+  {
+   "name": "Body",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "OCTANE",
+   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+   "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
+   "played_at": "2026-10-28T21:04:50.357Z"
+  },
+  {
+   "name": "WNBA",
+   "artists": [
+    "Drake"
+   ],
+   "album": "HABIBTI",
+   "image": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+   "url": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ",
+   "played_at": "2026-10-28T20:18:00.017Z"
+  },
+  {
+   "name": "Quebec",
+   "artists": [
+    "Drake"
+   ],
+   "album": "HABIBTI (FOMO)",
+   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
+   "played_at": "2026-10-28T20:14:55.900Z"
+  },
+  {
+   "name": "Father Stretch My Hands Pt. 1",
+   "artists": [
+    "Kanye West"
+   ],
+   "album": "The Life Of Pablo",
+   "image": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+   "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
+   "played_at": "2026-10-28T20:12:07.431Z"
+  },
+  {
    "name": "3005",
    "artists": [
     "Childish Gambino"
@@ -20,92 +102,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518c75413c7f38b3f512a75b35",
    "url": "https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux",
    "played_at": "2026-10-28T11:31:25.673Z"
-  },
-  {
-   "name": "Bitch, Don’t Kill My Vibe",
-   "artists": [
-    "Kendrick Lamar"
-   ],
-   "album": "good kid, m.A.A.d city",
-   "image": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
-   "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh",
-   "played_at": "2026-10-28T11:28:41.347Z"
-  },
-  {
-   "name": "Feel No Ways",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Views",
-   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-   "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP",
-   "played_at": "2026-10-28T11:24:21.577Z"
-  },
-  {
-   "name": "Cannonball (feat. Don Toliver)",
-   "artists": [
-    "Lithe",
-    "Don Toliver"
-   ],
-   "album": "Euphoria",
-   "image": "https://i.scdn.co/image/ab67616d000048516e55e96ec8ad83f85d467469",
-   "url": "https://open.spotify.com/track/7sEnjOJydpPeYjt2csODOj",
-   "played_at": "2026-10-28T11:20:16.051Z"
-  },
-  {
-   "name": "Solar Eclipse (feat. Don Toliver)",
-   "artists": [
-    "Drake",
-    "Don Toliver"
-   ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-   "played_at": "2026-10-28T10:10:41.243Z"
-  },
-  {
-   "name": "Aston Martin Music - Edit",
-   "artists": [
-    "Rick Ross",
-    "Drake",
-    "Chrisette Michele"
-   ],
-   "album": "Teflon Don",
-   "image": "https://i.scdn.co/image/ab67616d00004851e46788cda619885b8dd80b6a",
-   "url": "https://open.spotify.com/track/3ZF3TivVsS8MZ7wD0ZT3ZA",
-   "played_at": "2026-10-28T10:07:02.347Z"
-  },
-  {
-   "name": "GET EVEN (feat. GIVEON)",
-   "artists": [
-    "The Kid LAROI",
-    "GIVĒON"
-   ],
-   "album": "GET EVEN",
-   "image": "https://i.scdn.co/image/ab67616d000048514aab7d186fccafb0b06fbc47",
-   "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-   "played_at": "2026-10-28T10:02:31.252Z"
-  },
-  {
-   "name": "Every Night (feat. Don Toliver)",
-   "artists": [
-    "Offset",
-    "Don Toliver"
-   ],
-   "album": "Every Night (feat. Don Toliver)",
-   "image": "https://i.scdn.co/image/ab67616d00004851f48afa2cdf2f552f2d4e2164",
-   "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k",
-   "played_at": "2026-10-28T09:59:41.756Z"
-  },
-  {
-   "name": "ATM",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-10-28T09:56:56.514Z"
   }
  ],
  "top_artists": [
@@ -155,15 +151,6 @@
    "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
   },
   {
-   "name": "SaWaDiKa",
-   "artists": [
-    "LISA"
-   ],
-   "album": "SaWaDiKa",
-   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
-   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-  },
-  {
    "name": "Boom Shaka",
    "artists": [
     "KR$NA",
@@ -181,6 +168,15 @@
    "album": "Back To Back",
    "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+  },
+  {
+   "name": "Housewife",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "Housewife",
+   "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
   }
  ],
  "now_playing": null,
@@ -233,15 +229,6 @@
      "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
     },
     {
-     "name": "SaWaDiKa",
-     "artists": [
-      "LISA"
-     ],
-     "album": "SaWaDiKa",
-     "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
-     "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
      "name": "Boom Shaka",
      "artists": [
       "KR$NA",
@@ -259,6 +246,15 @@
      "album": "Back To Back",
      "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+    },
+    {
+     "name": "Housewife",
+     "artists": [
+      "Tate McRae"
+     ],
+     "album": "Housewife",
+     "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+     "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     }
    ]
   },
@@ -418,5 +414,5 @@
    ]
   }
  },
- "updated_at": "2026-10-28T13:49:17+00:00"
+ "updated_at": "2026-10-28T23:23:42+00:00"
 }
