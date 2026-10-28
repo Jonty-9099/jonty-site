@@ -1,61 +1,101 @@
 {
  "recently_played": [
   {
-   "name": "Cold Shoulder",
+   "name": "3005",
    "artists": [
-    "Drake",
-    "Don Toliver",
-    "Yebba"
+    "Childish Gambino"
    ],
-   "album": "Cold Shoulder",
-   "image": "https://i.scdn.co/image/ab6742d3000052b7594e2f5bfff0fdd2281b381c",
-   "url": "https://open.spotify.com/track/3bsa6vaFDGt0KlE8540RWO",
-   "played_at": "2026-10-27T22:11:44.497Z"
+   "album": "Because the Internet",
+   "image": "https://i.scdn.co/image/ab67616d0000485121b2b485aef32bcc96c1875c",
+   "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
+   "played_at": "2026-10-28T11:35:14.020Z"
   },
   {
-   "name": "Back To Back",
+   "name": "Both (feat. Drake)",
+   "artists": [
+    "Gucci Mane",
+    "Drake"
+   ],
+   "album": "The Return of East Atlanta Santa",
+   "image": "https://i.scdn.co/image/ab67616d000048518c75413c7f38b3f512a75b35",
+   "url": "https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux",
+   "played_at": "2026-10-28T11:31:25.673Z"
+  },
+  {
+   "name": "Bitch, Don’t Kill My Vibe",
+   "artists": [
+    "Kendrick Lamar"
+   ],
+   "album": "good kid, m.A.A.d city",
+   "image": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
+   "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh",
+   "played_at": "2026-10-28T11:28:41.347Z"
+  },
+  {
+   "name": "Feel No Ways",
    "artists": [
     "Drake"
    ],
-   "album": "Back To Back",
-   "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
-   "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK",
-   "played_at": "2026-10-27T11:46:28.200Z"
+   "album": "Views",
+   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+   "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP",
+   "played_at": "2026-10-28T11:24:21.577Z"
   },
   {
-   "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+   "name": "Cannonball (feat. Don Toliver)",
+   "artists": [
+    "Lithe",
+    "Don Toliver"
+   ],
+   "album": "Euphoria",
+   "image": "https://i.scdn.co/image/ab67616d000048516e55e96ec8ad83f85d467469",
+   "url": "https://open.spotify.com/track/7sEnjOJydpPeYjt2csODOj",
+   "played_at": "2026-10-28T11:20:16.051Z"
+  },
+  {
+   "name": "Solar Eclipse (feat. Don Toliver)",
    "artists": [
     "Drake",
-    "Julia Wolf",
-    "Yeat"
+    "Don Toliver"
    ],
-   "album": "DOG HOUSE",
-   "image": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
-   "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la",
-   "played_at": "2026-10-27T11:15:13.957Z"
+   "album": "HABIBTI (FOMO)",
+   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+   "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+   "played_at": "2026-10-28T10:10:41.243Z"
   },
   {
-   "name": "Different Species (feat. Gunna)",
+   "name": "Aston Martin Music - Edit",
+   "artists": [
+    "Rick Ross",
+    "Drake",
+    "Chrisette Michele"
+   ],
+   "album": "Teflon Don",
+   "image": "https://i.scdn.co/image/ab67616d00004851e46788cda619885b8dd80b6a",
+   "url": "https://open.spotify.com/track/3ZF3TivVsS8MZ7wD0ZT3ZA",
+   "played_at": "2026-10-28T10:07:02.347Z"
+  },
+  {
+   "name": "GET EVEN (feat. GIVEON)",
+   "artists": [
+    "The Kid LAROI",
+    "GIVĒON"
+   ],
+   "album": "GET EVEN",
+   "image": "https://i.scdn.co/image/ab67616d000048514aab7d186fccafb0b06fbc47",
+   "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+   "played_at": "2026-10-28T10:02:31.252Z"
+  },
+  {
+   "name": "Every Night (feat. Don Toliver)",
    "artists": [
     "Offset",
-    "Gunna"
+    "Don Toliver"
    ],
-   "album": "KIARI",
-   "image": "https://i.scdn.co/image/ab67616d00004851722bdc5a6faf3af8cb7618ee",
-   "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK",
-   "played_at": "2026-10-27T11:11:39.571Z"
-  },
-  {
-   "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-   "artists": [
-    "Ty Dolla $ign",
-    "Quavo",
-    "Juicy J"
-   ],
-   "album": "TYCOON",
-   "image": "https://i.scdn.co/image/ab67616d00004851712be553f73989a1b7607674",
-   "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0",
-   "played_at": "2026-10-27T11:08:34.811Z"
+   "album": "Every Night (feat. Don Toliver)",
+   "image": "https://i.scdn.co/image/ab67616d00004851f48afa2cdf2f552f2d4e2164",
+   "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k",
+   "played_at": "2026-10-28T09:59:41.756Z"
   },
   {
    "name": "ATM",
@@ -65,49 +105,7 @@
    "album": "OCTANE",
    "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
    "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-10-27T11:06:21.831Z"
-  },
-  {
-   "name": "Me & U",
-   "artists": [
-    "Tems"
-   ],
-   "album": "Born in the Wild",
-   "image": "https://i.scdn.co/image/ab67616d00004851318f971d63a3a534ee237c9f",
-   "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX",
-   "played_at": "2026-10-27T11:03:20.607Z"
-  },
-  {
-   "name": "New Bestie",
-   "artists": [
-    "Drake"
-   ],
-   "album": "MAID OF HONOUR",
-   "image": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
-   "url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS",
-   "played_at": "2026-10-27T11:00:07.331Z"
-  },
-  {
-   "name": "on one tonight",
-   "artists": [
-    "Gunna"
-   ],
-   "album": "One of Wun",
-   "image": "https://i.scdn.co/image/ab67616d000048519a0cbe7c93bc691f48f356ed",
-   "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ",
-   "played_at": "2026-10-27T10:55:47.019Z"
-  },
-  {
-   "name": "Hurts Me",
-   "artists": [
-    "Tory Lanez",
-    "Trippie Redd",
-    "Yoko Gold"
-   ],
-   "album": "Hurts Me",
-   "image": "https://i.scdn.co/image/ab67616d000048511dba361996f5b70c1df2b4ee",
-   "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga",
-   "played_at": "2026-10-27T10:54:15.733Z"
+   "played_at": "2026-10-28T09:56:56.514Z"
   }
  ],
  "top_artists": [
@@ -132,9 +130,9 @@
    "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
   },
   {
-   "name": "Olivia Rodrigo",
-   "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
-   "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+   "name": "Kanye West",
+   "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+   "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
   }
  ],
  "top_tracks": [
@@ -210,9 +208,9 @@
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
     },
     {
-     "name": "Olivia Rodrigo",
-     "image": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
-     "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
    ],
    "top_tracks": [
@@ -420,5 +418,5 @@
    ]
   }
  },
- "updated_at": "2026-10-28T00:58:12+00:00"
+ "updated_at": "2026-10-28T13:49:17+00:00"
 }
