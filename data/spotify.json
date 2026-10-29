@@ -1,107 +1,105 @@
 {
  "recently_played": [
   {
-   "name": "Bomb A Drop",
-   "artists": [
-    "Garmiani"
-   ],
-   "album": "Bomb A Drop",
-   "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
-   "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0",
-   "played_at": "2026-10-28T21:18:29.755Z"
-  },
-  {
-   "name": "Voodoo (feat. Walshy Fire)",
-   "artists": [
-    "Garmiani",
-    "Walshy Fire"
-   ],
-   "album": "Voodoo (feat. Walshy Fire)",
-   "image": "https://i.scdn.co/image/ab67616d000048512f150c67e996b3e5c0651401",
-   "url": "https://open.spotify.com/track/7GoFqZMmQAAitxkhK276Yj",
-   "played_at": "2026-10-28T21:16:16.607Z"
-  },
-  {
-   "name": "Banana Brain",
-   "artists": [
-    "Die Antwoord"
-   ],
-   "album": "Mount Ninji And Da Nice Time Kid",
-   "image": "https://i.scdn.co/image/ab67616d000048513439491bc71aa89888adf038",
-   "url": "https://open.spotify.com/track/6vcgMBMmbpQVj59wyLkvC7",
-   "played_at": "2026-10-28T21:13:30.841Z"
-  },
-  {
-   "name": "Roll the Bass",
-   "artists": [
-    "Major Lazer",
-    "Diplo"
-   ],
-   "album": "Peace Is The Mission",
-   "image": "https://i.scdn.co/image/ab67616d00004851d6d24aee7b49a2db98a76856",
-   "url": "https://open.spotify.com/track/2UKf3nFTnwm06g3SjUj5Sy",
-   "played_at": "2026-10-28T21:08:41.653Z"
-  },
-  {
-   "name": "Body",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
-   "played_at": "2026-10-28T21:04:50.357Z"
-  },
-  {
-   "name": "WNBA",
+   "name": "Passionfruit",
    "artists": [
     "Drake"
    ],
-   "album": "HABIBTI",
-   "image": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
-   "url": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ",
-   "played_at": "2026-10-28T20:18:00.017Z"
+   "album": "More Life",
+   "image": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+   "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
+   "played_at": "2026-10-29T14:49:13.640Z"
   },
   {
-   "name": "Quebec",
+   "name": "Virginia Beach",
    "artists": [
     "Drake"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-28T20:14:55.900Z"
+   "album": "For All The Dogs",
+   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+   "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed",
+   "played_at": "2026-10-29T11:10:15.762Z"
   },
   {
-   "name": "Father Stretch My Hands Pt. 1",
+   "name": "one of wun",
    "artists": [
-    "Kanye West"
+    "Gunna"
    ],
-   "album": "The Life Of Pablo",
-   "image": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
-   "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
-   "played_at": "2026-10-28T20:12:07.431Z"
+   "album": "One of Wun",
+   "image": "https://i.scdn.co/image/ab67616d000048519a0cbe7c93bc691f48f356ed",
+   "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36",
+   "played_at": "2026-10-29T11:05:56.523Z"
   },
   {
-   "name": "3005",
+   "name": "Unforgettable",
    "artists": [
-    "Childish Gambino"
+    "French Montana",
+    "Swae Lee"
    ],
-   "album": "Because the Internet",
-   "image": "https://i.scdn.co/image/ab67616d0000485121b2b485aef32bcc96c1875c",
-   "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
-   "played_at": "2026-10-28T11:35:14.020Z"
+   "album": "Jungle Rules",
+   "image": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
+   "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
+   "played_at": "2026-10-29T11:03:39.210Z"
   },
   {
-   "name": "Both (feat. Drake)",
+   "name": "Dreams - 2004 Remaster",
    "artists": [
-    "Gucci Mane",
+    "Fleetwood Mac"
+   ],
+   "album": "Rumours (Super Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+   "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+   "played_at": "2026-10-29T10:59:44.090Z"
+  },
+  {
+   "name": "Me You",
+   "artists": [
+    "Russ"
+   ],
+   "album": "There's Really A Wolf",
+   "image": "https://i.scdn.co/image/ab67616d00004851cb045e684adce8d49ada4045",
+   "url": "https://open.spotify.com/track/4f1QbCjIAgQwnf7ms9NXWx",
+   "played_at": "2026-10-29T10:17:52.207Z"
+  },
+  {
+   "name": "Boston",
+   "artists": [
+    "STELLA LEFTY"
+   ],
+   "album": "Long Way Home",
+   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
+   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
+   "played_at": "2026-10-29T10:15:30.780Z"
+  },
+  {
+   "name": "2 Hard 4 The Radio",
+   "artists": [
     "Drake"
    ],
-   "album": "The Return of East Atlanta Santa",
-   "image": "https://i.scdn.co/image/ab67616d000048518c75413c7f38b3f512a75b35",
-   "url": "https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux",
-   "played_at": "2026-10-28T11:31:25.673Z"
+   "album": "ICEMAN",
+   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
+   "played_at": "2026-10-29T10:12:54.508Z"
+  },
+  {
+   "name": "Choosin' Texas",
+   "artists": [
+    "Ella Langley"
+   ],
+   "album": "Dandelion",
+   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
+   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+   "played_at": "2026-10-29T10:10:11.361Z"
+  },
+  {
+   "name": "It's ok I'm ok",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "So Close To What",
+   "image": "https://i.scdn.co/image/ab67616d0000485130420759f1a2cd4923c5c65b",
+   "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII",
+   "played_at": "2026-10-29T10:06:22.799Z"
   }
  ],
  "top_artists": [
@@ -414,5 +412,5 @@
    ]
   }
  },
- "updated_at": "2026-10-28T23:23:42+00:00"
+ "updated_at": "2026-10-29T16:19:24+00:00"
 }
