@@ -1,6 +1,16 @@
 {
  "recently_played": [
   {
+   "name": "Bomb A Drop",
+   "artists": [
+    "Garmiani"
+   ],
+   "album": "Bomb A Drop",
+   "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
+   "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0",
+   "played_at": "2026-10-29T21:14:58.298Z"
+  },
+  {
    "name": "Passionfruit",
    "artists": [
     "Drake"
@@ -90,16 +100,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
    "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
    "played_at": "2026-10-29T10:10:11.361Z"
-  },
-  {
-   "name": "It's ok I'm ok",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "So Close To What",
-   "image": "https://i.scdn.co/image/ab67616d0000485130420759f1a2cd4923c5c65b",
-   "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII",
-   "played_at": "2026-10-29T10:06:22.799Z"
   }
  ],
  "top_artists": [
@@ -177,7 +177,17 @@
    "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
   }
  ],
- "now_playing": null,
+ "now_playing": {
+  "name": "Badam",
+  "artists": [
+   "Hardwell",
+   "Henry Fong",
+   "Mr. Vegas"
+  ],
+  "album": "Badam",
+  "image": "https://i.scdn.co/image/ab67616d0000485117e9618310a36cbef8c64e15",
+  "url": "https://open.spotify.com/track/4ZL4wNBwvecBOVVSq0HNLp"
+ },
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -412,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-10-29T16:19:24+00:00"
+ "updated_at": "2026-10-29T21:17:48+00:00"
 }
