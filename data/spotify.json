@@ -1,6 +1,28 @@
 {
  "recently_played": [
   {
+   "name": "Pump",
+   "artists": [
+    "Valentino Khan"
+   ],
+   "album": "Pump",
+   "image": "https://i.scdn.co/image/ab67616d000048511723f57ad87539d2097a5c23",
+   "url": "https://open.spotify.com/track/0N98QCESfFA46B7a6TTZKq",
+   "played_at": "2026-10-29T21:21:09.243Z"
+  },
+  {
+   "name": "Badam",
+   "artists": [
+    "Hardwell",
+    "Henry Fong",
+    "Mr. Vegas"
+   ],
+   "album": "Badam",
+   "image": "https://i.scdn.co/image/ab67616d0000485117e9618310a36cbef8c64e15",
+   "url": "https://open.spotify.com/track/4ZL4wNBwvecBOVVSq0HNLp",
+   "played_at": "2026-10-29T21:17:51.227Z"
+  },
+  {
    "name": "Bomb A Drop",
    "artists": [
     "Garmiani"
@@ -80,26 +102,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
    "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
    "played_at": "2026-10-29T10:15:30.780Z"
-  },
-  {
-   "name": "2 Hard 4 The Radio",
-   "artists": [
-    "Drake"
-   ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
-   "played_at": "2026-10-29T10:12:54.508Z"
-  },
-  {
-   "name": "Choosin' Texas",
-   "artists": [
-    "Ella Langley"
-   ],
-   "album": "Dandelion",
-   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
-   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
-   "played_at": "2026-10-29T10:10:11.361Z"
   }
  ],
  "top_artists": [
@@ -177,17 +179,7 @@
    "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
   }
  ],
- "now_playing": {
-  "name": "Badam",
-  "artists": [
-   "Hardwell",
-   "Henry Fong",
-   "Mr. Vegas"
-  ],
-  "album": "Badam",
-  "image": "https://i.scdn.co/image/ab67616d0000485117e9618310a36cbef8c64e15",
-  "url": "https://open.spotify.com/track/4ZL4wNBwvecBOVVSq0HNLp"
- },
+ "now_playing": null,
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -422,5 +414,5 @@
    ]
   }
  },
- "updated_at": "2026-10-29T21:17:48+00:00"
+ "updated_at": "2026-10-30T01:13:54+00:00"
 }
