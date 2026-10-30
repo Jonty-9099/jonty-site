@@ -49,7 +49,7 @@
     "Tate McRae"
    ],
    "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+   "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
    "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
    "played_at": "2026-10-30T13:55:13.709Z"
   },
@@ -115,14 +115,14 @@
    "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
   },
   {
-   "name": "Post Malone",
-   "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
-   "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-  },
-  {
    "name": "J. Cole",
    "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
    "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+  },
+  {
+   "name": "Post Malone",
+   "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+   "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
    "name": "Kendrick Lamar",
@@ -170,7 +170,7 @@
     "Tate McRae"
    ],
    "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+   "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
    "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
   },
   {
@@ -193,14 +193,14 @@
      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
-     "name": "Post Malone",
-     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
-     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-    },
-    {
      "name": "J. Cole",
      "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
      "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    {
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
      "name": "Kendrick Lamar",
@@ -248,7 +248,7 @@
       "Tate McRae"
      ],
      "album": "Housewife",
-     "image": "https://i.scdn.co/image/ab67616d000048517c6236a76fbcee4f1b8ace08",
+     "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
@@ -418,5 +418,5 @@
    ]
   }
  },
- "updated_at": "2026-10-30T19:50:32+00:00"
+ "updated_at": "2026-10-30T23:27:13+00:00"
 }
