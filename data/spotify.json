@@ -1,112 +1,110 @@
 {
  "recently_played": [
   {
-   "name": "MAATI",
+   "name": "ATM",
    "artists": [
-    "MC SQUARE",
-    "Bhaktaaa",
-    "Akshat Jakhar",
-    "Ansh4sure",
-    "Farak",
+    "Don Toliver"
+   ],
+   "album": "OCTANE",
+   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
+   "played_at": "2026-10-31T22:30:03.636Z"
+  },
+  {
+   "name": "Which One (feat. Central Cee)",
+   "artists": [
+    "Drake",
+    "Central Cee"
+   ],
+   "album": "Which One",
+   "image": "https://i.scdn.co/image/ab67616d000048518028a7b8c9fce086d4a47ba7",
+   "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT",
+   "played_at": "2026-10-31T22:27:15.939Z"
+  },
+  {
+   "name": "Tu Aake Dekhle",
+   "artists": [
+    "King"
+   ],
+   "album": "The Carnival",
+   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
+   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
+   "played_at": "2026-10-31T22:24:28.442Z"
+  },
+  {
+   "name": "Isis (feat. Logic)",
+   "artists": [
+    "Joyner Lucas",
+    "Logic"
+   ],
+   "album": "ADHD",
+   "image": "https://i.scdn.co/image/ab67616d00004851e7e2dac6389a96d8086ae0fe",
+   "url": "https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf",
+   "played_at": "2026-10-31T22:19:55.696Z"
+  },
+  {
+   "name": "I Fall Apart",
+   "artists": [
+    "Post Malone"
+   ],
+   "album": "Stoney (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+   "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh",
+   "played_at": "2026-10-31T22:16:31.616Z"
+  },
+  {
+   "name": "Sports car",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "So Close To What",
+   "image": "https://i.scdn.co/image/ab67616d000048516c691022744f42565f6b546e",
+   "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S",
+   "played_at": "2026-10-31T22:13:24.920Z"
+  },
+  {
+   "name": "LET GO",
+   "artists": [
+    "harmeeet",
     "Aditya Pushkarna"
    ],
-   "album": "Hustle 5 - Episode 11",
-   "image": "https://i.scdn.co/image/ab67616d00004851adec67116105f69f2584c01e",
-   "url": "https://open.spotify.com/track/3eipn9hnJxuCMI6U4P29ee",
-   "played_at": "2026-10-31T15:34:36.001Z"
+   "album": "Hustle 5 - Episode 7",
+   "image": "https://i.scdn.co/image/ab67616d0000485106e0ba74945f2677876bced7",
+   "url": "https://open.spotify.com/track/6rRP8palC9HZTkAKUSmJiP",
+   "played_at": "2026-10-31T22:05:10.602Z"
   },
   {
-   "name": "No Replay Value",
+   "name": "Fan Ho Gayi",
    "artists": [
-    "Dflacko",
+    "Dhadkan",
     "Aditya Pushkarna"
    ],
-   "album": "Hustle 5 - Episode 14",
-   "image": "https://i.scdn.co/image/ab67616d000048515e410926efc0f53ca7d8fb8a",
-   "url": "https://open.spotify.com/track/51FzQ9LJpQwF81lLPIJcSV",
-   "played_at": "2026-10-31T14:34:29.417Z"
+   "album": "Hustle 5 - Episode 6",
+   "image": "https://i.scdn.co/image/ab67616d000048514d07d9a8fa245fa06101dde3",
+   "url": "https://open.spotify.com/track/5P2yDhhsaDyGRgmGHr0u2Y",
+   "played_at": "2026-10-31T20:02:05.843Z"
   },
   {
-   "name": "Outsider",
+   "name": "Terrible time to meet me",
    "artists": [
-    "Dflacko",
+    "whysoKai",
     "Aditya Pushkarna"
    ],
-   "album": "Hustle 5 - Episode 19",
-   "image": "https://i.scdn.co/image/ab67616d00004851a0396fa6b2e4989ae7d39d26",
-   "url": "https://open.spotify.com/track/7bvv7BBNN2H3TMetR4lWXh",
-   "played_at": "2026-10-31T14:30:09.668Z"
+   "album": "Hustle 5 - Episode 12",
+   "image": "https://i.scdn.co/image/ab67616d000048511ee9f3042ea33753997fc607",
+   "url": "https://open.spotify.com/track/4DAu9dQcg3RYxJNXzP8pO4",
+   "played_at": "2026-10-31T19:59:16.040Z"
   },
   {
-   "name": "Insomnia",
+   "name": "Payback",
    "artists": [
-    "RIIZE"
-   ],
-   "album": "Insomnia",
-   "image": "https://i.scdn.co/image/ab67616d00004851beca8928729613742ac0246f",
-   "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW",
-   "played_at": "2026-10-31T14:21:29.870Z"
-  },
-  {
-   "name": "Dwarka Mor",
-   "artists": [
-    "Dflacko",
+    "whysoKai",
     "Aditya Pushkarna"
    ],
-   "album": "Hustle 5 - Episode 3",
-   "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
-   "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5",
-   "played_at": "2026-10-31T14:16:49.418Z"
-  },
-  {
-   "name": "Man I Need",
-   "artists": [
-    "Olivia Dean"
-   ],
-   "album": "Man I Need",
-   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
-   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-   "played_at": "2026-10-31T12:11:16.190Z"
-  },
-  {
-   "name": "Man I Need",
-   "artists": [
-    "Olivia Dean"
-   ],
-   "album": "Man I Need",
-   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
-   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-   "played_at": "2026-10-31T11:11:05.615Z"
-  },
-  {
-   "name": "Man I Need",
-   "artists": [
-    "Olivia Dean"
-   ],
-   "album": "Man I Need",
-   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
-   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-   "played_at": "2026-10-31T11:11:01.291Z"
-  },
-  {
-   "name": "A Bar Song (Tipsy)",
-   "artists": [
-    "Shaboozey"
-   ],
-   "album": "Where I've Been, Isn't Where I'm Going",
-   "image": "https://i.scdn.co/image/ab67616d00004851efa97e80fdb012456a40532c",
-   "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
-   "played_at": "2026-10-31T11:10:12.753Z"
-  },
-  {
-   "name": "A Bar Song (Tipsy)",
-   "artists": [
-    "Shaboozey"
-   ],
-   "album": "Where I've Been, Isn't Where I'm Going",
-   "image": "https://i.scdn.co/image/ab67616d00004851efa97e80fdb012456a40532c",
-   "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
-   "played_at": "2026-10-31T11:07:25.223Z"
+   "album": "Hustle 5 - Episode 6",
+   "image": "https://i.scdn.co/image/ab67616d000048514d07d9a8fa245fa06101dde3",
+   "url": "https://open.spotify.com/track/4fFBcGNvdvVe3uURfpazGv",
+   "played_at": "2026-10-31T19:54:38.443Z"
   }
  ],
  "top_artists": [
@@ -171,7 +169,7 @@
     "Tate McRae"
    ],
    "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
+   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
    "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
   },
   {
@@ -249,7 +247,7 @@
       "Tate McRae"
      ],
      "album": "Housewife",
-     "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
+     "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
@@ -419,5 +417,5 @@
    ]
   }
  },
- "updated_at": "2026-10-31T19:29:02+00:00"
+ "updated_at": "2026-10-31T22:45:40+00:00"
 }
