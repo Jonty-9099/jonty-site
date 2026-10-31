@@ -1,111 +1,108 @@
 {
  "recently_played": [
   {
-   "name": "Quebec",
+   "name": "No Replay Value",
    "artists": [
+    "Dflacko",
+    "Aditya Pushkarna"
+   ],
+   "album": "Hustle 5 - Episode 14",
+   "image": "https://i.scdn.co/image/ab67616d000048515e410926efc0f53ca7d8fb8a",
+   "url": "https://open.spotify.com/track/51FzQ9LJpQwF81lLPIJcSV",
+   "played_at": "2026-10-31T14:34:29.417Z"
+  },
+  {
+   "name": "Outsider",
+   "artists": [
+    "Dflacko",
+    "Aditya Pushkarna"
+   ],
+   "album": "Hustle 5 - Episode 19",
+   "image": "https://i.scdn.co/image/ab67616d00004851a0396fa6b2e4989ae7d39d26",
+   "url": "https://open.spotify.com/track/7bvv7BBNN2H3TMetR4lWXh",
+   "played_at": "2026-10-31T14:30:09.668Z"
+  },
+  {
+   "name": "Insomnia",
+   "artists": [
+    "RIIZE"
+   ],
+   "album": "Insomnia",
+   "image": "https://i.scdn.co/image/ab67616d00004851beca8928729613742ac0246f",
+   "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW",
+   "played_at": "2026-10-31T14:21:29.870Z"
+  },
+  {
+   "name": "Dwarka Mor",
+   "artists": [
+    "Dflacko",
+    "Aditya Pushkarna"
+   ],
+   "album": "Hustle 5 - Episode 3",
+   "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
+   "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5",
+   "played_at": "2026-10-31T14:16:49.418Z"
+  },
+  {
+   "name": "Man I Need",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "Man I Need",
+   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+   "played_at": "2026-10-31T12:11:16.190Z"
+  },
+  {
+   "name": "Man I Need",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "Man I Need",
+   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+   "played_at": "2026-10-31T11:11:05.615Z"
+  },
+  {
+   "name": "Man I Need",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "Man I Need",
+   "image": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+   "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+   "played_at": "2026-10-31T11:11:01.291Z"
+  },
+  {
+   "name": "A Bar Song (Tipsy)",
+   "artists": [
+    "Shaboozey"
+   ],
+   "album": "Where I've Been, Isn't Where I'm Going",
+   "image": "https://i.scdn.co/image/ab67616d00004851efa97e80fdb012456a40532c",
+   "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
+   "played_at": "2026-10-31T11:10:12.753Z"
+  },
+  {
+   "name": "A Bar Song (Tipsy)",
+   "artists": [
+    "Shaboozey"
+   ],
+   "album": "Where I've Been, Isn't Where I'm Going",
+   "image": "https://i.scdn.co/image/ab67616d00004851efa97e80fdb012456a40532c",
+   "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
+   "played_at": "2026-10-31T11:07:25.223Z"
+  },
+  {
+   "name": "Poetic Justice",
+   "artists": [
+    "Kendrick Lamar",
     "Drake"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-30T19:20:38.100Z"
-  },
-  {
-   "name": "Quebec",
-   "artists": [
-    "Drake"
-   ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN",
-   "played_at": "2026-10-30T19:15:51.005Z"
-  },
-  {
-   "name": "Carry Out (Featuring Justin Timberlake)",
-   "artists": [
-    "Timbaland",
-    "Justin Timberlake"
-   ],
-   "album": "Shock Value II",
-   "image": "https://i.scdn.co/image/ab67616d0000485184dfebb7e9c44520e69482de",
-   "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl",
-   "played_at": "2026-10-30T14:00:42.196Z"
-  },
-  {
-   "name": "Mi Chico - Official - Jason Derulo x Melody",
-   "artists": [
-    "DJ Goja",
-    "Jason Derulo",
-    "Melody"
-   ],
-   "album": "Mi Chico (Official - Jason Derulo x Melody)",
-   "image": "https://i.scdn.co/image/ab67616d00004851a1eddd41334d7100b94e602a",
-   "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX",
-   "played_at": "2026-10-30T13:57:13.716Z"
-  },
-  {
-   "name": "Housewife",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f6f1afd1aebea6906dd2a253",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-   "played_at": "2026-10-30T13:55:13.709Z"
-  },
-  {
-   "name": "LA CITA FRESITA 2",
-   "artists": [
-    "Grupo Aztteca",
-    "Luis R Conriquez",
-    "Oscar Maydon"
-   ],
-   "album": "LA CITA FRESITA 2",
-   "image": "https://i.scdn.co/image/ab67616d00004851902e1e5be96e1b2dd21d8ffc",
-   "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ",
-   "played_at": "2026-10-30T13:51:50.006Z"
-  },
-  {
-   "name": "ENTRE TU Y YO",
-   "artists": [
-    "Tito Double P"
-   ],
-   "album": "ENTRE TU Y YO",
-   "image": "https://i.scdn.co/image/ab67616d00004851241192f9c6eff16d211e814e",
-   "url": "https://open.spotify.com/track/5qWf1WJSGYDCdRQSCdE9Wg",
-   "played_at": "2026-10-30T13:49:01.012Z"
-  },
-  {
-   "name": "El Peor De Mis Fracasos - En Vivo",
-   "artists": [
-    "Los Del Roble",
-    "Gabito Ballesteros",
-    "El Gerry Oficial"
-   ],
-   "album": "El Peor De Mis Fracasos (En Vivo)",
-   "image": "https://i.scdn.co/image/ab67616d00004851a1f6e5ec244867686c810baf",
-   "url": "https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp",
-   "played_at": "2026-10-30T13:45:26.613Z"
-  },
-  {
-   "name": "Man in the Mirror - 2012 Remaster",
-   "artists": [
-    "Michael Jackson"
-   ],
-   "album": "Bad (Remastered)",
-   "image": "https://i.scdn.co/image/ab67616d00004851eb2087dcd1eb61f833bdedff",
-   "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt",
-   "played_at": "2026-10-30T13:40:22.764Z"
-  },
-  {
-   "name": "Man in the Mirror - 2012 Remaster",
-   "artists": [
-    "Michael Jackson"
-   ],
-   "album": "Bad (Remastered)",
-   "image": "https://i.scdn.co/image/ab67616d00004851eb2087dcd1eb61f833bdedff",
-   "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt",
-   "played_at": "2026-10-30T12:46:01.480Z"
+   "album": "good kid, m.A.A.d city (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851d58e537cea05c2156792c53d",
+   "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2",
+   "played_at": "2026-10-31T11:07:07.964Z"
   }
  ],
  "top_artists": [
@@ -386,6 +383,15 @@
      "url": "https://open.spotify.com/track/0cuNKdwaFrDJ4G1hYxI6aI"
     },
     {
+     "name": "Quebec",
+     "artists": [
+      "Drake"
+     ],
+     "album": "HABIBTI (FOMO)",
+     "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+     "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
      "name": "Isis (feat. Logic)",
      "artists": [
       "Joyner Lucas",
@@ -405,18 +411,9 @@
      "album": "Victory Anthem",
      "image": "https://i.scdn.co/image/ab67616d000048510a58ce522ade54c1bc4b48a4",
      "url": "https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ"
-    },
-    {
-     "name": "Quebec",
-     "artists": [
-      "Drake"
-     ],
-     "album": "HABIBTI (FOMO)",
-     "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-     "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     }
    ]
   }
  },
- "updated_at": "2026-10-30T23:27:13+00:00"
+ "updated_at": "2026-10-31T15:28:03+00:00"
 }
