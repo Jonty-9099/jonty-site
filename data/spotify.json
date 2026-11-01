@@ -1,6 +1,83 @@
 {
  "recently_played": [
   {
+   "name": "Feels Like Summer",
+   "artists": [
+    "Childish Gambino"
+   ],
+   "album": "Summer Pack",
+   "image": "https://i.scdn.co/image/ab67616d00004851602ca5b83fe44b68074a74b2",
+   "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr",
+   "played_at": "2026-11-01T22:39:19.890Z"
+  },
+  {
+   "name": "Congratulations",
+   "artists": [
+    "Post Malone",
+    "Quavo"
+   ],
+   "album": "Stoney (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+   "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+   "played_at": "2026-11-01T22:35:04.896Z"
+  },
+  {
+   "name": "Slime You Out (feat. SZA)",
+   "artists": [
+    "Drake",
+    "SZA"
+   ],
+   "album": "For All The Dogs",
+   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+   "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH",
+   "played_at": "2026-11-01T22:31:57.358Z"
+  },
+  {
+   "name": "Wake Up in the Sky",
+   "artists": [
+    "Gucci Mane",
+    "Bruno Mars",
+    "Kodak Black"
+   ],
+   "album": "Evil Genius",
+   "image": "https://i.scdn.co/image/ab67616d000048516e4366b5308fd1c5462eb3ab",
+   "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud",
+   "played_at": "2026-11-01T22:25:55.383Z"
+  },
+  {
+   "name": "No Pole",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "Love Sick (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76",
+   "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+   "played_at": "2026-11-01T22:22:40.154Z"
+  },
+  {
+   "name": "Love Yourz",
+   "artists": [
+    "J. Cole"
+   ],
+   "album": "2014 Forest Hills Drive",
+   "image": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
+   "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH",
+   "played_at": "2026-11-01T22:17:10.928Z"
+  },
+  {
+   "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+   "artists": [
+    "A$AP Rocky",
+    "Rod Stewart",
+    "Miguel",
+    "Mark Ronson"
+   ],
+   "album": "AT.LONG.LAST.A$AP",
+   "image": "https://i.scdn.co/image/ab67616d0000485149efdc44d0733042f8b99d57",
+   "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0",
+   "played_at": "2026-11-01T22:13:52.831Z"
+  },
+  {
    "name": "Piano Man",
    "artists": [
     "Billy Joel"
@@ -30,80 +107,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
    "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
    "played_at": "2026-11-01T15:52:28.270Z"
-  },
-  {
-   "name": "3:15 (Breathe)",
-   "artists": [
-    "Russ"
-   ],
-   "album": "3:15 (Breathe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
-   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
-   "played_at": "2026-11-01T15:47:51.368Z"
-  },
-  {
-   "name": "Excavator",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL",
-   "played_at": "2026-11-01T15:45:08.140Z"
-  },
-  {
-   "name": "Show Me Love (with Tyla)",
-   "artists": [
-    "WizTheMc",
-    "bees & honey",
-    "Tyla"
-   ],
-   "album": "Show Me Love (with Tyla)",
-   "image": "https://i.scdn.co/image/ab67616d000048513912336c044c6931b5639bf7",
-   "url": "https://open.spotify.com/track/08PxvkOIAJwMPy0GVzmBKo",
-   "played_at": "2026-11-01T15:41:41.001Z"
-  },
-  {
-   "name": "Wow.",
-   "artists": [
-    "Post Malone"
-   ],
-   "album": "Hollywood's Bleeding",
-   "image": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
-   "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg",
-   "played_at": "2026-11-01T15:38:46.378Z"
-  },
-  {
-   "name": "Austin (Boots Stop Workin')",
-   "artists": [
-    "Dasha"
-   ],
-   "album": "What Happens Now?",
-   "image": "https://i.scdn.co/image/ab67616d0000485182a775a7ac58fcd10ca9c514",
-   "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd",
-   "played_at": "2026-11-01T15:36:14.817Z"
-  },
-  {
-   "name": "DAISIES",
-   "artists": [
-    "Justin Bieber"
-   ],
-   "album": "SWAG",
-   "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
-   "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-   "played_at": "2026-11-01T15:33:45.630Z"
-  },
-  {
-   "name": "Mi Chico - Official - Jason Derulo x Melody",
-   "artists": [
-    "DJ Goja",
-    "Jason Derulo",
-    "Melody"
-   ],
-   "album": "Mi Chico (Official - Jason Derulo x Melody)",
-   "image": "https://i.scdn.co/image/ab67616d00004851a1eddd41334d7100b94e602a",
-   "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX",
-   "played_at": "2026-11-01T15:31:00.128Z"
   }
  ],
  "top_artists": [
@@ -172,14 +175,14 @@
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
   },
   {
-   "name": "Main Hoon Don - The Hustle Flip",
+   "name": "Dwarka Mor",
    "artists": [
-    "99side",
+    "Dflacko",
     "Aditya Pushkarna"
    ],
-   "album": "MTV Hustle 4 - Episode 11",
-   "image": "https://i.scdn.co/image/ab67616d00004851a706a21a29cafe0170b6281c",
-   "url": "https://open.spotify.com/track/2tXX4owmEGuBsH8DQcm56P"
+   "album": "Hustle 5 - Episode 3",
+   "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
+   "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
   }
  ],
  "now_playing": null,
@@ -251,14 +254,14 @@
      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
     },
     {
-     "name": "Main Hoon Don - The Hustle Flip",
+     "name": "Dwarka Mor",
      "artists": [
-      "99side",
+      "Dflacko",
       "Aditya Pushkarna"
      ],
-     "album": "MTV Hustle 4 - Episode 11",
-     "image": "https://i.scdn.co/image/ab67616d00004851a706a21a29cafe0170b6281c",
-     "url": "https://open.spotify.com/track/2tXX4owmEGuBsH8DQcm56P"
+     "album": "Hustle 5 - Episode 3",
+     "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
+     "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
     }
    ]
   },
@@ -418,5 +421,5 @@
    ]
   }
  },
- "updated_at": "2026-11-01T20:08:54+00:00"
+ "updated_at": "2026-11-01T23:44:28+00:00"
 }
