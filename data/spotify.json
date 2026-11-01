@@ -1,110 +1,127 @@
 {
  "recently_played": [
   {
-   "name": "ATM",
+   "name": "Run Down The City - Monica",
    "artists": [
-    "Don Toliver"
+    "Shashwat Sachdev",
+    "Reble",
+    "Asha Bhosle",
+    "R. D. Burman",
+    "Majrooh Sultanpuri"
    ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-10-31T22:30:03.636Z"
+   "album": "Dhurandhar",
+   "image": "https://i.scdn.co/image/ab67616d000048517838ccbef3fb712228e23fc5",
+   "url": "https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra",
+   "played_at": "2026-11-01T00:52:06.576Z"
   },
   {
-   "name": "Which One (feat. Central Cee)",
+   "name": "Dilbar",
    "artists": [
-    "Drake",
-    "Central Cee"
+    "Neha Kakkar",
+    "Dhvani Bhanushali",
+    "Ikka",
+    "Tanishk Bagchi",
+    "Shabbir Ahmed",
+    "Sameer Anjaan"
    ],
-   "album": "Which One",
-   "image": "https://i.scdn.co/image/ab67616d000048518028a7b8c9fce086d4a47ba7",
-   "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT",
-   "played_at": "2026-10-31T22:27:15.939Z"
+   "album": "Satyameva Jayate",
+   "image": "https://i.scdn.co/image/ab67616d00004851c85e9cfe721fb577d79a2b54",
+   "url": "https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB",
+   "played_at": "2026-11-01T00:49:50.803Z"
   },
   {
-   "name": "Tu Aake Dekhle",
+   "name": "Main Nikla Gaddi Leke",
    "artists": [
-    "King"
+    "Mithoon",
+    "Udit Narayan",
+    "Aditya Narayan",
+    "Anand Bakshi"
    ],
-   "album": "The Carnival",
-   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
-   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
-   "played_at": "2026-10-31T22:24:28.442Z"
+   "album": "Gadar 2 (Original Motion Picture Soundtrack)",
+   "image": "https://i.scdn.co/image/ab67616d000048517813b389296a4f42219a9795",
+   "url": "https://open.spotify.com/track/5GCK0hKd4TkMlxM8tFOhQv",
+   "played_at": "2026-11-01T00:46:58.548Z"
   },
   {
-   "name": "Isis (feat. Logic)",
+   "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
    "artists": [
-    "Joyner Lucas",
-    "Logic"
+    "Alka Yagnik",
+    "Lijo George",
+    "Anu Malik",
+    "Dee MC",
+    "Sonu Nigam",
+    "AKASA",
+    "Sameer Anjaan",
+    "Mohsin Shaikh"
    ],
-   "album": "ADHD",
-   "image": "https://i.scdn.co/image/ab67616d00004851e7e2dac6389a96d8086ae0fe",
-   "url": "https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf",
-   "played_at": "2026-10-31T22:19:55.696Z"
+   "album": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851d7d776922660a7fb02275fec",
+   "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg",
+   "played_at": "2026-11-01T00:39:38.746Z"
   },
   {
-   "name": "I Fall Apart",
+   "name": "Sawan Mein Lag Gayi Aag",
+   "artists": [
+    "Mika Singh",
+    "Payal Dev",
+    "Neha Kakkar",
+    "Badshah"
+   ],
+   "album": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
+   "image": "https://i.scdn.co/image/ab67616d00004851af197839541521fc4fdcb4e5",
+   "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn",
+   "played_at": "2026-11-01T00:36:56.285Z"
+  },
+  {
+   "name": "Ocean (feat. Khalid)",
+   "artists": [
+    "Martin Garrix",
+    "Khalid"
+   ],
+   "album": "Ocean (feat. Khalid)",
+   "image": "https://i.scdn.co/image/ab67616d00004851b800b91af812df0ce0dd2883",
+   "url": "https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS",
+   "played_at": "2026-11-01T00:32:49.789Z"
+  },
+  {
+   "name": "Better",
+   "artists": [
+    "Khalid"
+   ],
+   "album": "Suncity",
+   "image": "https://i.scdn.co/image/ab67616d00004851316e987210a1186c95eff23e",
+   "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
+   "played_at": "2026-11-01T00:29:24.091Z"
+  },
+  {
+   "name": "Boston",
+   "artists": [
+    "STELLA LEFTY"
+   ],
+   "album": "Long Way Home",
+   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
+   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
+   "played_at": "2026-11-01T00:18:45.558Z"
+  },
+  {
+   "name": "Go Flex",
    "artists": [
     "Post Malone"
    ],
    "album": "Stoney (Deluxe)",
    "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-   "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh",
-   "played_at": "2026-10-31T22:16:31.616Z"
+   "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ",
+   "played_at": "2026-11-01T00:16:09.302Z"
   },
   {
-   "name": "Sports car",
+   "name": "Choosin' Texas",
    "artists": [
-    "Tate McRae"
+    "Ella Langley"
    ],
-   "album": "So Close To What",
-   "image": "https://i.scdn.co/image/ab67616d000048516c691022744f42565f6b546e",
-   "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S",
-   "played_at": "2026-10-31T22:13:24.920Z"
-  },
-  {
-   "name": "LET GO",
-   "artists": [
-    "harmeeet",
-    "Aditya Pushkarna"
-   ],
-   "album": "Hustle 5 - Episode 7",
-   "image": "https://i.scdn.co/image/ab67616d0000485106e0ba74945f2677876bced7",
-   "url": "https://open.spotify.com/track/6rRP8palC9HZTkAKUSmJiP",
-   "played_at": "2026-10-31T22:05:10.602Z"
-  },
-  {
-   "name": "Fan Ho Gayi",
-   "artists": [
-    "Dhadkan",
-    "Aditya Pushkarna"
-   ],
-   "album": "Hustle 5 - Episode 6",
-   "image": "https://i.scdn.co/image/ab67616d000048514d07d9a8fa245fa06101dde3",
-   "url": "https://open.spotify.com/track/5P2yDhhsaDyGRgmGHr0u2Y",
-   "played_at": "2026-10-31T20:02:05.843Z"
-  },
-  {
-   "name": "Terrible time to meet me",
-   "artists": [
-    "whysoKai",
-    "Aditya Pushkarna"
-   ],
-   "album": "Hustle 5 - Episode 12",
-   "image": "https://i.scdn.co/image/ab67616d000048511ee9f3042ea33753997fc607",
-   "url": "https://open.spotify.com/track/4DAu9dQcg3RYxJNXzP8pO4",
-   "played_at": "2026-10-31T19:59:16.040Z"
-  },
-  {
-   "name": "Payback",
-   "artists": [
-    "whysoKai",
-    "Aditya Pushkarna"
-   ],
-   "album": "Hustle 5 - Episode 6",
-   "image": "https://i.scdn.co/image/ab67616d000048514d07d9a8fa245fa06101dde3",
-   "url": "https://open.spotify.com/track/4fFBcGNvdvVe3uURfpazGv",
-   "played_at": "2026-10-31T19:54:38.443Z"
+   "album": "Dandelion",
+   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
+   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+   "played_at": "2026-11-01T00:13:25.452Z"
   }
  ],
  "top_artists": [
@@ -114,14 +131,14 @@
    "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
   },
   {
-   "name": "J. Cole",
-   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-  },
-  {
    "name": "Post Malone",
    "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+  },
+  {
+   "name": "J. Cole",
+   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
+   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
   },
   {
    "name": "Kendrick Lamar",
@@ -192,14 +209,14 @@
      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
-     "name": "J. Cole",
-     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-    },
-    {
      "name": "Post Malone",
      "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    },
+    {
+     "name": "J. Cole",
+     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
+     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
     },
     {
      "name": "Kendrick Lamar",
@@ -417,5 +434,5 @@
    ]
   }
  },
- "updated_at": "2026-10-31T22:45:40+00:00"
+ "updated_at": "2026-11-01T01:49:58+00:00"
 }
