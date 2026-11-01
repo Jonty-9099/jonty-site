@@ -1,6 +1,57 @@
 {
  "recently_played": [
   {
+   "name": "Piano Man",
+   "artists": [
+    "Billy Joel"
+   ],
+   "album": "Piano Man (Legacy Edition)",
+   "image": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+   "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+   "played_at": "2026-11-01T16:03:54.351Z"
+  },
+  {
+   "name": "Love On The Brain",
+   "artists": [
+    "Rihanna"
+   ],
+   "album": "ANTI (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d000048516be9bac15995f089579074de",
+   "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp",
+   "played_at": "2026-11-01T15:57:42.508Z"
+  },
+  {
+   "name": "Laugh Now Cry Later (feat. Lil Durk)",
+   "artists": [
+    "Drake",
+    "Lil Durk"
+   ],
+   "album": "Laugh Now Cry Later (feat. Lil Durk)",
+   "image": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
+   "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
+   "played_at": "2026-11-01T15:52:28.270Z"
+  },
+  {
+   "name": "3:15 (Breathe)",
+   "artists": [
+    "Russ"
+   ],
+   "album": "3:15 (Breathe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
+   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
+   "played_at": "2026-11-01T15:47:51.368Z"
+  },
+  {
+   "name": "Excavator",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "OCTANE",
+   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+   "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL",
+   "played_at": "2026-11-01T15:45:08.140Z"
+  },
+  {
    "name": "Show Me Love (with Tyla)",
    "artists": [
     "WizTheMc",
@@ -53,77 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851a1eddd41334d7100b94e602a",
    "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX",
    "played_at": "2026-11-01T15:31:00.128Z"
-  },
-  {
-   "name": "Maine Tujhko Dekha",
-   "artists": [
-    "Neeraj Shridhar",
-    "Sukriti Kakar",
-    "Amaal Mallik"
-   ],
-   "album": "Maine Tujhko Dekha (From \"Golmaal Again!!!\")",
-   "image": "https://i.scdn.co/image/ab67616d0000485174af53c6e6a503f52652c428",
-   "url": "https://open.spotify.com/track/6TeQwZim9noPvf96kNwldZ",
-   "played_at": "2026-11-01T11:14:40.398Z"
-  },
-  {
-   "name": "Run Down The City - Monica",
-   "artists": [
-    "Shashwat Sachdev",
-    "Reble",
-    "Asha Bhosle",
-    "R. D. Burman",
-    "Majrooh Sultanpuri"
-   ],
-   "album": "Dhurandhar",
-   "image": "https://i.scdn.co/image/ab67616d000048517838ccbef3fb712228e23fc5",
-   "url": "https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra",
-   "played_at": "2026-11-01T00:52:06.576Z"
-  },
-  {
-   "name": "Dilbar",
-   "artists": [
-    "Neha Kakkar",
-    "Dhvani Bhanushali",
-    "Ikka",
-    "Tanishk Bagchi",
-    "Shabbir Ahmed",
-    "Sameer Anjaan"
-   ],
-   "album": "Satyameva Jayate",
-   "image": "https://i.scdn.co/image/ab67616d00004851c85e9cfe721fb577d79a2b54",
-   "url": "https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB",
-   "played_at": "2026-11-01T00:49:50.803Z"
-  },
-  {
-   "name": "Main Nikla Gaddi Leke",
-   "artists": [
-    "Mithoon",
-    "Udit Narayan",
-    "Aditya Narayan",
-    "Anand Bakshi"
-   ],
-   "album": "Gadar 2 (Original Motion Picture Soundtrack)",
-   "image": "https://i.scdn.co/image/ab67616d000048517813b389296a4f42219a9795",
-   "url": "https://open.spotify.com/track/5GCK0hKd4TkMlxM8tFOhQv",
-   "played_at": "2026-11-01T00:46:58.548Z"
-  },
-  {
-   "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
-   "artists": [
-    "Alka Yagnik",
-    "Lijo George",
-    "Anu Malik",
-    "Dee MC",
-    "Sonu Nigam",
-    "AKASA",
-    "Sameer Anjaan",
-    "Mohsin Shaikh"
-   ],
-   "album": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
-   "image": "https://i.scdn.co/image/ab67616d00004851d7d776922660a7fb02275fec",
-   "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg",
-   "played_at": "2026-11-01T00:39:38.746Z"
   }
  ],
  "top_artists": [
@@ -183,15 +163,6 @@
    "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
   },
   {
-   "name": "Housewife",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-  },
-  {
    "name": "Back To Back",
    "artists": [
     "Drake"
@@ -199,17 +170,19 @@
    "album": "Back To Back",
    "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+  },
+  {
+   "name": "Main Hoon Don - The Hustle Flip",
+   "artists": [
+    "99side",
+    "Aditya Pushkarna"
+   ],
+   "album": "MTV Hustle 4 - Episode 11",
+   "image": "https://i.scdn.co/image/ab67616d00004851a706a21a29cafe0170b6281c",
+   "url": "https://open.spotify.com/track/2tXX4owmEGuBsH8DQcm56P"
   }
  ],
- "now_playing": {
-  "name": "Excavator",
-  "artists": [
-   "Don Toliver"
-  ],
-  "album": "OCTANE",
-  "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-  "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
- },
+ "now_playing": null,
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -269,15 +242,6 @@
      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
     },
     {
-     "name": "Housewife",
-     "artists": [
-      "Tate McRae"
-     ],
-     "album": "Housewife",
-     "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-     "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
      "name": "Back To Back",
      "artists": [
       "Drake"
@@ -285,6 +249,16 @@
      "album": "Back To Back",
      "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+    },
+    {
+     "name": "Main Hoon Don - The Hustle Flip",
+     "artists": [
+      "99side",
+      "Aditya Pushkarna"
+     ],
+     "album": "MTV Hustle 4 - Episode 11",
+     "image": "https://i.scdn.co/image/ab67616d00004851a706a21a29cafe0170b6281c",
+     "url": "https://open.spotify.com/track/2tXX4owmEGuBsH8DQcm56P"
     }
    ]
   },
@@ -444,5 +418,5 @@
    ]
   }
  },
- "updated_at": "2026-11-01T15:44:32+00:00"
+ "updated_at": "2026-11-01T20:08:54+00:00"
 }
