@@ -1,6 +1,72 @@
 {
  "recently_played": [
   {
+   "name": "Show Me Love (with Tyla)",
+   "artists": [
+    "WizTheMc",
+    "bees & honey",
+    "Tyla"
+   ],
+   "album": "Show Me Love (with Tyla)",
+   "image": "https://i.scdn.co/image/ab67616d000048513912336c044c6931b5639bf7",
+   "url": "https://open.spotify.com/track/08PxvkOIAJwMPy0GVzmBKo",
+   "played_at": "2026-11-01T15:41:41.001Z"
+  },
+  {
+   "name": "Wow.",
+   "artists": [
+    "Post Malone"
+   ],
+   "album": "Hollywood's Bleeding",
+   "image": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
+   "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg",
+   "played_at": "2026-11-01T15:38:46.378Z"
+  },
+  {
+   "name": "Austin (Boots Stop Workin')",
+   "artists": [
+    "Dasha"
+   ],
+   "album": "What Happens Now?",
+   "image": "https://i.scdn.co/image/ab67616d0000485182a775a7ac58fcd10ca9c514",
+   "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd",
+   "played_at": "2026-11-01T15:36:14.817Z"
+  },
+  {
+   "name": "DAISIES",
+   "artists": [
+    "Justin Bieber"
+   ],
+   "album": "SWAG",
+   "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
+   "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+   "played_at": "2026-11-01T15:33:45.630Z"
+  },
+  {
+   "name": "Mi Chico - Official - Jason Derulo x Melody",
+   "artists": [
+    "DJ Goja",
+    "Jason Derulo",
+    "Melody"
+   ],
+   "album": "Mi Chico (Official - Jason Derulo x Melody)",
+   "image": "https://i.scdn.co/image/ab67616d00004851a1eddd41334d7100b94e602a",
+   "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX",
+   "played_at": "2026-11-01T15:31:00.128Z"
+  },
+  {
+   "name": "Maine Tujhko Dekha",
+   "artists": [
+    "Neeraj Shridhar",
+    "Sukriti Kakar",
+    "Amaal Mallik"
+   ],
+   "album": "Maine Tujhko Dekha (From \"Golmaal Again!!!\")",
+   "image": "https://i.scdn.co/image/ab67616d0000485174af53c6e6a503f52652c428",
+   "url": "https://open.spotify.com/track/6TeQwZim9noPvf96kNwldZ",
+   "played_at": "2026-11-01T11:14:40.398Z"
+  },
+  {
    "name": "Run Down The City - Monica",
    "artists": [
     "Shashwat Sachdev",
@@ -58,70 +124,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851d7d776922660a7fb02275fec",
    "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg",
    "played_at": "2026-11-01T00:39:38.746Z"
-  },
-  {
-   "name": "Sawan Mein Lag Gayi Aag",
-   "artists": [
-    "Mika Singh",
-    "Payal Dev",
-    "Neha Kakkar",
-    "Badshah"
-   ],
-   "album": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
-   "image": "https://i.scdn.co/image/ab67616d00004851af197839541521fc4fdcb4e5",
-   "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn",
-   "played_at": "2026-11-01T00:36:56.285Z"
-  },
-  {
-   "name": "Ocean (feat. Khalid)",
-   "artists": [
-    "Martin Garrix",
-    "Khalid"
-   ],
-   "album": "Ocean (feat. Khalid)",
-   "image": "https://i.scdn.co/image/ab67616d00004851b800b91af812df0ce0dd2883",
-   "url": "https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS",
-   "played_at": "2026-11-01T00:32:49.789Z"
-  },
-  {
-   "name": "Better",
-   "artists": [
-    "Khalid"
-   ],
-   "album": "Suncity",
-   "image": "https://i.scdn.co/image/ab67616d00004851316e987210a1186c95eff23e",
-   "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
-   "played_at": "2026-11-01T00:29:24.091Z"
-  },
-  {
-   "name": "Boston",
-   "artists": [
-    "STELLA LEFTY"
-   ],
-   "album": "Long Way Home",
-   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
-   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
-   "played_at": "2026-11-01T00:18:45.558Z"
-  },
-  {
-   "name": "Go Flex",
-   "artists": [
-    "Post Malone"
-   ],
-   "album": "Stoney (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-   "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ",
-   "played_at": "2026-11-01T00:16:09.302Z"
-  },
-  {
-   "name": "Choosin' Texas",
-   "artists": [
-    "Ella Langley"
-   ],
-   "album": "Dandelion",
-   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
-   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
-   "played_at": "2026-11-01T00:13:25.452Z"
   }
  ],
  "top_artists": [
@@ -199,7 +201,15 @@
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
   }
  ],
- "now_playing": null,
+ "now_playing": {
+  "name": "Excavator",
+  "artists": [
+   "Don Toliver"
+  ],
+  "album": "OCTANE",
+  "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+  "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
+ },
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -434,5 +444,5 @@
    ]
   }
  },
- "updated_at": "2026-11-01T01:49:58+00:00"
+ "updated_at": "2026-11-01T15:44:32+00:00"
 }
