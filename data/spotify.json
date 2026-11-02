@@ -1,6 +1,77 @@
 {
  "recently_played": [
   {
+   "name": "Revolving door",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "So Close To What",
+   "image": "https://i.scdn.co/image/ab67616d0000485130420759f1a2cd4923c5c65b",
+   "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC",
+   "played_at": "2026-11-02T11:37:06.680Z"
+  },
+  {
+   "name": "No Friends In The Industry",
+   "artists": [
+    "Drake"
+   ],
+   "album": "Certified Lover Boy",
+   "image": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+   "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
+   "played_at": "2026-11-02T11:34:09.926Z"
+  },
+  {
+   "name": "The Days - NOTION Remix",
+   "artists": [
+    "Chrystal",
+    "NOTION"
+   ],
+   "album": "The Days (NOTION Remix)",
+   "image": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
+   "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
+   "played_at": "2026-11-02T11:30:51.431Z"
+  },
+  {
+   "name": "Overdrive",
+   "artists": [
+    "Post Malone"
+   ],
+   "album": "AUSTIN",
+   "image": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
+   "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4",
+   "played_at": "2026-11-02T11:26:50.334Z"
+  },
+  {
+   "name": "So Easy (To Fall In Love)",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "The Art of Loving",
+   "image": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+   "played_at": "2026-11-02T11:24:39.237Z"
+  },
+  {
+   "name": "SaWaDiKa",
+   "artists": [
+    "LISA"
+   ],
+   "album": "SaWaDiKa",
+   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa",
+   "played_at": "2026-11-02T11:21:53.036Z"
+  },
+  {
+   "name": "Body",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "OCTANE",
+   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
+   "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
+   "played_at": "2026-11-02T11:18:44.140Z"
+  },
+  {
    "name": "Cooped Up (with Roddy Ricch)",
    "artists": [
     "Post Malone",
@@ -31,82 +102,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
    "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
    "played_at": "2026-11-01T22:35:04.896Z"
-  },
-  {
-   "name": "Slime You Out (feat. SZA)",
-   "artists": [
-    "Drake",
-    "SZA"
-   ],
-   "album": "For All The Dogs",
-   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-   "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH",
-   "played_at": "2026-11-01T22:31:57.358Z"
-  },
-  {
-   "name": "Wake Up in the Sky",
-   "artists": [
-    "Gucci Mane",
-    "Bruno Mars",
-    "Kodak Black"
-   ],
-   "album": "Evil Genius",
-   "image": "https://i.scdn.co/image/ab67616d000048516e4366b5308fd1c5462eb3ab",
-   "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud",
-   "played_at": "2026-11-01T22:25:55.383Z"
-  },
-  {
-   "name": "No Pole",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "Love Sick (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76",
-   "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-   "played_at": "2026-11-01T22:22:40.154Z"
-  },
-  {
-   "name": "Love Yourz",
-   "artists": [
-    "J. Cole"
-   ],
-   "album": "2014 Forest Hills Drive",
-   "image": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
-   "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH",
-   "played_at": "2026-11-01T22:17:10.928Z"
-  },
-  {
-   "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
-   "artists": [
-    "A$AP Rocky",
-    "Rod Stewart",
-    "Miguel",
-    "Mark Ronson"
-   ],
-   "album": "AT.LONG.LAST.A$AP",
-   "image": "https://i.scdn.co/image/ab67616d0000485149efdc44d0733042f8b99d57",
-   "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0",
-   "played_at": "2026-11-01T22:13:52.831Z"
-  },
-  {
-   "name": "Piano Man",
-   "artists": [
-    "Billy Joel"
-   ],
-   "album": "Piano Man (Legacy Edition)",
-   "image": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
-   "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
-   "played_at": "2026-11-01T16:03:54.351Z"
-  },
-  {
-   "name": "Love On The Brain",
-   "artists": [
-    "Rihanna"
-   ],
-   "album": "ANTI (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d000048516be9bac15995f089579074de",
-   "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp",
-   "played_at": "2026-11-01T15:57:42.508Z"
   }
  ],
  "top_artists": [
@@ -121,19 +116,19 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
-   "name": "J. Cole",
-   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-  },
-  {
    "name": "Kendrick Lamar",
    "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
    "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
   },
   {
-   "name": "Kanye West",
-   "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-   "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+   "name": "Don Toliver",
+   "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
+   "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+  },
+  {
+   "name": "J. Cole",
+   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
+   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
   }
  ],
  "top_tracks": [
@@ -200,19 +195,19 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
-     "name": "J. Cole",
-     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
     },
     {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+     "name": "Don Toliver",
+     "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
+     "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+     "name": "J. Cole",
+     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
+     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
     }
    ],
    "top_tracks": [
@@ -421,5 +416,5 @@
    ]
   }
  },
- "updated_at": "2026-11-02T04:22:07+00:00"
+ "updated_at": "2026-11-02T12:45:15+00:00"
 }
