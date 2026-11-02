@@ -1,6 +1,17 @@
 {
  "recently_played": [
   {
+   "name": "Cooped Up (with Roddy Ricch)",
+   "artists": [
+    "Post Malone",
+    "Roddy Ricch"
+   ],
+   "album": "Twelve Carat Toothache",
+   "image": "https://i.scdn.co/image/ab67616d0000485134362676667a4322838ccc97",
+   "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d",
+   "played_at": "2026-11-02T00:37:14.269Z"
+  },
+  {
    "name": "Feels Like Summer",
    "artists": [
     "Childish Gambino"
@@ -96,17 +107,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048516be9bac15995f089579074de",
    "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp",
    "played_at": "2026-11-01T15:57:42.508Z"
-  },
-  {
-   "name": "Laugh Now Cry Later (feat. Lil Durk)",
-   "artists": [
-    "Drake",
-    "Lil Durk"
-   ],
-   "album": "Laugh Now Cry Later (feat. Lil Durk)",
-   "image": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
-   "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
-   "played_at": "2026-11-01T15:52:28.270Z"
   }
  ],
  "top_artists": [
@@ -421,5 +421,5 @@
    ]
   }
  },
- "updated_at": "2026-11-01T23:44:28+00:00"
+ "updated_at": "2026-11-02T04:22:07+00:00"
 }
