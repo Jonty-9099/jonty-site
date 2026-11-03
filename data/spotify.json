@@ -1,6 +1,17 @@
 {
  "recently_played": [
   {
+   "name": "Take My Mind",
+   "artists": [
+    "WizTheMc",
+    "bees & honey"
+   ],
+   "album": "YEBO",
+   "image": "https://i.scdn.co/image/ab67616d00004851e2dcd3ec8545bdc7bc826051",
+   "url": "https://open.spotify.com/track/1Bd7JsVaa000lma8gslUwY",
+   "played_at": "2026-11-03T11:59:58.846Z"
+  },
+  {
    "name": "Sweater Weather",
    "artists": [
     "The Neighbourhood"
@@ -94,16 +105,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
    "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
    "played_at": "2026-11-02T11:30:51.431Z"
-  },
-  {
-   "name": "Overdrive",
-   "artists": [
-    "Post Malone"
-   ],
-   "album": "AUSTIN",
-   "image": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
-   "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4",
-   "played_at": "2026-11-02T11:26:50.334Z"
   }
  ],
  "top_artists": [
@@ -128,9 +129,9 @@
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
   },
   {
-   "name": "J. Cole",
-   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+   "name": "Kanye West",
+   "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+   "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
   }
  ],
  "top_tracks": [
@@ -207,9 +208,9 @@
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
-     "name": "J. Cole",
-     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
    ],
    "top_tracks": [
@@ -418,5 +419,5 @@
    ]
   }
  },
- "updated_at": "2026-11-03T11:36:59+00:00"
+ "updated_at": "2026-11-03T19:01:02+00:00"
 }
