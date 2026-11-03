@@ -1,6 +1,70 @@
 {
  "recently_played": [
   {
+   "name": "Sweater Weather",
+   "artists": [
+    "The Neighbourhood"
+   ],
+   "album": "I Love You.",
+   "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+   "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+   "played_at": "2026-11-03T11:20:29.895Z"
+  },
+  {
+   "name": "Home",
+   "artists": [
+    "Good Neighbours"
+   ],
+   "album": "Blue Sky Mentality",
+   "image": "https://i.scdn.co/image/ab67616d0000485144a3683d06ee71a5c63bcb4d",
+   "url": "https://open.spotify.com/track/1fLTi1wA2FPONA5SAIoKJX",
+   "played_at": "2026-11-03T11:16:37.489Z"
+  },
+  {
+   "name": "One Dance",
+   "artists": [
+    "Drake",
+    "Wizkid",
+    "Kyla"
+   ],
+   "album": "Views",
+   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+   "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+   "played_at": "2026-11-03T11:14:14.055Z"
+  },
+  {
+   "name": "Beautiful Things",
+   "artists": [
+    "Benson Boone"
+   ],
+   "album": "Fireworks & Rollerblades",
+   "image": "https://i.scdn.co/image/ab67616d00004851831949037a1db10b87b005fa",
+   "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+   "played_at": "2026-11-03T11:11:27.908Z"
+  },
+  {
+   "name": "I Had Some Help (Feat. Morgan Wallen)",
+   "artists": [
+    "Post Malone",
+    "Morgan Wallen"
+   ],
+   "album": "I Had Some Help",
+   "image": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
+   "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP",
+   "played_at": "2026-11-03T11:08:48.463Z"
+  },
+  {
+   "name": "Money Trees",
+   "artists": [
+    "Kendrick Lamar",
+    "Jay Rock"
+   ],
+   "album": "good kid, m.A.A.d city",
+   "image": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
+   "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4",
+   "played_at": "2026-11-02T23:23:32.337Z"
+  },
+  {
    "name": "Revolving door",
    "artists": [
     "Tate McRae"
@@ -40,68 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485171cae34ad5a39bdab78af13e",
    "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4",
    "played_at": "2026-11-02T11:26:50.334Z"
-  },
-  {
-   "name": "So Easy (To Fall In Love)",
-   "artists": [
-    "Olivia Dean"
-   ],
-   "album": "The Art of Loving",
-   "image": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
-   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
-   "played_at": "2026-11-02T11:24:39.237Z"
-  },
-  {
-   "name": "SaWaDiKa",
-   "artists": [
-    "LISA"
-   ],
-   "album": "SaWaDiKa",
-   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
-   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa",
-   "played_at": "2026-11-02T11:21:53.036Z"
-  },
-  {
-   "name": "Body",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
-   "played_at": "2026-11-02T11:18:44.140Z"
-  },
-  {
-   "name": "Cooped Up (with Roddy Ricch)",
-   "artists": [
-    "Post Malone",
-    "Roddy Ricch"
-   ],
-   "album": "Twelve Carat Toothache",
-   "image": "https://i.scdn.co/image/ab67616d0000485134362676667a4322838ccc97",
-   "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d",
-   "played_at": "2026-11-02T00:37:14.269Z"
-  },
-  {
-   "name": "Feels Like Summer",
-   "artists": [
-    "Childish Gambino"
-   ],
-   "album": "Summer Pack",
-   "image": "https://i.scdn.co/image/ab67616d00004851602ca5b83fe44b68074a74b2",
-   "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr",
-   "played_at": "2026-11-01T22:39:19.890Z"
-  },
-  {
-   "name": "Congratulations",
-   "artists": [
-    "Post Malone",
-    "Quavo"
-   ],
-   "album": "Stoney (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-   "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
-   "played_at": "2026-11-01T22:35:04.896Z"
   }
  ],
  "top_artists": [
@@ -416,5 +418,5 @@
    ]
   }
  },
- "updated_at": "2026-11-02T12:45:15+00:00"
+ "updated_at": "2026-11-03T11:36:59+00:00"
 }
