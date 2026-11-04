@@ -1,6 +1,89 @@
 {
  "recently_played": [
   {
+   "name": "Sports car",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "So Close To What",
+   "image": "https://i.scdn.co/image/ab67616d000048516c691022744f42565f6b546e",
+   "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S",
+   "played_at": "2026-11-04T13:34:55.818Z"
+  },
+  {
+   "name": "Sports car",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "So Close To What",
+   "image": "https://i.scdn.co/image/ab67616d000048516c691022744f42565f6b546e",
+   "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S",
+   "played_at": "2026-11-04T13:33:07.596Z"
+  },
+  {
+   "name": "Carry Out (Featuring Justin Timberlake)",
+   "artists": [
+    "Timbaland",
+    "Justin Timberlake"
+   ],
+   "album": "Shock Value II",
+   "image": "https://i.scdn.co/image/ab67616d0000485184dfebb7e9c44520e69482de",
+   "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl",
+   "played_at": "2026-11-04T12:34:44.125Z"
+  },
+  {
+   "name": "Choosin' Texas",
+   "artists": [
+    "Ella Langley"
+   ],
+   "album": "Dandelion",
+   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
+   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+   "played_at": "2026-11-04T11:56:32.929Z"
+  },
+  {
+   "name": "Mi Chico - Official - Jason Derulo x Melody",
+   "artists": [
+    "DJ Goja",
+    "Jason Derulo",
+    "Melody"
+   ],
+   "album": "Mi Chico (Official - Jason Derulo x Melody)",
+   "image": "https://i.scdn.co/image/ab67616d00004851a1eddd41334d7100b94e602a",
+   "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX",
+   "played_at": "2026-11-04T11:52:42.431Z"
+  },
+  {
+   "name": "Shabang",
+   "artists": [
+    "Drake"
+   ],
+   "album": "ICEMAN",
+   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+   "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec",
+   "played_at": "2026-11-04T11:50:42.434Z"
+  },
+  {
+   "name": "YUKON",
+   "artists": [
+    "Justin Bieber"
+   ],
+   "album": "SWAG",
+   "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
+   "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl",
+   "played_at": "2026-11-04T11:48:14.734Z"
+  },
+  {
+   "name": "Housewife",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "Housewife",
+   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
+   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
+   "played_at": "2026-11-04T11:45:45.334Z"
+  },
+  {
    "name": "Take My Mind",
    "artists": [
     "WizTheMc",
@@ -20,91 +103,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
    "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
    "played_at": "2026-11-03T11:20:29.895Z"
-  },
-  {
-   "name": "Home",
-   "artists": [
-    "Good Neighbours"
-   ],
-   "album": "Blue Sky Mentality",
-   "image": "https://i.scdn.co/image/ab67616d0000485144a3683d06ee71a5c63bcb4d",
-   "url": "https://open.spotify.com/track/1fLTi1wA2FPONA5SAIoKJX",
-   "played_at": "2026-11-03T11:16:37.489Z"
-  },
-  {
-   "name": "One Dance",
-   "artists": [
-    "Drake",
-    "Wizkid",
-    "Kyla"
-   ],
-   "album": "Views",
-   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-   "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
-   "played_at": "2026-11-03T11:14:14.055Z"
-  },
-  {
-   "name": "Beautiful Things",
-   "artists": [
-    "Benson Boone"
-   ],
-   "album": "Fireworks & Rollerblades",
-   "image": "https://i.scdn.co/image/ab67616d00004851831949037a1db10b87b005fa",
-   "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
-   "played_at": "2026-11-03T11:11:27.908Z"
-  },
-  {
-   "name": "I Had Some Help (Feat. Morgan Wallen)",
-   "artists": [
-    "Post Malone",
-    "Morgan Wallen"
-   ],
-   "album": "I Had Some Help",
-   "image": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
-   "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP",
-   "played_at": "2026-11-03T11:08:48.463Z"
-  },
-  {
-   "name": "Money Trees",
-   "artists": [
-    "Kendrick Lamar",
-    "Jay Rock"
-   ],
-   "album": "good kid, m.A.A.d city",
-   "image": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
-   "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4",
-   "played_at": "2026-11-02T23:23:32.337Z"
-  },
-  {
-   "name": "Revolving door",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "So Close To What",
-   "image": "https://i.scdn.co/image/ab67616d0000485130420759f1a2cd4923c5c65b",
-   "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC",
-   "played_at": "2026-11-02T11:37:06.680Z"
-  },
-  {
-   "name": "No Friends In The Industry",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Certified Lover Boy",
-   "image": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-   "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
-   "played_at": "2026-11-02T11:34:09.926Z"
-  },
-  {
-   "name": "The Days - NOTION Remix",
-   "artists": [
-    "Chrystal",
-    "NOTION"
-   ],
-   "album": "The Days (NOTION Remix)",
-   "image": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
-   "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
-   "played_at": "2026-11-02T11:30:51.431Z"
   }
  ],
  "top_artists": [
@@ -119,6 +117,11 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
+   "name": "Tate McRae",
+   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+  },
+  {
    "name": "Kendrick Lamar",
    "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
    "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
@@ -127,11 +130,6 @@
    "name": "Don Toliver",
    "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-  },
-  {
-   "name": "Kanye West",
-   "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-   "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
   }
  ],
  "top_tracks": [
@@ -198,6 +196,11 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
+     "name": "Tate McRae",
+     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+    },
+    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
@@ -206,11 +209,6 @@
      "name": "Don Toliver",
      "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-    },
-    {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
    ],
    "top_tracks": [
@@ -419,5 +417,5 @@
    ]
   }
  },
- "updated_at": "2026-11-03T19:01:02+00:00"
+ "updated_at": "2026-11-04T15:04:17+00:00"
 }
