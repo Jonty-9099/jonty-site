@@ -1,6 +1,39 @@
 {
  "recently_played": [
   {
+   "name": "Make Me Proud",
+   "artists": [
+    "Drake",
+    "Nicki Minaj"
+   ],
+   "album": "Take Care (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+   "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz",
+   "played_at": "2026-11-04T22:17:12.596Z"
+  },
+  {
+   "name": "Raindance (feat. Tems)",
+   "artists": [
+    "Dave",
+    "Tems"
+   ],
+   "album": "The Boy Who Played the Harp",
+   "image": "https://i.scdn.co/image/ab67616d00004851fecaa7826bb0cbe139a8cb83",
+   "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+   "played_at": "2026-11-04T22:13:48.900Z"
+  },
+  {
+   "name": "Raindance (feat. Tems)",
+   "artists": [
+    "Dave",
+    "Tems"
+   ],
+   "album": "The Boy Who Played the Harp",
+   "image": "https://i.scdn.co/image/ab67616d00004851fecaa7826bb0cbe139a8cb83",
+   "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+   "played_at": "2026-11-04T22:10:50.042Z"
+  },
+  {
    "name": "Sports car",
    "artists": [
     "Tate McRae"
@@ -72,37 +105,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
    "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl",
    "played_at": "2026-11-04T11:48:14.734Z"
-  },
-  {
-   "name": "Housewife",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-   "played_at": "2026-11-04T11:45:45.334Z"
-  },
-  {
-   "name": "Take My Mind",
-   "artists": [
-    "WizTheMc",
-    "bees & honey"
-   ],
-   "album": "YEBO",
-   "image": "https://i.scdn.co/image/ab67616d00004851e2dcd3ec8545bdc7bc826051",
-   "url": "https://open.spotify.com/track/1Bd7JsVaa000lma8gslUwY",
-   "played_at": "2026-11-03T11:59:58.846Z"
-  },
-  {
-   "name": "Sweater Weather",
-   "artists": [
-    "The Neighbourhood"
-   ],
-   "album": "I Love You.",
-   "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
-   "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
-   "played_at": "2026-11-03T11:20:29.895Z"
   }
  ],
  "top_artists": [
@@ -417,5 +419,5 @@
    ]
   }
  },
- "updated_at": "2026-11-04T15:04:17+00:00"
+ "updated_at": "2026-11-05T01:37:09+00:00"
 }
