@@ -1,104 +1,106 @@
 {
  "recently_played": [
   {
-   "name": "Take on Me",
+   "name": "Wake Me up When September Ends",
    "artists": [
-    "a-ha"
+    "Green Day"
    ],
-   "album": "Hunting High and Low",
-   "image": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53",
-   "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
-   "played_at": "2026-11-07T16:04:03.507Z"
+   "album": "American Idiot",
+   "image": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+   "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
+   "played_at": "2026-11-07T20:21:49.685Z"
   },
   {
-   "name": "Africa",
+   "name": "Empire State Of Mind",
    "artists": [
-    "TOTO"
+    "JAŸ-Z",
+    "Alicia Keys"
    ],
-   "album": "Toto IV",
-   "image": "https://i.scdn.co/image/ab67616d00004851ebd6d20c0082524244ef83df",
-   "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
-   "played_at": "2026-11-07T16:00:18.213Z"
+   "album": "The Blueprint 3",
+   "image": "https://i.scdn.co/image/ab67616d000048514b328c297d151d432c7b1aa3",
+   "url": "https://open.spotify.com/track/1tSjFlsXMVAyjmMRGxj2Lc",
+   "played_at": "2026-11-07T20:17:04.151Z"
   },
   {
-   "name": "Bye Bye Bye",
+   "name": "Cake By The Ocean",
    "artists": [
-    "*NSYNC"
+    "DNCE"
    ],
-   "album": "No Strings Attached",
-   "image": "https://i.scdn.co/image/ab67616d00004851a6cb8fab778e1efc406a5909",
-   "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn",
-   "played_at": "2026-11-07T15:55:22.930Z"
+   "album": "DNCE",
+   "image": "https://i.scdn.co/image/ab67616d000048513b2f287c415d501dce97ce97",
+   "url": "https://open.spotify.com/track/3R4jodloIlJ3GQffZtxlDI",
+   "played_at": "2026-11-07T20:12:27.104Z"
   },
   {
-   "name": "Santeria",
+   "name": "One More Time",
    "artists": [
-    "Sublime"
+    "Daft Punk"
    ],
-   "album": "Sublime",
-   "image": "https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85",
-   "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
-   "played_at": "2026-11-07T15:52:02.561Z"
+   "album": "Discovery",
+   "image": "https://i.scdn.co/image/ab67616d000048511e81bff9807a9e629fce5ade",
+   "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
+   "played_at": "2026-11-07T20:08:48.029Z"
   },
   {
-   "name": "She Will Be Loved - Radio Mix",
+   "name": "One Right Now (with The Weeknd)",
    "artists": [
-    "Maroon 5"
+    "Post Malone",
+    "The Weeknd"
    ],
-   "album": "Songs About Jane: 10th Anniversary Edition",
-   "image": "https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e",
-   "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16",
-   "played_at": "2026-11-07T15:48:59.791Z"
+   "album": "One Right Now",
+   "image": "https://i.scdn.co/image/ab67616d00004851626559e279e1255655a5b922",
+   "url": "https://open.spotify.com/track/6uw5plNLbf0ZCKjMm9GAcP",
+   "played_at": "2026-11-07T20:03:27.664Z"
   },
   {
-   "name": "The Reason",
+   "name": "I Want It That Way",
    "artists": [
-    "Hoobastank"
+    "Backstreet Boys"
    ],
-   "album": "The Reason (20th Anniversary)",
-   "image": "https://i.scdn.co/image/ab67616d0000485194f8b5f85bad2c8affe6cc7d",
-   "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY",
-   "played_at": "2026-11-07T15:44:40.318Z"
+   "album": "Millennium",
+   "image": "https://i.scdn.co/image/ab67616d000048512160c02bc56f192df0f4986b",
+   "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya",
+   "played_at": "2026-11-07T20:00:13.220Z"
   },
   {
-   "name": "Still into You",
+   "name": "Buddy Holly",
    "artists": [
-    "Paramore"
+    "Weezer"
    ],
-   "album": "Paramore",
-   "image": "https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35",
-   "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d",
-   "played_at": "2026-11-07T15:40:47.601Z"
+   "album": "Weezer",
+   "image": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
+   "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E",
+   "played_at": "2026-11-07T19:56:39.798Z"
   },
   {
-   "name": "Saved",
+   "name": "Stressed Out",
    "artists": [
-    "Khalid"
+    "Twenty One Pilots"
    ],
-   "album": "American Teen",
-   "image": "https://i.scdn.co/image/ab67616d000048514ac041e0d889d3a2608210d5",
-   "url": "https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU",
-   "played_at": "2026-11-07T15:37:11.536Z"
+   "album": "Blurryface",
+   "image": "https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7",
+   "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
+   "played_at": "2026-11-07T19:54:00.629Z"
   },
   {
-   "name": "Wait a Minute!",
+   "name": "Lights",
    "artists": [
-    "WILLOW"
+    "Ellie Goulding"
    ],
-   "album": "ARDIPITHECUS",
-   "image": "https://i.scdn.co/image/ab67616d0000485153b17b025865ae89bcb68062",
-   "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
-   "played_at": "2026-11-07T15:33:45.064Z"
+   "album": "An Introduction To Ellie Goulding EP",
+   "image": "https://i.scdn.co/image/ab67616d0000485191538eb04634de568637b8be",
+   "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL",
+   "played_at": "2026-11-07T19:50:38.334Z"
   },
   {
-   "name": "Thnks fr th Mmrs",
+   "name": "Hey Ya!",
    "artists": [
-    "Fall Out Boy"
+    "Outkast"
    ],
-   "album": "Infinity On High",
-   "image": "https://i.scdn.co/image/ab67616d00004851da071ae7564949fbbfc6904d",
-   "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP",
-   "played_at": "2026-11-07T15:30:28.499Z"
+   "album": "Speakerboxxx/The Love Below",
+   "image": "https://i.scdn.co/image/ab67616d000048516e88eb6508fd94cd1b745ce2",
+   "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
+   "played_at": "2026-11-07T19:46:34.017Z"
   }
  ],
  "top_artists": [
@@ -178,13 +180,13 @@
   }
  ],
  "now_playing": {
-  "name": "Can't Feel My Face",
+  "name": "All I Wanted",
   "artists": [
-   "The Weeknd"
+   "Paramore"
   ],
-  "album": "Beauty Behind The Madness",
-  "image": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
-  "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+  "album": "Brand New Eyes",
+  "image": "https://i.scdn.co/image/ab67616d00004851e01d7d558032457b0e4883f6",
+  "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
  },
  "time_ranges": {
   "short_term": {
@@ -421,5 +423,5 @@
    ]
   }
  },
- "updated_at": "2026-11-07T16:05:41+00:00"
+ "updated_at": "2026-11-07T20:24:46+00:00"
 }
