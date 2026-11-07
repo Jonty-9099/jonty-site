@@ -1,106 +1,105 @@
 {
  "recently_played": [
   {
-   "name": "Wake Me up When September Ends",
+   "name": "Massive",
    "artists": [
-    "Green Day"
+    "Drake"
    ],
-   "album": "American Idiot",
-   "image": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
-   "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
-   "played_at": "2026-11-07T20:21:49.685Z"
+   "album": "Honestly, Nevermind",
+   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
+   "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui",
+   "played_at": "2026-11-07T22:35:46.167Z"
   },
   {
-   "name": "Empire State Of Mind",
+   "name": "Clocks",
    "artists": [
-    "JAŸ-Z",
-    "Alicia Keys"
+    "Coldplay"
    ],
-   "album": "The Blueprint 3",
-   "image": "https://i.scdn.co/image/ab67616d000048514b328c297d151d432c7b1aa3",
-   "url": "https://open.spotify.com/track/1tSjFlsXMVAyjmMRGxj2Lc",
-   "played_at": "2026-11-07T20:17:04.151Z"
+   "album": "A Rush of Blood to the Head",
+   "image": "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
+   "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns",
+   "played_at": "2026-11-07T22:30:09.060Z"
   },
   {
-   "name": "Cake By The Ocean",
+   "name": "Massive",
    "artists": [
-    "DNCE"
+    "Drake"
    ],
-   "album": "DNCE",
-   "image": "https://i.scdn.co/image/ab67616d000048513b2f287c415d501dce97ce97",
-   "url": "https://open.spotify.com/track/3R4jodloIlJ3GQffZtxlDI",
-   "played_at": "2026-11-07T20:12:27.104Z"
+   "album": "Honestly, Nevermind",
+   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
+   "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui",
+   "played_at": "2026-11-07T22:30:08.849Z"
   },
   {
-   "name": "One More Time",
+   "name": "I Write Sins Not Tragedies",
    "artists": [
-    "Daft Punk"
+    "Panic! At The Disco"
    ],
-   "album": "Discovery",
-   "image": "https://i.scdn.co/image/ab67616d000048511e81bff9807a9e629fce5ade",
-   "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
-   "played_at": "2026-11-07T20:08:48.029Z"
+   "album": "A Fever You Can't Sweat Out",
+   "image": "https://i.scdn.co/image/ab67616d000048514fe2ead5d050f6002e8aaeb3",
+   "url": "https://open.spotify.com/track/4948g5UqwZFLGI8UTOXqdi",
+   "played_at": "2026-11-07T22:23:06.808Z"
   },
   {
-   "name": "One Right Now (with The Weeknd)",
+   "name": "Cooler Than Me (feat. Big Sean)",
    "artists": [
-    "Post Malone",
-    "The Weeknd"
+    "Mike Posner",
+    "Big Sean"
    ],
-   "album": "One Right Now",
-   "image": "https://i.scdn.co/image/ab67616d00004851626559e279e1255655a5b922",
-   "url": "https://open.spotify.com/track/6uw5plNLbf0ZCKjMm9GAcP",
-   "played_at": "2026-11-07T20:03:27.664Z"
+   "album": "Cooler Than Me EP",
+   "image": "https://i.scdn.co/image/ab67616d00004851c0e8a17e2bdf1e1108d85612",
+   "url": "https://open.spotify.com/track/2DPYlWl50ydYsnnuryL5aX",
+   "played_at": "2026-11-07T22:20:01.213Z"
   },
   {
-   "name": "I Want It That Way",
+   "name": "Sex on Fire",
+   "artists": [
+    "Kings of Leon"
+   ],
+   "album": "Only By The Night",
+   "image": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+   "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45",
+   "played_at": "2026-11-07T22:16:13.465Z"
+  },
+  {
+   "name": "Gives You Hell",
+   "artists": [
+    "The All-American Rejects"
+   ],
+   "album": "When The World Comes Down",
+   "image": "https://i.scdn.co/image/ab67616d000048518f6b4035c82eb9cf42e9d8d7",
+   "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF",
+   "played_at": "2026-11-07T22:12:50.727Z"
+  },
+  {
+   "name": "When I'm Gone",
+   "artists": [
+    "3 Doors Down"
+   ],
+   "album": "Away From The Sun",
+   "image": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
+   "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ",
+   "played_at": "2026-11-07T22:09:17.034Z"
+  },
+  {
+   "name": "Here Without You",
+   "artists": [
+    "3 Doors Down"
+   ],
+   "album": "Away From The Sun",
+   "image": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
+   "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4",
+   "played_at": "2026-11-07T22:04:56.678Z"
+  },
+  {
+   "name": "Everybody (Backstreet's Back) - Extended Version",
    "artists": [
     "Backstreet Boys"
    ],
-   "album": "Millennium",
-   "image": "https://i.scdn.co/image/ab67616d000048512160c02bc56f192df0f4986b",
-   "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya",
-   "played_at": "2026-11-07T20:00:13.220Z"
-  },
-  {
-   "name": "Buddy Holly",
-   "artists": [
-    "Weezer"
-   ],
-   "album": "Weezer",
-   "image": "https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96",
-   "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E",
-   "played_at": "2026-11-07T19:56:39.798Z"
-  },
-  {
-   "name": "Stressed Out",
-   "artists": [
-    "Twenty One Pilots"
-   ],
-   "album": "Blurryface",
-   "image": "https://i.scdn.co/image/ab67616d000048512df0d98a423025032d0db1f7",
-   "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
-   "played_at": "2026-11-07T19:54:00.629Z"
-  },
-  {
-   "name": "Lights",
-   "artists": [
-    "Ellie Goulding"
-   ],
-   "album": "An Introduction To Ellie Goulding EP",
-   "image": "https://i.scdn.co/image/ab67616d0000485191538eb04634de568637b8be",
-   "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL",
-   "played_at": "2026-11-07T19:50:38.334Z"
-  },
-  {
-   "name": "Hey Ya!",
-   "artists": [
-    "Outkast"
-   ],
-   "album": "Speakerboxxx/The Love Below",
-   "image": "https://i.scdn.co/image/ab67616d000048516e88eb6508fd94cd1b745ce2",
-   "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
-   "played_at": "2026-11-07T19:46:34.017Z"
+   "album": "Backstreet Boys",
+   "image": "https://i.scdn.co/image/ab67616d00004851dafd4b9261a1ab9acd53a53d",
+   "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl",
+   "played_at": "2026-11-07T21:57:03.147Z"
   }
  ],
  "top_artists": [
@@ -120,14 +119,14 @@
    "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
   },
   {
-   "name": "Don Toliver",
-   "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
-   "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-  },
-  {
    "name": "Kanye West",
    "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
    "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+  },
+  {
+   "name": "Don Toliver",
+   "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
+   "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
   }
  ],
  "top_tracks": [
@@ -179,15 +178,7 @@
    "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
   }
  ],
- "now_playing": {
-  "name": "All I Wanted",
-  "artists": [
-   "Paramore"
-  ],
-  "album": "Brand New Eyes",
-  "image": "https://i.scdn.co/image/ab67616d00004851e01d7d558032457b0e4883f6",
-  "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
- },
+ "now_playing": null,
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -207,14 +198,14 @@
      "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
     },
     {
-     "name": "Don Toliver",
-     "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
-     "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-    },
-    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+     "name": "Don Toliver",
+     "image": "https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b",
+     "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
    ],
    "top_tracks": [
@@ -423,5 +414,5 @@
    ]
   }
  },
- "updated_at": "2026-11-07T20:24:46+00:00"
+ "updated_at": "2026-11-07T23:47:36+00:00"
 }
