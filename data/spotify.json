@@ -1,106 +1,104 @@
 {
  "recently_played": [
   {
-   "name": "ATM",
+   "name": "Take on Me",
    "artists": [
-    "Don Toliver"
+    "a-ha"
    ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-11-06T16:07:29.490Z"
+   "album": "Hunting High and Low",
+   "image": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53",
+   "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
+   "played_at": "2026-11-07T16:04:03.507Z"
   },
   {
-   "name": "Boston",
+   "name": "Africa",
    "artists": [
-    "STELLA LEFTY"
+    "TOTO"
    ],
-   "album": "Long Way Home",
-   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
-   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
-   "played_at": "2026-11-06T16:04:51.397Z"
+   "album": "Toto IV",
+   "image": "https://i.scdn.co/image/ab67616d00004851ebd6d20c0082524244ef83df",
+   "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+   "played_at": "2026-11-07T16:00:18.213Z"
   },
   {
-   "name": "Boston",
+   "name": "Bye Bye Bye",
    "artists": [
-    "STELLA LEFTY"
+    "*NSYNC"
    ],
-   "album": "Long Way Home",
-   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
-   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
-   "played_at": "2026-11-06T15:58:51.449Z"
+   "album": "No Strings Attached",
+   "image": "https://i.scdn.co/image/ab67616d00004851a6cb8fab778e1efc406a5909",
+   "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn",
+   "played_at": "2026-11-07T15:55:22.930Z"
   },
   {
-   "name": "Hotel California - 2013 Remaster",
+   "name": "Santeria",
    "artists": [
-    "Eagles"
+    "Sublime"
    ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-   "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-   "played_at": "2026-11-06T12:17:09.967Z"
+   "album": "Sublime",
+   "image": "https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85",
+   "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
+   "played_at": "2026-11-07T15:52:02.561Z"
   },
   {
-   "name": "2 Hard 4 The Radio",
+   "name": "She Will Be Loved - Radio Mix",
    "artists": [
-    "Drake"
+    "Maroon 5"
    ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
-   "played_at": "2026-11-06T12:10:51.973Z"
+   "album": "Songs About Jane: 10th Anniversary Edition",
+   "image": "https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e",
+   "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16",
+   "played_at": "2026-11-07T15:48:59.791Z"
   },
   {
-   "name": "Housewife",
+   "name": "The Reason",
    "artists": [
-    "Tate McRae"
+    "Hoobastank"
    ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-   "played_at": "2026-11-06T12:08:08.811Z"
+   "album": "The Reason (20th Anniversary)",
+   "image": "https://i.scdn.co/image/ab67616d0000485194f8b5f85bad2c8affe6cc7d",
+   "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY",
+   "played_at": "2026-11-07T15:44:40.318Z"
   },
   {
-   "name": "Passionfruit",
+   "name": "Still into You",
    "artists": [
-    "Drake"
+    "Paramore"
    ],
-   "album": "More Life",
-   "image": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-   "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
-   "played_at": "2026-11-06T12:01:11.920Z"
+   "album": "Paramore",
+   "image": "https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35",
+   "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d",
+   "played_at": "2026-11-07T15:40:47.601Z"
   },
   {
-   "name": "Passionfruit",
+   "name": "Saved",
    "artists": [
-    "Drake"
+    "Khalid"
    ],
-   "album": "More Life",
-   "image": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-   "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
-   "played_at": "2026-11-05T14:02:38.801Z"
+   "album": "American Teen",
+   "image": "https://i.scdn.co/image/ab67616d000048514ac041e0d889d3a2608210d5",
+   "url": "https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU",
+   "played_at": "2026-11-07T15:37:11.536Z"
   },
   {
-   "name": "Homecoming",
+   "name": "Wait a Minute!",
    "artists": [
-    "Kanye West",
-    "Chris Martin"
+    "WILLOW"
    ],
-   "album": "Graduation",
-   "image": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe",
-   "played_at": "2026-11-05T12:46:21.014Z"
+   "album": "ARDIPITHECUS",
+   "image": "https://i.scdn.co/image/ab67616d0000485153b17b025865ae89bcb68062",
+   "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
+   "played_at": "2026-11-07T15:33:45.064Z"
   },
   {
-   "name": "R.I.C.O. (feat. Drake)",
+   "name": "Thnks fr th Mmrs",
    "artists": [
-    "Meek Mill",
-    "Drake"
+    "Fall Out Boy"
    ],
-   "album": "Dreams Worth More Than Money",
-   "image": "https://i.scdn.co/image/ab67616d00004851fd31cd96c4ba94c40532cc34",
-   "url": "https://open.spotify.com/track/0Y0TOsE1q11qgbi7c5WZsG",
-   "played_at": "2026-11-05T12:43:24.497Z"
+   "album": "Infinity On High",
+   "image": "https://i.scdn.co/image/ab67616d00004851da071ae7564949fbbfc6904d",
+   "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP",
+   "played_at": "2026-11-07T15:30:28.499Z"
   }
  ],
  "top_artists": [
@@ -141,15 +139,6 @@
    "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
   },
   {
-   "name": "Hotel California - 2013 Remaster",
-   "artists": [
-    "Eagles"
-   ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-   "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
-  },
-  {
    "name": "Boom Shaka",
    "artists": [
     "KR$NA",
@@ -169,6 +158,15 @@
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
   },
   {
+   "name": "Hotel California - 2013 Remaster",
+   "artists": [
+    "Eagles"
+   ],
+   "album": "Hotel California (2013 Remaster)",
+   "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
+   "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+  },
+  {
    "name": "Dwarka Mor",
    "artists": [
     "Dflacko",
@@ -179,7 +177,15 @@
    "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
   }
  ],
- "now_playing": null,
+ "now_playing": {
+  "name": "Can't Feel My Face",
+  "artists": [
+   "The Weeknd"
+  ],
+  "album": "Beauty Behind The Madness",
+  "image": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+  "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+ },
  "time_ranges": {
   "short_term": {
    "top_artists": [
@@ -220,15 +226,6 @@
      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
-     "name": "Hotel California - 2013 Remaster",
-     "artists": [
-      "Eagles"
-     ],
-     "album": "Hotel California (2013 Remaster)",
-     "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-     "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
-    },
-    {
      "name": "Boom Shaka",
      "artists": [
       "KR$NA",
@@ -246,6 +243,15 @@
      "album": "Back To Back",
      "image": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+    },
+    {
+     "name": "Hotel California - 2013 Remaster",
+     "artists": [
+      "Eagles"
+     ],
+     "album": "Hotel California (2013 Remaster)",
+     "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
+     "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
     },
     {
      "name": "Dwarka Mor",
@@ -415,5 +421,5 @@
    ]
   }
  },
- "updated_at": "2026-11-06T18:13:01+00:00"
+ "updated_at": "2026-11-07T16:05:41+00:00"
 }
