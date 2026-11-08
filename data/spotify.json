@@ -1,6 +1,47 @@
 {
  "recently_played": [
   {
+   "name": "Better Now",
+   "artists": [
+    "Post Malone"
+   ],
+   "album": "beerbongs & bentleys",
+   "image": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+   "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK",
+   "played_at": "2026-11-08T03:35:51.761Z"
+  },
+  {
+   "name": "DAISIES",
+   "artists": [
+    "Justin Bieber"
+   ],
+   "album": "SWAG",
+   "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
+   "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+   "played_at": "2026-11-08T03:32:46.368Z"
+  },
+  {
+   "name": "Save Your Tears",
+   "artists": [
+    "The Weeknd"
+   ],
+   "album": "After Hours",
+   "image": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+   "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
+   "played_at": "2026-11-08T03:29:40.842Z"
+  },
+  {
+   "name": "Starboy",
+   "artists": [
+    "The Weeknd",
+    "Daft Punk"
+   ],
+   "album": "Starboy",
+   "image": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
+   "url": "https://open.spotify.com/track/7HtPBwBoCBDy1tpstag7HL",
+   "played_at": "2026-11-08T01:51:45.631Z"
+  },
+  {
    "name": "Massive",
    "artists": [
     "Drake"
@@ -60,46 +101,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
    "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45",
    "played_at": "2026-11-07T22:16:13.465Z"
-  },
-  {
-   "name": "Gives You Hell",
-   "artists": [
-    "The All-American Rejects"
-   ],
-   "album": "When The World Comes Down",
-   "image": "https://i.scdn.co/image/ab67616d000048518f6b4035c82eb9cf42e9d8d7",
-   "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF",
-   "played_at": "2026-11-07T22:12:50.727Z"
-  },
-  {
-   "name": "When I'm Gone",
-   "artists": [
-    "3 Doors Down"
-   ],
-   "album": "Away From The Sun",
-   "image": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
-   "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ",
-   "played_at": "2026-11-07T22:09:17.034Z"
-  },
-  {
-   "name": "Here Without You",
-   "artists": [
-    "3 Doors Down"
-   ],
-   "album": "Away From The Sun",
-   "image": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
-   "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4",
-   "played_at": "2026-11-07T22:04:56.678Z"
-  },
-  {
-   "name": "Everybody (Backstreet's Back) - Extended Version",
-   "artists": [
-    "Backstreet Boys"
-   ],
-   "album": "Backstreet Boys",
-   "image": "https://i.scdn.co/image/ab67616d00004851dafd4b9261a1ab9acd53a53d",
-   "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl",
-   "played_at": "2026-11-07T21:57:03.147Z"
   }
  ],
  "top_artists": [
@@ -414,5 +415,5 @@
    ]
   }
  },
- "updated_at": "2026-11-07T23:47:36+00:00"
+ "updated_at": "2026-11-08T04:23:54+00:00"
 }
