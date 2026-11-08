@@ -1,6 +1,83 @@
 {
  "recently_played": [
   {
+   "name": "Tu Aake Dekhle",
+   "artists": [
+    "King"
+   ],
+   "album": "The Carnival",
+   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
+   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
+   "played_at": "2026-11-08T14:53:57.738Z"
+  },
+  {
+   "name": "Tu Aake Dekhle",
+   "artists": [
+    "King"
+   ],
+   "album": "The Carnival",
+   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
+   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
+   "played_at": "2026-11-08T14:53:47.096Z"
+  },
+  {
+   "name": "Pal Pal (with Talwiinder)",
+   "artists": [
+    "Afusic",
+    "Talwiinder",
+    "AliSoomroMusic"
+   ],
+   "album": "Pal Pal (with Talwiinder)",
+   "image": "https://i.scdn.co/image/ab67616d00004851236d0c72c9c3cbbfa15dd208",
+   "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2",
+   "played_at": "2026-11-08T14:49:32.593Z"
+  },
+  {
+   "name": "Pal Pal (with Talwiinder)",
+   "artists": [
+    "Afusic",
+    "Talwiinder",
+    "AliSoomroMusic"
+   ],
+   "album": "Pal Pal (with Talwiinder)",
+   "image": "https://i.scdn.co/image/ab67616d00004851236d0c72c9c3cbbfa15dd208",
+   "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2",
+   "played_at": "2026-11-08T14:26:11.970Z"
+  },
+  {
+   "name": "Jaadugar",
+   "artists": [
+    "Paradox"
+   ],
+   "album": "Mtv Hustle 2.0",
+   "image": "https://i.scdn.co/image/ab67616d000048511b706bbdda832bdc3f2264a0",
+   "url": "https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2",
+   "played_at": "2026-11-08T14:23:06.883Z"
+  },
+  {
+   "name": "Aarzu (with Asim Azhar)",
+   "artists": [
+    "Asim Azhar",
+    "Noor",
+    "Khan",
+    "Madhurxo"
+   ],
+   "album": "Aarzu (with Asim Azhar)",
+   "image": "https://i.scdn.co/image/ab67616d0000485123163367c297997eaa635b66",
+   "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0",
+   "played_at": "2026-11-08T14:20:32.881Z"
+  },
+  {
+   "name": "Bad Liar",
+   "artists": [
+    "Imagine Dragons"
+   ],
+   "album": "Origins (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+   "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3",
+   "played_at": "2026-11-08T14:17:23.654Z"
+  },
+  {
    "name": "Better Now",
    "artists": [
     "Post Malone"
@@ -29,78 +106,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
    "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
    "played_at": "2026-11-08T03:29:40.842Z"
-  },
-  {
-   "name": "Starboy",
-   "artists": [
-    "The Weeknd",
-    "Daft Punk"
-   ],
-   "album": "Starboy",
-   "image": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
-   "url": "https://open.spotify.com/track/7HtPBwBoCBDy1tpstag7HL",
-   "played_at": "2026-11-08T01:51:45.631Z"
-  },
-  {
-   "name": "Massive",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Honestly, Nevermind",
-   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
-   "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui",
-   "played_at": "2026-11-07T22:35:46.167Z"
-  },
-  {
-   "name": "Clocks",
-   "artists": [
-    "Coldplay"
-   ],
-   "album": "A Rush of Blood to the Head",
-   "image": "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
-   "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns",
-   "played_at": "2026-11-07T22:30:09.060Z"
-  },
-  {
-   "name": "Massive",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Honestly, Nevermind",
-   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
-   "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui",
-   "played_at": "2026-11-07T22:30:08.849Z"
-  },
-  {
-   "name": "I Write Sins Not Tragedies",
-   "artists": [
-    "Panic! At The Disco"
-   ],
-   "album": "A Fever You Can't Sweat Out",
-   "image": "https://i.scdn.co/image/ab67616d000048514fe2ead5d050f6002e8aaeb3",
-   "url": "https://open.spotify.com/track/4948g5UqwZFLGI8UTOXqdi",
-   "played_at": "2026-11-07T22:23:06.808Z"
-  },
-  {
-   "name": "Cooler Than Me (feat. Big Sean)",
-   "artists": [
-    "Mike Posner",
-    "Big Sean"
-   ],
-   "album": "Cooler Than Me EP",
-   "image": "https://i.scdn.co/image/ab67616d00004851c0e8a17e2bdf1e1108d85612",
-   "url": "https://open.spotify.com/track/2DPYlWl50ydYsnnuryL5aX",
-   "played_at": "2026-11-07T22:20:01.213Z"
-  },
-  {
-   "name": "Sex on Fire",
-   "artists": [
-    "Kings of Leon"
-   ],
-   "album": "Only By The Night",
-   "image": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
-   "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45",
-   "played_at": "2026-11-07T22:16:13.465Z"
   }
  ],
  "top_artists": [
@@ -160,23 +165,24 @@
    "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
   },
   {
-   "name": "Hotel California - 2013 Remaster",
+   "name": "Jaadugar",
    "artists": [
-    "Eagles"
+    "Paradox"
    ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-   "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+   "album": "Mtv Hustle 2.0",
+   "image": "https://i.scdn.co/image/ab67616d000048511b706bbdda832bdc3f2264a0",
+   "url": "https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2"
   },
   {
-   "name": "Dwarka Mor",
+   "name": "Pal Pal (with Talwiinder)",
    "artists": [
-    "Dflacko",
-    "Aditya Pushkarna"
+    "Afusic",
+    "Talwiinder",
+    "AliSoomroMusic"
    ],
-   "album": "Hustle 5 - Episode 3",
-   "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
-   "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
+   "album": "Pal Pal (with Talwiinder)",
+   "image": "https://i.scdn.co/image/ab67616d00004851236d0c72c9c3cbbfa15dd208",
+   "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
   }
  ],
  "now_playing": null,
@@ -239,23 +245,24 @@
      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
     },
     {
-     "name": "Hotel California - 2013 Remaster",
+     "name": "Jaadugar",
      "artists": [
-      "Eagles"
+      "Paradox"
      ],
-     "album": "Hotel California (2013 Remaster)",
-     "image": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-     "url": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+     "album": "Mtv Hustle 2.0",
+     "image": "https://i.scdn.co/image/ab67616d000048511b706bbdda832bdc3f2264a0",
+     "url": "https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2"
     },
     {
-     "name": "Dwarka Mor",
+     "name": "Pal Pal (with Talwiinder)",
      "artists": [
-      "Dflacko",
-      "Aditya Pushkarna"
+      "Afusic",
+      "Talwiinder",
+      "AliSoomroMusic"
      ],
-     "album": "Hustle 5 - Episode 3",
-     "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
-     "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
+     "album": "Pal Pal (with Talwiinder)",
+     "image": "https://i.scdn.co/image/ab67616d00004851236d0c72c9c3cbbfa15dd208",
+     "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
     }
    ]
   },
@@ -415,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-11-08T04:23:54+00:00"
+ "updated_at": "2026-11-08T17:11:39+00:00"
 }
