@@ -1,6 +1,62 @@
 {
  "recently_played": [
   {
+   "name": "Ambarsariya",
+   "artists": [
+    "Sona Mohapatra",
+    "Ram Sampath",
+    "Munna Dhiman"
+   ],
+   "album": "Fukrey",
+   "image": "https://i.scdn.co/image/ab67616d000048519701faf1c34cc355fd3cd3c0",
+   "url": "https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL",
+   "played_at": "2026-11-08T20:24:03.643Z"
+  },
+  {
+   "name": "Sahiba",
+   "artists": [
+    "Aditya Rikhari"
+   ],
+   "album": "Sahiba",
+   "image": "https://i.scdn.co/image/ab67616d000048510a47bbe7141fdfe0eb2cdba7",
+   "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ",
+   "played_at": "2026-11-08T20:18:21.205Z"
+  },
+  {
+   "name": "Naal Nachna",
+   "artists": [
+    "Shashwat Sachdev",
+    "Afsana Khan",
+    "Irshad Kamil",
+    "Reble"
+   ],
+   "album": "Dhurandhar",
+   "image": "https://i.scdn.co/image/ab67616d000048517838ccbef3fb712228e23fc5",
+   "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg",
+   "played_at": "2026-11-08T20:12:01.811Z"
+  },
+  {
+   "name": "Jhol",
+   "artists": [
+    "Maanu",
+    "Annural Khalid"
+   ],
+   "album": "Jhol",
+   "image": "https://i.scdn.co/image/ab67616d00004851da7d1408f8e776063963572f",
+   "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m",
+   "played_at": "2026-11-08T20:09:26.214Z"
+  },
+  {
+   "name": "Tu Aake Dekhle",
+   "artists": [
+    "King"
+   ],
+   "album": "The Carnival",
+   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
+   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
+   "played_at": "2026-11-08T20:03:14.423Z"
+  },
+  {
    "name": "Tu Aake Dekhle",
    "artists": [
     "King"
@@ -53,59 +109,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048511b706bbdda832bdc3f2264a0",
    "url": "https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2",
    "played_at": "2026-11-08T14:23:06.883Z"
-  },
-  {
-   "name": "Aarzu (with Asim Azhar)",
-   "artists": [
-    "Asim Azhar",
-    "Noor",
-    "Khan",
-    "Madhurxo"
-   ],
-   "album": "Aarzu (with Asim Azhar)",
-   "image": "https://i.scdn.co/image/ab67616d0000485123163367c297997eaa635b66",
-   "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0",
-   "played_at": "2026-11-08T14:20:32.881Z"
-  },
-  {
-   "name": "Bad Liar",
-   "artists": [
-    "Imagine Dragons"
-   ],
-   "album": "Origins (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
-   "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3",
-   "played_at": "2026-11-08T14:17:23.654Z"
-  },
-  {
-   "name": "Better Now",
-   "artists": [
-    "Post Malone"
-   ],
-   "album": "beerbongs & bentleys",
-   "image": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-   "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK",
-   "played_at": "2026-11-08T03:35:51.761Z"
-  },
-  {
-   "name": "DAISIES",
-   "artists": [
-    "Justin Bieber"
-   ],
-   "album": "SWAG",
-   "image": "https://i.scdn.co/image/ab67616d00004851d65c4773bc5061fd27facc5b",
-   "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-   "played_at": "2026-11-08T03:32:46.368Z"
-  },
-  {
-   "name": "Save Your Tears",
-   "artists": [
-    "The Weeknd"
-   ],
-   "album": "After Hours",
-   "image": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
-   "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
-   "played_at": "2026-11-08T03:29:40.842Z"
   }
  ],
  "top_artists": [
@@ -422,5 +425,5 @@
    ]
   }
  },
- "updated_at": "2026-11-08T17:11:39+00:00"
+ "updated_at": "2026-11-08T21:17:46+00:00"
 }
