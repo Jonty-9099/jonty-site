@@ -1,6 +1,31 @@
 {
  "recently_played": [
   {
+   "name": "drivers license",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "album": "SOUR",
+   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+   "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+   "played_at": "2026-11-11T00:15:05.049Z"
+  },
+  {
+   "name": "Hum Pyaar Karne Wale",
+   "artists": [
+    "Shashwat Sachdev",
+    "Anuradha Paudwal",
+    "Udit Narayan",
+    "Anand-Milind",
+    "Sameer Anjaan",
+    "Qveen Herby"
+   ],
+   "album": "Dhurandhar The Revenge",
+   "image": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+   "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ",
+   "played_at": "2026-11-11T00:06:46.759Z"
+  },
+  {
    "name": "Banger",
    "artists": [
     "Badshah",
@@ -90,26 +115,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
    "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
    "played_at": "2026-11-10T12:48:51.814Z"
-  },
-  {
-   "name": "Hotel California - 2013 Remaster",
-   "artists": [
-    "Eagles"
-   ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-   "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-   "played_at": "2026-11-10T12:42:38.914Z"
-  },
-  {
-   "name": "Shabang",
-   "artists": [
-    "Drake"
-   ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec",
-   "played_at": "2026-11-10T12:36:07.815Z"
   }
  ],
  "top_artists": [
@@ -428,5 +433,5 @@
    ]
   }
  },
- "updated_at": "2026-11-10T22:29:35+00:00"
+ "updated_at": "2026-11-11T02:10:06+00:00"
 }
