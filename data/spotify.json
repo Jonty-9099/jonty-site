@@ -1,6 +1,26 @@
 {
  "recently_played": [
   {
+   "name": "Right Now (Na Na Na)",
+   "artists": [
+    "Akon"
+   ],
+   "album": "Freedom",
+   "image": "https://i.scdn.co/image/ab67616d00004851e77aece1352dcc4f4cfd097f",
+   "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw",
+   "played_at": "2026-11-12T18:58:03.832Z"
+  },
+  {
+   "name": "party 4 u",
+   "artists": [
+    "Charli xcx"
+   ],
+   "album": "how i'm feeling now",
+   "image": "https://i.scdn.co/image/ab67616d000048515b8ef3c9b30d307df5245bfa",
+   "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE",
+   "played_at": "2026-11-12T18:52:06.187Z"
+  },
+  {
    "name": "Talk To You (ft. 54 Ultra)",
    "artists": [
     "ANOTR",
@@ -84,26 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851987466cc3363ea26094ca3c4",
    "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
    "played_at": "2026-11-12T11:34:57.454Z"
-  },
-  {
-   "name": "September",
-   "artists": [
-    "Earth, Wind & Fire"
-   ],
-   "album": "September (sped up + slowed)",
-   "image": "https://i.scdn.co/image/ab67616d000048510faf2fc17446651865ce2282",
-   "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-   "played_at": "2026-11-12T11:32:17.955Z"
-  },
-  {
-   "name": "Can't Feel My Face",
-   "artists": [
-    "The Weeknd"
-   ],
-   "album": "Beauty Behind The Madness",
-   "image": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
-   "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81",
-   "played_at": "2026-11-12T11:28:42.461Z"
   }
  ],
  "top_artists": [
@@ -422,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-11-12T16:33:36+00:00"
+ "updated_at": "2026-11-12T22:34:10+00:00"
 }
