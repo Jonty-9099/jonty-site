@@ -1,6 +1,38 @@
 {
  "recently_played": [
   {
+   "name": "Unforgettable",
+   "artists": [
+    "French Montana",
+    "Swae Lee"
+   ],
+   "album": "Jungle Rules",
+   "image": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
+   "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
+   "played_at": "2026-11-11T22:19:01.613Z"
+  },
+  {
+   "name": "Sweater Weather",
+   "artists": [
+    "The Neighbourhood"
+   ],
+   "album": "I Love You.",
+   "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+   "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+   "played_at": "2026-11-11T18:07:57.991Z"
+  },
+  {
+   "name": "Psycho (feat. Ty Dolla $ign)",
+   "artists": [
+    "Post Malone",
+    "Ty Dolla $ign"
+   ],
+   "album": "beerbongs & bentleys",
+   "image": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+   "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
+   "played_at": "2026-11-11T18:07:46.668Z"
+  },
+  {
    "name": "Me You",
    "artists": [
     "Russ"
@@ -81,36 +113,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485198f9abc76dbf79360cf18533",
    "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ",
    "played_at": "2026-11-11T11:40:06.950Z"
-  },
-  {
-   "name": "Revolving door",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "So Close To What",
-   "image": "https://i.scdn.co/image/ab67616d0000485130420759f1a2cd4923c5c65b",
-   "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC",
-   "played_at": "2026-11-11T11:37:40.973Z"
-  },
-  {
-   "name": "Virginia Beach",
-   "artists": [
-    "Drake"
-   ],
-   "album": "For All The Dogs",
-   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-   "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed",
-   "played_at": "2026-11-11T11:34:37.635Z"
-  },
-  {
-   "name": "drivers license",
-   "artists": [
-    "Olivia Rodrigo"
-   ],
-   "album": "SOUR",
-   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
-   "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
-   "played_at": "2026-11-11T00:15:05.049Z"
   }
  ],
  "top_artists": [
@@ -135,9 +137,9 @@
    "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
   },
   {
-   "name": "J. Cole",
-   "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-   "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+   "name": "Post Malone",
+   "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+   "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   }
  ],
  "top_tracks": [
@@ -216,9 +218,9 @@
      "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
     },
     {
-     "name": "J. Cole",
-     "image": "https://i.scdn.co/image/ab6761610000f178c401ea77e86ee984b1ba9fc2",
-     "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+     "name": "Post Malone",
+     "image": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+     "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     }
    ],
    "top_tracks": [
@@ -429,5 +431,5 @@
    ]
   }
  },
- "updated_at": "2026-11-11T17:41:06+00:00"
+ "updated_at": "2026-11-12T00:01:57+00:00"
 }
