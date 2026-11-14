@@ -1,6 +1,59 @@
 {
  "recently_played": [
   {
+   "name": "Better",
+   "artists": [
+    "Khalid"
+   ],
+   "album": "Suncity",
+   "image": "https://i.scdn.co/image/ab67616d00004851c243500e164150d229750c91",
+   "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX",
+   "played_at": "2026-11-14T11:35:07.430Z"
+  },
+  {
+   "name": "Power Trip (feat. Miguel)",
+   "artists": [
+    "J. Cole",
+    "Miguel"
+   ],
+   "album": "Born Sinner (Deluxe Version)",
+   "image": "https://i.scdn.co/image/ab67616d00004851c1bb124f993488cf21b269fc",
+   "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy",
+   "played_at": "2026-11-14T11:31:29.544Z"
+  },
+  {
+   "name": "Solar Eclipse (feat. Don Toliver)",
+   "artists": [
+    "Drake",
+    "Don Toliver"
+   ],
+   "album": "HABIBTI (FOMO)",
+   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
+   "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+   "played_at": "2026-11-14T11:27:28.581Z"
+  },
+  {
+   "name": "Let It All Work Out",
+   "artists": [
+    "Lil Wayne",
+    "Sampha"
+   ],
+   "album": "Tha Carter V",
+   "image": "https://i.scdn.co/image/ab67616d00004851bb1138165ad4ec2306f4e886",
+   "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB",
+   "played_at": "2026-11-14T11:24:26.610Z"
+  },
+  {
+   "name": "Young Dumb & Broke",
+   "artists": [
+    "Khalid"
+   ],
+   "album": "American Teen",
+   "image": "https://i.scdn.co/image/ab67616d000048514ac041e0d889d3a2608210d5",
+   "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+   "played_at": "2026-11-14T11:19:17.874Z"
+  },
+  {
    "name": "Boston",
    "artists": [
     "STELLA LEFTY"
@@ -51,66 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
    "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt",
    "played_at": "2026-11-13T15:48:36.896Z"
-  },
-  {
-   "name": "Move",
-   "artists": [
-    "Adam Port",
-    "Stryv",
-    "Keinemusik",
-    "Orso",
-    "Malachiii"
-   ],
-   "album": "Move",
-   "image": "https://i.scdn.co/image/ab67616d00004851a959d221820e650bee1ca487",
-   "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4",
-   "played_at": "2026-11-13T15:44:12.124Z"
-  },
-  {
-   "name": "DIE TRYING",
-   "artists": [
-    "PARTYNEXTDOOR",
-    "Drake",
-    "Yebba"
-   ],
-   "album": "$ome $exy $ongs 4 U",
-   "image": "https://i.scdn.co/image/ab67616d0000485182e549302f7a635fedc98331",
-   "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
-   "played_at": "2026-11-13T15:41:15.131Z"
-  },
-  {
-   "name": "DIE TRYING",
-   "artists": [
-    "PARTYNEXTDOOR",
-    "Drake",
-    "Yebba"
-   ],
-   "album": "$ome $exy $ongs 4 U",
-   "image": "https://i.scdn.co/image/ab67616d0000485182e549302f7a635fedc98331",
-   "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
-   "played_at": "2026-11-13T14:03:10.939Z"
-  },
-  {
-   "name": "DIE TRYING",
-   "artists": [
-    "PARTYNEXTDOOR",
-    "Drake",
-    "Yebba"
-   ],
-   "album": "$ome $exy $ongs 4 U",
-   "image": "https://i.scdn.co/image/ab67616d0000485182e549302f7a635fedc98331",
-   "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
-   "played_at": "2026-11-13T13:48:20.634Z"
-  },
-  {
-   "name": "3:15 (Breathe)",
-   "artists": [
-    "Russ"
-   ],
-   "album": "3:15 (Breathe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
-   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
-   "played_at": "2026-11-13T13:45:05.194Z"
   }
  ],
  "top_artists": [
@@ -125,11 +118,6 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
-   "name": "Tate McRae",
-   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-  },
-  {
    "name": "Don Toliver",
    "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
@@ -138,6 +126,11 @@
    "name": "Garmiani",
    "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
    "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+  },
+  {
+   "name": "Tate McRae",
+   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
   }
  ],
  "top_tracks": [
@@ -162,15 +155,6 @@
    "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
   },
   {
-   "name": "Housewife",
-   "artists": [
-    "Tate McRae"
-   ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-  },
-  {
    "name": "Dwarka Mor",
    "artists": [
     "Dflacko",
@@ -188,6 +172,16 @@
    "album": "Bomb A Drop",
    "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
    "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0"
+  },
+  {
+   "name": "Abrar’s Entry | Jamal Kudu (From \"ANIMAL\")",
+   "artists": [
+    "Harshavardhan Rameshwar",
+    "Choir"
+   ],
+   "album": "Abrar’s Entry | Jamal Kudu (From \"ANIMAL\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851106eb07ca5ca32a6894049c4",
+   "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
   }
  ],
  "now_playing": null,
@@ -205,11 +199,6 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
-     "name": "Tate McRae",
-     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-    },
-    {
      "name": "Don Toliver",
      "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
@@ -218,6 +207,11 @@
      "name": "Garmiani",
      "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
      "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+    },
+    {
+     "name": "Tate McRae",
+     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
     }
    ],
    "top_tracks": [
@@ -242,15 +236,6 @@
      "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
     },
     {
-     "name": "Housewife",
-     "artists": [
-      "Tate McRae"
-     ],
-     "album": "Housewife",
-     "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-     "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
      "name": "Dwarka Mor",
      "artists": [
       "Dflacko",
@@ -268,6 +253,16 @@
      "album": "Bomb A Drop",
      "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
      "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0"
+    },
+    {
+     "name": "Abrar’s Entry | Jamal Kudu (From \"ANIMAL\")",
+     "artists": [
+      "Harshavardhan Rameshwar",
+      "Choir"
+     ],
+     "album": "Abrar’s Entry | Jamal Kudu (From \"ANIMAL\")",
+     "image": "https://i.scdn.co/image/ab67616d00004851106eb07ca5ca32a6894049c4",
+     "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
     }
    ]
   },
@@ -427,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-11-14T06:52:15+00:00"
+ "updated_at": "2026-11-14T13:56:10+00:00"
 }
