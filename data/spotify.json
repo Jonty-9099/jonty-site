@@ -1,6 +1,16 @@
 {
  "recently_played": [
   {
+   "name": "Somebody Else",
+   "artists": [
+    "The 1975"
+   ],
+   "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+   "image": "https://i.scdn.co/image/ab67616d00004851d3de03550f715df1ea7e0c08",
+   "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk",
+   "played_at": "2026-11-14T17:01:16.807Z"
+  },
+  {
    "name": "Better",
    "artists": [
     "Khalid"
@@ -93,17 +103,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048514699b5cefc4ea67c17743346",
    "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW",
    "played_at": "2026-11-13T15:50:59.615Z"
-  },
-  {
-   "name": "I Feel It Coming",
-   "artists": [
-    "The Weeknd",
-    "Daft Punk"
-   ],
-   "album": "Starboy",
-   "image": "https://i.scdn.co/image/ab67616d00004851a048415db06a5b6fa7ec4e1a",
-   "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt",
-   "played_at": "2026-11-13T15:48:36.896Z"
   }
  ],
  "top_artists": [
@@ -422,5 +421,5 @@
    ]
   }
  },
- "updated_at": "2026-11-14T13:56:10+00:00"
+ "updated_at": "2026-11-14T18:57:33+00:00"
 }
