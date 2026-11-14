@@ -1,6 +1,36 @@
 {
  "recently_played": [
   {
+   "name": "Boston",
+   "artists": [
+    "STELLA LEFTY"
+   ],
+   "album": "Long Way Home",
+   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
+   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
+   "played_at": "2026-11-13T23:37:07.038Z"
+  },
+  {
+   "name": "Housewife",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "Housewife",
+   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
+   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
+   "played_at": "2026-11-13T23:33:05.927Z"
+  },
+  {
+   "name": "Flight's Booked",
+   "artists": [
+    "Drake"
+   ],
+   "album": "Honestly, Nevermind",
+   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
+   "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc",
+   "played_at": "2026-11-13T23:26:19.625Z"
+  },
+  {
    "name": "Runaway (U & I)",
    "artists": [
     "Ian Asher",
@@ -81,37 +111,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
    "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
    "played_at": "2026-11-13T13:45:05.194Z"
-  },
-  {
-   "name": "Life Is Good (feat. Drake)",
-   "artists": [
-    "Future",
-    "Drake"
-   ],
-   "album": "High Off Life",
-   "image": "https://i.scdn.co/image/ab67616d000048517459c852e9479c56eceae52a",
-   "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3",
-   "played_at": "2026-11-13T13:42:21.993Z"
-  },
-  {
-   "name": "Go Flex",
-   "artists": [
-    "Post Malone"
-   ],
-   "album": "Stoney (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
-   "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ",
-   "played_at": "2026-11-13T13:38:36.238Z"
-  },
-  {
-   "name": "Do Not Disturb",
-   "artists": [
-    "Drake"
-   ],
-   "album": "More Life",
-   "image": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
-   "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384",
-   "played_at": "2026-11-13T13:35:52.297Z"
   }
  ],
  "top_artists": [
@@ -430,5 +429,5 @@
    ]
   }
  },
- "updated_at": "2026-11-13T18:39:05+00:00"
+ "updated_at": "2026-11-14T00:08:51+00:00"
 }
