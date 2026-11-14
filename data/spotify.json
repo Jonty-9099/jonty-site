@@ -162,16 +162,6 @@
    "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
   },
   {
-   "name": "Boom Shaka",
-   "artists": [
-    "KR$NA",
-    "Dhanda Nyoliwala"
-   ],
-   "album": "Boom Shaka",
-   "image": "https://i.scdn.co/image/ab67616d0000485113dcb5da9470852eb67f1783",
-   "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
-  },
-  {
    "name": "Housewife",
    "artists": [
     "Tate McRae"
@@ -189,6 +179,15 @@
    "album": "Hustle 5 - Episode 3",
    "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
    "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
+  },
+  {
+   "name": "Bomb A Drop",
+   "artists": [
+    "Garmiani"
+   ],
+   "album": "Bomb A Drop",
+   "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
+   "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0"
   }
  ],
  "now_playing": null,
@@ -243,16 +242,6 @@
      "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
     },
     {
-     "name": "Boom Shaka",
-     "artists": [
-      "KR$NA",
-      "Dhanda Nyoliwala"
-     ],
-     "album": "Boom Shaka",
-     "image": "https://i.scdn.co/image/ab67616d0000485113dcb5da9470852eb67f1783",
-     "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
-    },
-    {
      "name": "Housewife",
      "artists": [
       "Tate McRae"
@@ -270,6 +259,15 @@
      "album": "Hustle 5 - Episode 3",
      "image": "https://i.scdn.co/image/ab67616d00004851944451c786280f1ea978ff7f",
      "url": "https://open.spotify.com/track/0J8MQwJvflZtF2sTyf6Qx5"
+    },
+    {
+     "name": "Bomb A Drop",
+     "artists": [
+      "Garmiani"
+     ],
+     "album": "Bomb A Drop",
+     "image": "https://i.scdn.co/image/ab67616d00004851a469ece46763719429a48588",
+     "url": "https://open.spotify.com/track/140sjUpWS7JZKrjYpl1bl0"
     }
    ]
   },
@@ -429,5 +427,5 @@
    ]
   }
  },
- "updated_at": "2026-11-14T00:08:51+00:00"
+ "updated_at": "2026-11-14T06:52:15+00:00"
 }
