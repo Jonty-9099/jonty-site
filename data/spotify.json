@@ -1,108 +1,133 @@
 {
  "recently_played": [
   {
-   "name": "Somebody Else",
+   "name": "Aga Bai",
    "artists": [
-    "The 1975"
+    "Shalmali Kholgade",
+    "Monali Thakur",
+    "Amit Trivedi",
+    "Amitabh Bhattacharya"
    ],
-   "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-   "image": "https://i.scdn.co/image/ab67616d00004851d3de03550f715df1ea7e0c08",
-   "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk",
-   "played_at": "2026-11-14T17:01:16.807Z"
+   "album": "Aiyyaa",
+   "image": "https://i.scdn.co/image/ab67616d000048516781b0577a94267c83517328",
+   "url": "https://open.spotify.com/track/5IIoQg5A7agXCksmdRLX7i",
+   "played_at": "2026-11-14T22:18:58.571Z"
   },
   {
-   "name": "Better",
+   "name": "Aaj Ki Raat",
    "artists": [
-    "Khalid"
+    "Sachin-Jigar",
+    "Madhubanti Bagchi",
+    "Divya Kumar",
+    "Amitabh Bhattacharya"
    ],
-   "album": "Suncity",
-   "image": "https://i.scdn.co/image/ab67616d00004851c243500e164150d229750c91",
-   "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX",
-   "played_at": "2026-11-14T11:35:07.430Z"
+   "album": "Stree 2",
+   "image": "https://i.scdn.co/image/ab67616d0000485136ae86ae0ed9f7a70985b68c",
+   "url": "https://open.spotify.com/track/1ICTQe3gvyPrLDdY44HKUK",
+   "played_at": "2026-11-14T22:00:20.693Z"
   },
   {
-   "name": "Power Trip (feat. Miguel)",
+   "name": "Ghungroo (From \"War\")",
    "artists": [
-    "J. Cole",
-    "Miguel"
+    "Vishal-Shekhar",
+    "Arijit Singh",
+    "Shilpa Rao",
+    "Kumaar"
    ],
-   "album": "Born Sinner (Deluxe Version)",
-   "image": "https://i.scdn.co/image/ab67616d00004851c1bb124f993488cf21b269fc",
-   "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy",
-   "played_at": "2026-11-14T11:31:29.544Z"
+   "album": "Ghungroo (From \"War\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851281650a8e8c5d04658d31ac1",
+   "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44",
+   "played_at": "2026-11-14T21:56:45.633Z"
   },
   {
-   "name": "Solar Eclipse (feat. Don Toliver)",
+   "name": "Aayi Nai",
    "artists": [
-    "Drake",
-    "Don Toliver"
+    "Sachin-Jigar",
+    "Pawan Singh",
+    "Simran Choudhary",
+    "Divya Kumar",
+    "Amitabh Bhattacharya"
    ],
-   "album": "HABIBTI (FOMO)",
-   "image": "https://i.scdn.co/image/ab67616d000048512685b70af798b4f272c00d8a",
-   "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-   "played_at": "2026-11-14T11:27:28.581Z"
+   "album": "Stree 2",
+   "image": "https://i.scdn.co/image/ab67616d0000485136ae86ae0ed9f7a70985b68c",
+   "url": "https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW",
+   "played_at": "2026-11-14T21:42:23.784Z"
   },
   {
-   "name": "Let It All Work Out",
+   "name": "Party On My Mind",
    "artists": [
-    "Lil Wayne",
-    "Sampha"
+    "Pritam",
+    "KK",
+    "Shefali Alvares",
+    "Yo Yo Honey Singh",
+    "Prashant Ingole"
    ],
-   "album": "Tha Carter V",
-   "image": "https://i.scdn.co/image/ab67616d00004851bb1138165ad4ec2306f4e886",
-   "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB",
-   "played_at": "2026-11-14T11:24:26.610Z"
+   "album": "Race 2 (Original Motion Picture Soundtrack)",
+   "image": "https://i.scdn.co/image/ab67616d00004851e90fcaa48b7f4c2dcfe394f5",
+   "url": "https://open.spotify.com/track/5Rn1DPzSzUktbhuNDDJocS",
+   "played_at": "2026-11-14T21:39:32.275Z"
   },
   {
-   "name": "Young Dumb & Broke",
+   "name": "Gallan Goodiyaan",
    "artists": [
-    "Khalid"
+    "Yashita Sharma",
+    "Manish Kumar Tipu",
+    "Farhan Akhtar",
+    "Shankar Mahadevan",
+    "Sukhwinder Singh"
    ],
-   "album": "American Teen",
-   "image": "https://i.scdn.co/image/ab67616d000048514ac041e0d889d3a2608210d5",
-   "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
-   "played_at": "2026-11-14T11:19:17.874Z"
+   "album": "Dil Dhadakne Do",
+   "image": "https://i.scdn.co/image/ab67616d00004851cff978906e5901b8efacc904",
+   "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR",
+   "played_at": "2026-11-14T21:36:11.382Z"
   },
   {
-   "name": "Boston",
+   "name": "Muqabla (From \"Street Dancer 3D\")",
    "artists": [
-    "STELLA LEFTY"
+    "Yash Narvekar",
+    "Parampara Tandon",
+    "Tanishk Bagchi"
    ],
-   "album": "Long Way Home",
-   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
-   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv",
-   "played_at": "2026-11-13T23:37:07.038Z"
+   "album": "Muqabla (From \"Street Dancer 3D\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851f57f022d8751d518b3dc5f40",
+   "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8",
+   "played_at": "2026-11-14T21:31:43.775Z"
   },
   {
-   "name": "Housewife",
+   "name": "Rangisari (From \"Jugjugg Jeeyo\")",
    "artists": [
-    "Tate McRae"
+    "Kanishk Seth",
+    "Kavita Seth"
    ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-   "played_at": "2026-11-13T23:33:05.927Z"
+   "album": "Rangisari (From \"Jugjugg Jeeyo\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851989726f025d1225922ae7eb5",
+   "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea",
+   "played_at": "2026-11-14T21:27:16.472Z"
   },
   {
-   "name": "Flight's Booked",
+   "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
    "artists": [
-    "Drake"
+    "Arjun Kanungo",
+    "Mayur Puri",
+    "Badshah"
    ],
-   "album": "Honestly, Nevermind",
-   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
-   "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc",
-   "played_at": "2026-11-13T23:26:19.625Z"
+   "album": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+   "image": "https://i.scdn.co/image/ab67616d000048515bc83bbb015d5ca32841ddd7",
+   "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk",
+   "played_at": "2026-11-14T21:24:04.768Z"
   },
   {
-   "name": "Runaway (U & I)",
+   "name": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
    "artists": [
-    "Ian Asher",
-    "Galantis"
+    "Tanishk Bagchi",
+    "Sonu Nigam",
+    "Ravi Pawar",
+    "Asees Kaur"
    ],
-   "album": "Runaway (U & I)",
-   "image": "https://i.scdn.co/image/ab67616d000048514699b5cefc4ea67c17743346",
-   "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW",
-   "played_at": "2026-11-13T15:50:59.615Z"
+   "album": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+   "image": "https://i.scdn.co/image/ab67616d00004851551b831d855afd8a33757d26",
+   "url": "https://open.spotify.com/track/2YRq6fQNSst2avCR6qhzSK",
+   "played_at": "2026-11-14T21:20:36.637Z"
   }
  ],
  "top_artists": [
@@ -421,5 +446,5 @@
    ]
   }
  },
- "updated_at": "2026-11-14T18:57:33+00:00"
+ "updated_at": "2026-11-14T22:54:03+00:00"
 }
