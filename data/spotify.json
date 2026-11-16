@@ -1,109 +1,112 @@
 {
  "recently_played": [
   {
-   "name": "So Easy (To Fall In Love)",
+   "name": "Sprinter",
    "artists": [
-    "Olivia Dean"
+    "Dave",
+    "Central Cee"
    ],
-   "album": "The Art of Loving",
-   "image": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
-   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
-   "played_at": "2026-11-15T20:42:12.565Z"
+   "album": "Sprinter",
+   "image": "https://i.scdn.co/image/ab67616d00004851dd9f1f94f2f9a10310a3d525",
+   "url": "https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR",
+   "played_at": "2026-11-16T17:13:34.581Z"
   },
   {
-   "name": "On The Road (feat. Meek Mill & Lil Baby)",
+   "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
    "artists": [
-    "Post Malone",
-    "Meek Mill",
-    "Lil Baby"
+    "A$AP Rocky",
+    "Rod Stewart",
+    "Miguel",
+    "Mark Ronson"
    ],
-   "album": "Hollywood's Bleeding",
-   "image": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
-   "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2",
-   "played_at": "2026-11-15T20:39:23.796Z"
+   "album": "AT.LONG.LAST.A$AP",
+   "image": "https://i.scdn.co/image/ab67616d0000485149efdc44d0733042f8b99d57",
+   "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0",
+   "played_at": "2026-11-16T17:09:52.460Z"
   },
   {
-   "name": "Whisper My Name",
+   "name": "Trust Issues",
    "artists": [
     "Drake"
    ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
-   "played_at": "2026-11-15T20:35:51.721Z"
+   "album": "Care Package",
+   "image": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+   "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq",
+   "played_at": "2026-11-16T17:05:40.487Z"
   },
   {
-   "name": "Feels Like Summer",
+   "name": "Work Out",
    "artists": [
-    "Childish Gambino"
+    "J. Cole"
    ],
-   "album": "Summer Pack",
-   "image": "https://i.scdn.co/image/ab67616d00004851602ca5b83fe44b68074a74b2",
-   "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr",
-   "played_at": "2026-11-15T20:32:18.806Z"
+   "album": "Cole World: The Sideline Story",
+   "image": "https://i.scdn.co/image/ab67616d0000485199da48a530f6ca2ef86da3cc",
+   "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO",
+   "played_at": "2026-11-16T17:01:34.193Z"
   },
   {
-   "name": "End of Beginning",
+   "name": "Trust Issues",
    "artists": [
-    "Djo"
+    "Drake"
    ],
-   "album": "DECIDE",
-   "image": "https://i.scdn.co/image/ab67616d00004851987466cc3363ea26094ca3c4",
-   "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-   "played_at": "2026-11-15T20:23:57.876Z"
+   "album": "Care Package",
+   "image": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+   "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq",
+   "played_at": "2026-11-16T17:01:34.193Z"
   },
   {
-   "name": "Unforgettable",
+   "name": "deja vu",
    "artists": [
-    "French Montana",
-    "Swae Lee"
+    "Olivia Rodrigo"
    ],
-   "album": "Jungle Rules",
-   "image": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
-   "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
-   "played_at": "2026-11-15T19:11:47.612Z"
+   "album": "SOUR",
+   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+   "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
+   "played_at": "2026-11-16T15:27:14.242Z"
   },
   {
-   "name": "One Dance",
+   "name": "Trophies",
+   "artists": [
+    "Young Money",
+    "Drake"
+   ],
+   "album": "Rise Of An Empire (Deluxe Edition)",
+   "image": "https://i.scdn.co/image/ab67616d00004851842e732b778998eef17b405f",
+   "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk",
+   "played_at": "2026-11-16T15:23:38.972Z"
+  },
+  {
+   "name": "Believe Me",
+   "artists": [
+    "Lil Wayne",
+    "Drake"
+   ],
+   "album": "Believe Me",
+   "image": "https://i.scdn.co/image/ab67616d00004851a097c007351b6dc514af10fc",
+   "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp",
+   "played_at": "2026-11-16T15:20:30.703Z"
+  },
+  {
+   "name": "Chicago Freestyle (feat. Giveon)",
    "artists": [
     "Drake",
-    "Wizkid",
-    "Kyla"
+    "GIVĒON"
    ],
-   "album": "Views",
-   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-   "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
-   "played_at": "2026-11-15T19:08:12.113Z"
+   "album": "Dark Lane Demo Tapes",
+   "image": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+   "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B",
+   "played_at": "2026-11-16T13:50:19.604Z"
   },
   {
-   "name": "Sweater Weather",
+   "name": "Come and See Me (feat. Drake)",
    "artists": [
-    "The Neighbourhood"
+    "PARTYNEXTDOOR",
+    "Drake"
    ],
-   "album": "I Love You.",
-   "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
-   "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
-   "played_at": "2026-11-15T19:05:25.887Z"
-  },
-  {
-   "name": "ATM",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-11-15T19:01:33.637Z"
-  },
-  {
-   "name": "Hotel California - 2013 Remaster",
-   "artists": [
-    "Eagles"
-   ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-   "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-   "played_at": "2026-11-15T18:43:39.799Z"
+   "album": "PARTYNEXTDOOR 3 (P3)",
+   "image": "https://i.scdn.co/image/ab67616d00004851c05f7aac1a4fd32d034715aa",
+   "url": "https://open.spotify.com/track/07DFrL1wSWFpQHkx7lnIfP",
+   "played_at": "2026-11-16T13:46:41.113Z"
   }
  ],
  "top_artists": [
@@ -118,6 +121,11 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
+   "name": "Tate McRae",
+   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+  },
+  {
    "name": "Don Toliver",
    "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
@@ -126,11 +134,6 @@
    "name": "Garmiani",
    "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
    "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
-  },
-  {
-   "name": "Tate McRae",
-   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
   }
  ],
  "top_tracks": [
@@ -199,6 +202,11 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
+     "name": "Tate McRae",
+     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+    },
+    {
      "name": "Don Toliver",
      "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
@@ -207,11 +215,6 @@
      "name": "Garmiani",
      "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
      "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
-    },
-    {
-     "name": "Tate McRae",
-     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
     }
    ],
    "top_tracks": [
@@ -422,5 +425,5 @@
    ]
   }
  },
- "updated_at": "2026-11-15T21:27:50+00:00"
+ "updated_at": "2026-11-16T18:46:20+00:00"
 }
