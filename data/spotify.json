@@ -1,6 +1,50 @@
 {
  "recently_played": [
   {
+   "name": "WELCOME (feat. Eminem)",
+   "artists": [
+    "IDK",
+    "Eminem",
+    "J Dilla"
+   ],
+   "album": "WELCOME (feat. Eminem)",
+   "image": "https://i.scdn.co/image/ab67616d00004851de271ec71a6b0062d97ac6c7",
+   "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM",
+   "played_at": "2026-11-16T19:36:38.929Z"
+  },
+  {
+   "name": "LITE (feat. Belly Gang Kushington, Lil Wayne) (remix)",
+   "artists": [
+    "BigXthaPlug",
+    "Belly Gang Kushington",
+    "Lil Wayne"
+   ],
+   "album": "BETTER OVER TIME",
+   "image": "https://i.scdn.co/image/ab67616d00004851e21567d172db2bfc6d36e6a2",
+   "url": "https://open.spotify.com/track/7mok315eY6nztyN0NO9Qwu",
+   "played_at": "2026-11-16T19:34:03.319Z"
+  },
+  {
+   "name": "Party With The Boys",
+   "artists": [
+    "Don Toliver"
+   ],
+   "album": "Party With The Boys",
+   "image": "https://i.scdn.co/image/ab67616d000048518bbb613d6a46052d9fc719ff",
+   "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu",
+   "played_at": "2026-11-16T19:30:33.499Z"
+  },
+  {
+   "name": "Tu Aake Dekhle",
+   "artists": [
+    "King"
+   ],
+   "album": "The Carnival",
+   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
+   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
+   "played_at": "2026-11-16T19:27:24.841Z"
+  },
+  {
    "name": "Sprinter",
    "artists": [
     "Dave",
@@ -63,50 +107,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
    "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
    "played_at": "2026-11-16T15:27:14.242Z"
-  },
-  {
-   "name": "Trophies",
-   "artists": [
-    "Young Money",
-    "Drake"
-   ],
-   "album": "Rise Of An Empire (Deluxe Edition)",
-   "image": "https://i.scdn.co/image/ab67616d00004851842e732b778998eef17b405f",
-   "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk",
-   "played_at": "2026-11-16T15:23:38.972Z"
-  },
-  {
-   "name": "Believe Me",
-   "artists": [
-    "Lil Wayne",
-    "Drake"
-   ],
-   "album": "Believe Me",
-   "image": "https://i.scdn.co/image/ab67616d00004851a097c007351b6dc514af10fc",
-   "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp",
-   "played_at": "2026-11-16T15:20:30.703Z"
-  },
-  {
-   "name": "Chicago Freestyle (feat. Giveon)",
-   "artists": [
-    "Drake",
-    "GIVĒON"
-   ],
-   "album": "Dark Lane Demo Tapes",
-   "image": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
-   "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B",
-   "played_at": "2026-11-16T13:50:19.604Z"
-  },
-  {
-   "name": "Come and See Me (feat. Drake)",
-   "artists": [
-    "PARTYNEXTDOOR",
-    "Drake"
-   ],
-   "album": "PARTYNEXTDOOR 3 (P3)",
-   "image": "https://i.scdn.co/image/ab67616d00004851c05f7aac1a4fd32d034715aa",
-   "url": "https://open.spotify.com/track/07DFrL1wSWFpQHkx7lnIfP",
-   "played_at": "2026-11-16T13:46:41.113Z"
   }
  ],
  "top_artists": [
@@ -121,14 +121,14 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
-   "name": "Tate McRae",
-   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-  },
-  {
    "name": "Don Toliver",
    "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+  },
+  {
+   "name": "Tate McRae",
+   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
   },
   {
    "name": "Garmiani",
@@ -202,14 +202,14 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
-     "name": "Tate McRae",
-     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-    },
-    {
      "name": "Don Toliver",
      "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+     "name": "Tate McRae",
+     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
     },
     {
      "name": "Garmiani",
@@ -425,5 +425,5 @@
    ]
   }
  },
- "updated_at": "2026-11-16T18:46:20+00:00"
+ "updated_at": "2026-11-17T02:17:19+00:00"
 }
