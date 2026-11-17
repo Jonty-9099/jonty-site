@@ -1,112 +1,113 @@
 {
  "recently_played": [
   {
-   "name": "WELCOME (feat. Eminem)",
+   "name": "rockstar (feat. 21 Savage)",
    "artists": [
-    "IDK",
+    "Post Malone",
+    "21 Savage"
+   ],
+   "album": "beerbongs & bentleys",
+   "image": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+   "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt",
+   "played_at": "2026-11-17T17:23:32.319Z"
+  },
+  {
+   "name": "Love The Way You Lie",
+   "artists": [
     "Eminem",
-    "J Dilla"
+    "Rihanna"
    ],
-   "album": "WELCOME (feat. Eminem)",
-   "image": "https://i.scdn.co/image/ab67616d00004851de271ec71a6b0062d97ac6c7",
-   "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM",
-   "played_at": "2026-11-16T19:36:38.929Z"
+   "album": "Recovery",
+   "image": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
+   "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+   "played_at": "2026-11-17T17:20:38.892Z"
   },
   {
-   "name": "LITE (feat. Belly Gang Kushington, Lil Wayne) (remix)",
+   "name": "Love The Way You Lie",
    "artists": [
-    "BigXthaPlug",
-    "Belly Gang Kushington",
-    "Lil Wayne"
+    "Eminem",
+    "Rihanna"
    ],
-   "album": "BETTER OVER TIME",
-   "image": "https://i.scdn.co/image/ab67616d00004851e21567d172db2bfc6d36e6a2",
-   "url": "https://open.spotify.com/track/7mok315eY6nztyN0NO9Qwu",
-   "played_at": "2026-11-16T19:34:03.319Z"
+   "album": "Recovery",
+   "image": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
+   "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+   "played_at": "2026-11-17T17:20:32.932Z"
   },
   {
-   "name": "Party With The Boys",
-   "artists": [
-    "Don Toliver"
-   ],
-   "album": "Party With The Boys",
-   "image": "https://i.scdn.co/image/ab67616d000048518bbb613d6a46052d9fc719ff",
-   "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu",
-   "played_at": "2026-11-16T19:30:33.499Z"
-  },
-  {
-   "name": "Tu Aake Dekhle",
-   "artists": [
-    "King"
-   ],
-   "album": "The Carnival",
-   "image": "https://i.scdn.co/image/ab67616d0000485199bc4786696a0bb07e60e0ca",
-   "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby",
-   "played_at": "2026-11-16T19:27:24.841Z"
-  },
-  {
-   "name": "Sprinter",
-   "artists": [
-    "Dave",
-    "Central Cee"
-   ],
-   "album": "Sprinter",
-   "image": "https://i.scdn.co/image/ab67616d00004851dd9f1f94f2f9a10310a3d525",
-   "url": "https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR",
-   "played_at": "2026-11-16T17:13:34.581Z"
-  },
-  {
-   "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
-   "artists": [
-    "A$AP Rocky",
-    "Rod Stewart",
-    "Miguel",
-    "Mark Ronson"
-   ],
-   "album": "AT.LONG.LAST.A$AP",
-   "image": "https://i.scdn.co/image/ab67616d0000485149efdc44d0733042f8b99d57",
-   "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0",
-   "played_at": "2026-11-16T17:09:52.460Z"
-  },
-  {
-   "name": "Trust Issues",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Care Package",
-   "image": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
-   "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq",
-   "played_at": "2026-11-16T17:05:40.487Z"
-  },
-  {
-   "name": "Work Out",
-   "artists": [
-    "J. Cole"
-   ],
-   "album": "Cole World: The Sideline Story",
-   "image": "https://i.scdn.co/image/ab67616d0000485199da48a530f6ca2ef86da3cc",
-   "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO",
-   "played_at": "2026-11-16T17:01:34.193Z"
-  },
-  {
-   "name": "Trust Issues",
-   "artists": [
-    "Drake"
-   ],
-   "album": "Care Package",
-   "image": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
-   "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq",
-   "played_at": "2026-11-16T17:01:34.193Z"
-  },
-  {
-   "name": "deja vu",
+   "name": "drivers license",
    "artists": [
     "Olivia Rodrigo"
    ],
    "album": "SOUR",
    "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
-   "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
-   "played_at": "2026-11-16T15:27:14.242Z"
+   "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+   "played_at": "2026-11-17T16:38:25.256Z"
+  },
+  {
+   "name": "drivers license",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "album": "SOUR",
+   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+   "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+   "played_at": "2026-11-17T16:35:36.557Z"
+  },
+  {
+   "name": "The London (feat. J. Cole & Travis Scott)",
+   "artists": [
+    "Young Thug",
+    "J. Cole",
+    "Travis Scott"
+   ],
+   "album": "So Much Fun",
+   "image": "https://i.scdn.co/image/ab67616d000048518da62aa4aa86bb58f67196e9",
+   "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n",
+   "played_at": "2026-11-17T14:10:40.739Z"
+  },
+  {
+   "name": "Slime You Out (feat. SZA)",
+   "artists": [
+    "Drake",
+    "SZA"
+   ],
+   "album": "For All The Dogs",
+   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+   "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH",
+   "played_at": "2026-11-17T13:46:45.395Z"
+  },
+  {
+   "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+   "artists": [
+    "A$AP Rocky",
+    "Drake",
+    "2 Chainz",
+    "Kendrick Lamar"
+   ],
+   "album": "LONG.LIVE.A$AP (Deluxe Version)",
+   "image": "https://i.scdn.co/image/ab67616d000048512ae92030b51fb8135d694af9",
+   "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5",
+   "played_at": "2026-11-17T13:41:48.155Z"
+  },
+  {
+   "name": "3:15 (Breathe)",
+   "artists": [
+    "Russ"
+   ],
+   "album": "3:15 (Breathe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
+   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
+   "played_at": "2026-11-17T13:37:53.411Z"
+  },
+  {
+   "name": "3:15 (Breathe)",
+   "artists": [
+    "Russ"
+   ],
+   "album": "3:15 (Breathe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
+   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
+   "played_at": "2026-11-17T13:37:35.698Z"
   }
  ],
  "top_artists": [
@@ -425,5 +426,5 @@
    ]
   }
  },
- "updated_at": "2026-11-17T02:17:19+00:00"
+ "updated_at": "2026-11-17T19:39:57+00:00"
 }
