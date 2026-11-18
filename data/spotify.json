@@ -1,6 +1,67 @@
 {
  "recently_played": [
   {
+   "name": "SaWaDiKa",
+   "artists": [
+    "LISA"
+   ],
+   "album": "SaWaDiKa",
+   "image": "https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e",
+   "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa",
+   "played_at": "2026-11-18T15:34:10.398Z"
+  },
+  {
+   "name": "Somebody's Me",
+   "artists": [
+    "Enrique Iglesias"
+   ],
+   "album": "Insomniac",
+   "image": "https://i.scdn.co/image/ab67616d00004851da6bb18ebe00f772ed6f60bb",
+   "url": "https://open.spotify.com/track/4LWAiMprgEypyJcUUOxeld",
+   "played_at": "2026-11-18T15:14:42.396Z"
+  },
+  {
+   "name": "Come & Go (with Marshmello)",
+   "artists": [
+    "Juice WRLD",
+    "Marshmello"
+   ],
+   "album": "Legends Never Die",
+   "image": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+   "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG",
+   "played_at": "2026-11-18T15:10:55.579Z"
+  },
+  {
+   "name": "Murder on My Mind",
+   "artists": [
+    "YNW Melly"
+   ],
+   "album": "I AM YOU",
+   "image": "https://i.scdn.co/image/ab67616d000048510f5397dc6aa91374897182e0",
+   "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC",
+   "played_at": "2026-11-18T15:07:50.204Z"
+  },
+  {
+   "name": "Better",
+   "artists": [
+    "Khalid"
+   ],
+   "album": "Suncity",
+   "image": "https://i.scdn.co/image/ab67616d00004851316e987210a1186c95eff23e",
+   "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
+   "played_at": "2026-11-18T15:04:09.110Z"
+  },
+  {
+   "name": "0 To 100 / The Catch Up",
+   "artists": [
+    "Drake"
+   ],
+   "album": "0 To 100 / The Catch Up",
+   "image": "https://i.scdn.co/image/ab67616d000048512b83df1b3ca78269f49fa89f",
+   "url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7",
+   "played_at": "2026-11-18T15:00:53.214Z"
+  },
+  {
    "name": "rockstar (feat. 21 Savage)",
    "artists": [
     "Post Malone",
@@ -42,72 +103,6 @@
    "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
    "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
    "played_at": "2026-11-17T16:38:25.256Z"
-  },
-  {
-   "name": "drivers license",
-   "artists": [
-    "Olivia Rodrigo"
-   ],
-   "album": "SOUR",
-   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
-   "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
-   "played_at": "2026-11-17T16:35:36.557Z"
-  },
-  {
-   "name": "The London (feat. J. Cole & Travis Scott)",
-   "artists": [
-    "Young Thug",
-    "J. Cole",
-    "Travis Scott"
-   ],
-   "album": "So Much Fun",
-   "image": "https://i.scdn.co/image/ab67616d000048518da62aa4aa86bb58f67196e9",
-   "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n",
-   "played_at": "2026-11-17T14:10:40.739Z"
-  },
-  {
-   "name": "Slime You Out (feat. SZA)",
-   "artists": [
-    "Drake",
-    "SZA"
-   ],
-   "album": "For All The Dogs",
-   "image": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-   "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH",
-   "played_at": "2026-11-17T13:46:45.395Z"
-  },
-  {
-   "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
-   "artists": [
-    "A$AP Rocky",
-    "Drake",
-    "2 Chainz",
-    "Kendrick Lamar"
-   ],
-   "album": "LONG.LIVE.A$AP (Deluxe Version)",
-   "image": "https://i.scdn.co/image/ab67616d000048512ae92030b51fb8135d694af9",
-   "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5",
-   "played_at": "2026-11-17T13:41:48.155Z"
-  },
-  {
-   "name": "3:15 (Breathe)",
-   "artists": [
-    "Russ"
-   ],
-   "album": "3:15 (Breathe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
-   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
-   "played_at": "2026-11-17T13:37:53.411Z"
-  },
-  {
-   "name": "3:15 (Breathe)",
-   "artists": [
-    "Russ"
-   ],
-   "album": "3:15 (Breathe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485147912996054fec2a1ef78035",
-   "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H",
-   "played_at": "2026-11-17T13:37:35.698Z"
   }
  ],
  "top_artists": [
@@ -127,14 +122,14 @@
    "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
   },
   {
-   "name": "Tate McRae",
-   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-  },
-  {
    "name": "Garmiani",
    "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
    "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+  },
+  {
+   "name": "Tate McRae",
+   "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+   "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
   }
  ],
  "top_tracks": [
@@ -208,14 +203,14 @@
      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
-     "name": "Tate McRae",
-     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
-     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-    },
-    {
      "name": "Garmiani",
      "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
      "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+    },
+    {
+     "name": "Tate McRae",
+     "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
+     "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
     }
    ],
    "top_tracks": [
@@ -426,5 +421,5 @@
    ]
   }
  },
- "updated_at": "2026-11-17T19:39:57+00:00"
+ "updated_at": "2026-11-18T18:59:30+00:00"
 }
