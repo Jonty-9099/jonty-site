@@ -1,6 +1,16 @@
 {
  "recently_played": [
   {
+   "name": "So Easy (To Fall In Love)",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "The Art of Loving",
+   "image": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+   "played_at": "2026-11-21T02:33:11.586Z"
+  },
+  {
    "name": "GREECE (feat. Drake)",
    "artists": [
     "DJ Khaled",
@@ -94,16 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
    "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
    "played_at": "2026-11-19T11:06:04.035Z"
-  },
-  {
-   "name": "Hotel California - 2013 Remaster",
-   "artists": [
-    "Eagles"
-   ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-   "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-   "played_at": "2026-11-19T11:02:28.540Z"
   }
  ],
  "top_artists": [
@@ -422,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-11-20T17:06:15+00:00"
+ "updated_at": "2026-11-21T04:08:15+00:00"
 }
