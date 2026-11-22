@@ -1,6 +1,49 @@
 {
  "recently_played": [
   {
+   "name": "Iris",
+   "artists": [
+    "The Goo Goo Dolls"
+   ],
+   "album": "Dizzy up the Girl",
+   "image": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+   "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+   "played_at": "2026-11-21T23:46:28.950Z"
+  },
+  {
+   "name": "Dreams - 2004 Remaster",
+   "artists": [
+    "Fleetwood Mac"
+   ],
+   "album": "Rumours (Super Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+   "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+   "played_at": "2026-11-21T23:41:32.722Z"
+  },
+  {
+   "name": "The Less I Know The Better",
+   "artists": [
+    "Tame Impala"
+   ],
+   "album": "Currents",
+   "image": "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+   "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+   "played_at": "2026-11-21T21:40:50.679Z"
+  },
+  {
+   "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+   "artists": [
+    "A$AP Rocky",
+    "Drake",
+    "2 Chainz",
+    "Kendrick Lamar"
+   ],
+   "album": "LONG.LIVE.A$AP (Deluxe Version)",
+   "image": "https://i.scdn.co/image/ab67616d000048512ae92030b51fb8135d694af9",
+   "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5",
+   "played_at": "2026-11-21T21:35:30.611Z"
+  },
+  {
    "name": "Janice STFU",
    "artists": [
     "Drake"
@@ -61,48 +104,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048510f5397dc6aa91374897182e0",
    "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC",
    "played_at": "2026-11-21T19:12:53.903Z"
-  },
-  {
-   "name": "Somebody's Me",
-   "artists": [
-    "Enrique Iglesias"
-   ],
-   "album": "Insomniac",
-   "image": "https://i.scdn.co/image/ab67616d00004851da6bb18ebe00f772ed6f60bb",
-   "url": "https://open.spotify.com/track/4LWAiMprgEypyJcUUOxeld",
-   "played_at": "2026-11-21T19:09:12.693Z"
-  },
-  {
-   "name": "Ventura",
-   "artists": [
-    "Your Magnolia"
-   ],
-   "album": "Blu",
-   "image": "https://i.scdn.co/image/ab67616d00004851910fb5e4cd65ed6d5229c0fa",
-   "url": "https://open.spotify.com/track/66jxTnm7e1NzaJBMCWqAX1",
-   "played_at": "2026-11-21T19:05:10.288Z"
-  },
-  {
-   "name": "Hemispheres",
-   "artists": [
-    "Odd Panda",
-    "Blauton"
-   ],
-   "album": "Macrocosm",
-   "image": "https://i.scdn.co/image/ab67616d0000485131a79c988c46f460b2f5bdeb",
-   "url": "https://open.spotify.com/track/1VTXlYoekAic38R9lTpBe7",
-   "played_at": "2026-11-21T17:17:48.298Z"
-  },
-  {
-   "name": "Memory Card",
-   "artists": [
-    "L'Indécis",
-    "ØDYSSEE"
-   ],
-   "album": "Relic.exe",
-   "image": "https://i.scdn.co/image/ab67616d000048511ca07e5dfa9d1dfdcc0046ca",
-   "url": "https://open.spotify.com/track/0F4dxfjFuhboWO4ddf7fF5",
-   "played_at": "2026-11-21T17:15:39.896Z"
   }
  ],
  "top_artists": [
@@ -117,11 +118,6 @@
    "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
   },
   {
-   "name": "Don Toliver",
-   "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
-   "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-  },
-  {
    "name": "Tate McRae",
    "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
    "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
@@ -130,6 +126,11 @@
    "name": "Garmiani",
    "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
    "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+  },
+  {
+   "name": "Don Toliver",
+   "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
+   "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
   }
  ],
  "top_tracks": [
@@ -198,11 +199,6 @@
      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
     },
     {
-     "name": "Don Toliver",
-     "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
-     "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-    },
-    {
      "name": "Tate McRae",
      "image": "https://i.scdn.co/image/ab6761610000f178eefdef74a162b2913094ad9c",
      "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
@@ -211,6 +207,11 @@
      "name": "Garmiani",
      "image": "https://i.scdn.co/image/ab6761610000f1782c5d4bfb1c7bbad344133a30",
      "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+    },
+    {
+     "name": "Don Toliver",
+     "image": "https://i.scdn.co/image/ab6761610000f17895ef459a84c75fbdc20a070c",
+     "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
    ],
    "top_tracks": [
@@ -421,5 +422,5 @@
    ]
   }
  },
- "updated_at": "2026-11-21T19:55:08+00:00"
+ "updated_at": "2026-11-22T00:04:48+00:00"
 }
