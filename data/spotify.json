@@ -1,6 +1,76 @@
 {
  "recently_played": [
   {
+   "name": "Choosin' Texas",
+   "artists": [
+    "Ella Langley"
+   ],
+   "album": "Dandelion",
+   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
+   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+   "played_at": "2026-11-23T19:58:56.907Z"
+  },
+  {
+   "name": "2 Hard 4 The Radio",
+   "artists": [
+    "Drake"
+   ],
+   "album": "ICEMAN",
+   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
+   "played_at": "2026-11-23T19:55:11.116Z"
+  },
+  {
+   "name": "Sweater Weather",
+   "artists": [
+    "The Neighbourhood"
+   ],
+   "album": "I Love You.",
+   "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+   "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+   "played_at": "2026-11-23T13:53:24.212Z"
+  },
+  {
+   "name": "Somebody Else",
+   "artists": [
+    "The 1975"
+   ],
+   "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+   "image": "https://i.scdn.co/image/ab67616d00004851d3de03550f715df1ea7e0c08",
+   "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk",
+   "played_at": "2026-11-23T13:17:54.336Z"
+  },
+  {
+   "name": "Choosin' Texas",
+   "artists": [
+    "Ella Langley"
+   ],
+   "album": "Dandelion",
+   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
+   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+   "played_at": "2026-11-23T13:12:34.825Z"
+  },
+  {
+   "name": "2 Hard 4 The Radio",
+   "artists": [
+    "Drake"
+   ],
+   "album": "ICEMAN",
+   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
+   "played_at": "2026-11-23T13:08:49.131Z"
+  },
+  {
+   "name": "Enter Galactic (Love Connection Part I) - Album Version (Edited)",
+   "artists": [
+    "Kid Cudi"
+   ],
+   "album": "Man On The Moon: The End Of Day (Deluxe)",
+   "image": "https://i.scdn.co/image/ab67616d0000485114b68a029c1676faee9a4d43",
+   "url": "https://open.spotify.com/track/408VenZnyNKUTIft034Tyd",
+   "played_at": "2026-11-23T13:05:30.601Z"
+  },
+  {
    "name": "Music For a Sushi Restaurant",
    "artists": [
     "Harry Styles"
@@ -29,81 +99,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048517b436d31c5ae44b334736619",
    "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
    "played_at": "2026-11-22T20:01:19.368Z"
-  },
-  {
-   "name": "Tell It To My Heart",
-   "artists": [
-    "MEDUZA",
-    "Hozier"
-   ],
-   "album": "Tell It To My Heart",
-   "image": "https://i.scdn.co/image/ab67616d00004851a97f3fad25245a1453b1b3b2",
-   "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA",
-   "played_at": "2026-11-22T19:57:14.488Z"
-  },
-  {
-   "name": "Peaches (feat. Daniel Caesar & Giveon)",
-   "artists": [
-    "Justin Bieber",
-    "Daniel Caesar",
-    "GIVĒON"
-   ],
-   "album": "Justice",
-   "image": "https://i.scdn.co/image/ab67616d000048516036cfd2a718036fc523855f",
-   "url": "https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO",
-   "played_at": "2026-11-22T19:54:28.900Z"
-  },
-  {
-   "name": "STAY (with Justin Bieber)",
-   "artists": [
-    "The Kid LAROI",
-    "Justin Bieber"
-   ],
-   "album": "STAY (with Justin Bieber)",
-   "image": "https://i.scdn.co/image/ab67616d000048515903b6c5efda52c943dc579a",
-   "url": "https://open.spotify.com/track/4kux0P5UfguojB4h0lQnsj",
-   "played_at": "2026-11-22T19:51:10.832Z"
-  },
-  {
-   "name": "505",
-   "artists": [
-    "Arctic Monkeys"
-   ],
-   "album": "Favourite Worst Nightmare (Standard Version)",
-   "image": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
-   "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS",
-   "played_at": "2026-11-22T19:48:49.046Z"
-  },
-  {
-   "name": "Somebody Told Me",
-   "artists": [
-    "The Killers"
-   ],
-   "album": "Hot Fuss",
-   "image": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
-   "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v",
-   "played_at": "2026-11-22T19:44:35.451Z"
-  },
-  {
-   "name": "Believe In Me",
-   "artists": [
-    "Robin Knaak"
-   ],
-   "album": "Believe In Me",
-   "image": "https://i.scdn.co/image/ab67616d00004851ed7b0472a9b42f5ff47fd29d",
-   "url": "https://open.spotify.com/track/16dZuIVe6C9fZFRpd7XBnq",
-   "played_at": "2026-11-22T19:41:19.182Z"
-  },
-  {
-   "name": "Breaking Me",
-   "artists": [
-    "Topic",
-    "A7S"
-   ],
-   "album": "Breaking Me",
-   "image": "https://i.scdn.co/image/ab67616d00004851ca801dab96017456b9847ac2",
-   "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po",
-   "played_at": "2026-11-22T19:37:58.212Z"
   }
  ],
  "top_artists": [
@@ -422,5 +417,5 @@
    ]
   }
  },
- "updated_at": "2026-11-22T21:31:31+00:00"
+ "updated_at": "2026-11-23T22:49:11+00:00"
 }
