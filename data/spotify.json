@@ -1,6 +1,79 @@
 {
  "recently_played": [
   {
+   "name": "GREECE (feat. Drake)",
+   "artists": [
+    "DJ Khaled",
+    "Drake"
+   ],
+   "album": "KHALED KHALED",
+   "image": "https://i.scdn.co/image/ab67616d00004851dcd4d70294f17175991ba1bb",
+   "url": "https://open.spotify.com/track/3gruCKVuhCsRjs3a3dG8CA",
+   "played_at": "2026-11-24T12:14:59.569Z"
+  },
+  {
+   "name": "Losin Control",
+   "artists": [
+    "Russ"
+   ],
+   "album": "There's Really A Wolf",
+   "image": "https://i.scdn.co/image/ab67616d00004851cb045e684adce8d49ada4045",
+   "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d",
+   "played_at": "2026-11-24T12:11:23.373Z"
+  },
+  {
+   "name": "DIE TRYING",
+   "artists": [
+    "PARTYNEXTDOOR",
+    "Drake",
+    "Yebba"
+   ],
+   "album": "$ome $exy $ongs 4 U",
+   "image": "https://i.scdn.co/image/ab67616d0000485182e549302f7a635fedc98331",
+   "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
+   "played_at": "2026-11-24T12:07:25.884Z"
+  },
+  {
+   "name": "exes",
+   "artists": [
+    "Tate McRae"
+   ],
+   "album": "THINK LATER",
+   "image": "https://i.scdn.co/image/ab67616d00004851c4258b134ff5756932f9c46f",
+   "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8",
+   "played_at": "2026-11-24T12:04:14.991Z"
+  },
+  {
+   "name": "Wow.",
+   "artists": [
+    "Post Malone"
+   ],
+   "album": "Hollywood's Bleeding",
+   "image": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
+   "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg",
+   "played_at": "2026-11-24T12:01:37.384Z"
+  },
+  {
+   "name": "No Face",
+   "artists": [
+    "Drake"
+   ],
+   "album": "No Face",
+   "image": "https://i.scdn.co/image/ab67616d00004851cf05fc616cf7e38c0e52b888",
+   "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1",
+   "played_at": "2026-11-24T11:59:22.992Z"
+  },
+  {
+   "name": "Somebody Else",
+   "artists": [
+    "The 1975"
+   ],
+   "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+   "image": "https://i.scdn.co/image/ab67616d00004851d3de03550f715df1ea7e0c08",
+   "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk",
+   "played_at": "2026-11-24T11:57:00.126Z"
+  },
+  {
    "name": "Choosin' Texas",
    "artists": [
     "Ella Langley"
@@ -29,76 +102,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
    "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
    "played_at": "2026-11-23T13:53:24.212Z"
-  },
-  {
-   "name": "Somebody Else",
-   "artists": [
-    "The 1975"
-   ],
-   "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-   "image": "https://i.scdn.co/image/ab67616d00004851d3de03550f715df1ea7e0c08",
-   "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk",
-   "played_at": "2026-11-23T13:17:54.336Z"
-  },
-  {
-   "name": "Choosin' Texas",
-   "artists": [
-    "Ella Langley"
-   ],
-   "album": "Dandelion",
-   "image": "https://i.scdn.co/image/ab67616d000048518606848da949bbaddf447d87",
-   "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
-   "played_at": "2026-11-23T13:12:34.825Z"
-  },
-  {
-   "name": "2 Hard 4 The Radio",
-   "artists": [
-    "Drake"
-   ],
-   "album": "ICEMAN",
-   "image": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
-   "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
-   "played_at": "2026-11-23T13:08:49.131Z"
-  },
-  {
-   "name": "Enter Galactic (Love Connection Part I) - Album Version (Edited)",
-   "artists": [
-    "Kid Cudi"
-   ],
-   "album": "Man On The Moon: The End Of Day (Deluxe)",
-   "image": "https://i.scdn.co/image/ab67616d0000485114b68a029c1676faee9a4d43",
-   "url": "https://open.spotify.com/track/408VenZnyNKUTIft034Tyd",
-   "played_at": "2026-11-23T13:05:30.601Z"
-  },
-  {
-   "name": "Music For a Sushi Restaurant",
-   "artists": [
-    "Harry Styles"
-   ],
-   "album": "Harry's House",
-   "image": "https://i.scdn.co/image/ab67616d0000485182ce362511fb3d9dda6578ee",
-   "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV",
-   "played_at": "2026-11-22T21:26:18.490Z"
-  },
-  {
-   "name": "Music For a Sushi Restaurant",
-   "artists": [
-    "Harry Styles"
-   ],
-   "album": "Harry's House",
-   "image": "https://i.scdn.co/image/ab67616d0000485182ce362511fb3d9dda6578ee",
-   "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV",
-   "played_at": "2026-11-22T20:22:13.325Z"
-  },
-  {
-   "name": "Maniac",
-   "artists": [
-    "Michael Sembello"
-   ],
-   "album": "Flashdance (Original Soundtrack From The Motion Picture)",
-   "image": "https://i.scdn.co/image/ab67616d000048517b436d31c5ae44b334736619",
-   "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
-   "played_at": "2026-11-22T20:01:19.368Z"
   }
  ],
  "top_artists": [
@@ -417,5 +420,5 @@
    ]
   }
  },
- "updated_at": "2026-11-23T22:49:11+00:00"
+ "updated_at": "2026-11-24T18:37:36+00:00"
 }
