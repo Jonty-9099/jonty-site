@@ -1,107 +1,110 @@
 {
  "recently_played": [
   {
-   "name": "HOPE",
-   "artists": [
-    "NF"
-   ],
-   "album": "HOPE",
-   "image": "https://i.scdn.co/image/ab67616d00004851ff8a4276b3be31c839557439",
-   "url": "https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP",
-   "played_at": "2026-11-26T10:58:57.532Z"
-  },
-  {
-   "name": "squabble up",
-   "artists": [
-    "Kendrick Lamar"
-   ],
-   "album": "GNX",
-   "image": "https://i.scdn.co/image/ab67616d00004851e2a0a166493a2bde5480a420",
-   "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
-   "played_at": "2026-11-26T10:54:36.519Z"
-  },
-  {
-   "name": "No Friends In The Industry",
+   "name": "Massive",
    "artists": [
     "Drake"
    ],
-   "album": "Certified Lover Boy",
-   "image": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-   "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
-   "played_at": "2026-11-26T10:52:00.133Z"
+   "album": "Honestly, Nevermind",
+   "image": "https://i.scdn.co/image/ab67616d0000485122dfcfcc0742f339986d20cb",
+   "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui",
+   "played_at": "2026-11-27T21:25:53.524Z"
   },
   {
-   "name": "run for the hills",
+   "name": "MIA",
    "artists": [
-    "Tate McRae"
+    "Bad Bunny",
+    "Drake"
    ],
-   "album": "THINK LATER",
-   "image": "https://i.scdn.co/image/ab67616d00004851c4258b134ff5756932f9c46f",
-   "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu",
-   "played_at": "2026-11-26T10:48:48.491Z"
+   "album": "X 100PRE",
+   "image": "https://i.scdn.co/image/ab67616d00004851519266cd05491a5b5bc22d1e",
+   "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK",
+   "played_at": "2026-11-27T21:20:38.543Z"
   },
   {
-   "name": "greedy",
+   "name": "Dog Days Are Over",
    "artists": [
-    "Tate McRae"
+    "Florence + The Machine"
    ],
-   "album": "greedy",
-   "image": "https://i.scdn.co/image/ab67616d000048515f677b5d3b81f08badd0775b",
-   "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t",
-   "played_at": "2026-11-26T10:42:48.038Z"
+   "album": "Lungs (Deluxe Edition)",
+   "image": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+   "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
+   "played_at": "2026-11-27T21:16:11.404Z"
   },
   {
-   "name": "One Dance",
+   "name": "Dog Days Are Over",
+   "artists": [
+    "Florence + The Machine"
+   ],
+   "album": "Lungs (Deluxe Edition)",
+   "image": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+   "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
+   "played_at": "2026-11-27T21:11:52.916Z"
+  },
+  {
+   "name": "deja vu",
+   "artists": [
+    "Olivia Rodrigo"
+   ],
+   "album": "SOUR",
+   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+   "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
+   "played_at": "2026-11-27T17:47:22.894Z"
+  },
+  {
+   "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
    "artists": [
     "Drake",
-    "Wizkid",
-    "Kyla"
+    "Rick Ross"
    ],
-   "album": "Views",
-   "image": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
-   "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
-   "played_at": "2026-11-26T10:40:42.550Z"
+   "album": "Scary Hours 2",
+   "image": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
+   "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI",
+   "played_at": "2026-11-27T17:44:01.592Z"
   },
   {
-   "name": "Power Trip (feat. Miguel)",
+   "name": "One Right Now (with The Weeknd)",
    "artists": [
-    "J. Cole",
-    "Miguel"
+    "Post Malone",
+    "The Weeknd"
    ],
-   "album": "Born Sinner (Deluxe Version)",
-   "image": "https://i.scdn.co/image/ab67616d00004851c1bb124f993488cf21b269fc",
-   "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy",
-   "played_at": "2026-11-26T10:37:13.062Z"
+   "album": "Twelve Carat Toothache",
+   "image": "https://i.scdn.co/image/ab67616d0000485134362676667a4322838ccc97",
+   "url": "https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk",
+   "played_at": "2026-11-27T16:36:07.838Z"
   },
   {
-   "name": "Hotel California - 2013 Remaster",
+   "name": "Feel Good Inc.",
    "artists": [
-    "Eagles"
+    "Gorillaz",
+    "De La Soul"
    ],
-   "album": "Hotel California (2013 Remaster)",
-   "image": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-   "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-   "played_at": "2026-11-25T11:08:01.081Z"
+   "album": "Demon Days",
+   "image": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
+   "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+   "played_at": "2026-11-27T16:33:05.006Z"
   },
   {
-   "name": "ATM",
+   "name": "Homecoming",
    "artists": [
-    "Don Toliver"
+    "Kanye West",
+    "Chris Martin"
    ],
-   "album": "OCTANE",
-   "image": "https://i.scdn.co/image/ab67616d0000485125c28f3c9fbdbab1a88dd619",
-   "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu",
-   "played_at": "2026-11-25T11:01:43.107Z"
+   "album": "Graduation",
+   "image": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe",
+   "played_at": "2026-11-27T16:29:37.135Z"
   },
   {
-   "name": "Housewife",
+   "name": "TOO SOON (feat. Babyface)",
    "artists": [
-    "Tate McRae"
+    "Jack Harlow",
+    "Babyface"
    ],
-   "album": "Housewife",
-   "image": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
-   "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-   "played_at": "2026-11-25T10:59:19.844Z"
+   "album": "TOO SOON (feat. Babyface)",
+   "image": "https://i.scdn.co/image/ab67616d00004851ef8ff7f32bc8da67754ab9b0",
+   "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ",
+   "played_at": "2026-11-27T16:26:48.842Z"
   }
  ],
  "top_artists": [
@@ -173,15 +176,13 @@
    "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
   },
   {
-   "name": "Badam",
+   "name": "Boston",
    "artists": [
-    "Hardwell",
-    "Henry Fong",
-    "Mr. Vegas"
+    "STELLA LEFTY"
    ],
-   "album": "Hardwell Presents Revealed, Vol. 8",
-   "image": "https://i.scdn.co/image/ab67616d000048518c7abdea04ba03e886fd273b",
-   "url": "https://open.spotify.com/track/0u4jYgFeWXXqzTWOsBXsQx"
+   "album": "Long Way Home",
+   "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
+   "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
   }
  ],
  "now_playing": null,
@@ -256,15 +257,13 @@
      "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
     },
     {
-     "name": "Badam",
+     "name": "Boston",
      "artists": [
-      "Hardwell",
-      "Henry Fong",
-      "Mr. Vegas"
+      "STELLA LEFTY"
      ],
-     "album": "Hardwell Presents Revealed, Vol. 8",
-     "image": "https://i.scdn.co/image/ab67616d000048518c7abdea04ba03e886fd273b",
-     "url": "https://open.spotify.com/track/0u4jYgFeWXXqzTWOsBXsQx"
+     "album": "Long Way Home",
+     "image": "https://i.scdn.co/image/ab67616d000048517b6c2112750367e20464b6b7",
+     "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
     }
    ]
   },
@@ -424,5 +423,5 @@
    ]
   }
  },
- "updated_at": "2026-11-26T13:35:40+00:00"
+ "updated_at": "2026-11-27T23:12:50+00:00"
 }
