@@ -1,6 +1,71 @@
 {
  "recently_played": [
   {
+   "name": "Move",
+   "artists": [
+    "Adam Port",
+    "Stryv",
+    "Keinemusik",
+    "Orso",
+    "Malachiii"
+   ],
+   "album": "Move",
+   "image": "https://i.scdn.co/image/ab67616d00004851a959d221820e650bee1ca487",
+   "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4",
+   "played_at": "2026-11-28T13:41:20.501Z"
+  },
+  {
+   "name": "What You Need",
+   "artists": [
+    "Tems"
+   ],
+   "album": "Love Is A Kingdom",
+   "image": "https://i.scdn.co/image/ab67616d000048514522df9fc7103540be3e7950",
+   "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU",
+   "played_at": "2026-11-28T12:27:21.223Z"
+  },
+  {
+   "name": "So Good (feat. Kendrick Lamar)",
+   "artists": [
+    "Jhené Aiko",
+    "Kendrick Lamar"
+   ],
+   "album": "Westside Whimsy",
+   "image": "https://i.scdn.co/image/ab67616d0000485149bd89da3bd906d2f8406875",
+   "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+   "played_at": "2026-11-28T12:23:55.525Z"
+  },
+  {
+   "name": "So Easy (To Fall In Love)",
+   "artists": [
+    "Olivia Dean"
+   ],
+   "album": "The Art of Loving",
+   "image": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+   "played_at": "2026-11-28T12:20:06.128Z"
+  },
+  {
+   "name": "Love Me Not",
+   "artists": [
+    "Ravyn Lenae"
+   ],
+   "album": "Bird's Eye",
+   "image": "https://i.scdn.co/image/ab67616d000048510e62daaea2c7b94053e1c142",
+   "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
+   "played_at": "2026-11-28T12:17:17.326Z"
+  },
+  {
+   "name": "hate that i made you love me",
+   "artists": [
+    "Ariana Grande"
+   ],
+   "album": "hate that i made you love me",
+   "image": "https://i.scdn.co/image/ab67616d00004851b622d42c30697e1e1414343c",
+   "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+   "played_at": "2026-11-28T12:14:12.028Z"
+  },
+  {
    "name": "Massive",
    "artists": [
     "Drake"
@@ -40,71 +105,6 @@
    "image": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
    "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
    "played_at": "2026-11-27T21:11:52.916Z"
-  },
-  {
-   "name": "deja vu",
-   "artists": [
-    "Olivia Rodrigo"
-   ],
-   "album": "SOUR",
-   "image": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
-   "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
-   "played_at": "2026-11-27T17:47:22.894Z"
-  },
-  {
-   "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
-   "artists": [
-    "Drake",
-    "Rick Ross"
-   ],
-   "album": "Scary Hours 2",
-   "image": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
-   "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI",
-   "played_at": "2026-11-27T17:44:01.592Z"
-  },
-  {
-   "name": "One Right Now (with The Weeknd)",
-   "artists": [
-    "Post Malone",
-    "The Weeknd"
-   ],
-   "album": "Twelve Carat Toothache",
-   "image": "https://i.scdn.co/image/ab67616d0000485134362676667a4322838ccc97",
-   "url": "https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk",
-   "played_at": "2026-11-27T16:36:07.838Z"
-  },
-  {
-   "name": "Feel Good Inc.",
-   "artists": [
-    "Gorillaz",
-    "De La Soul"
-   ],
-   "album": "Demon Days",
-   "image": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
-   "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-   "played_at": "2026-11-27T16:33:05.006Z"
-  },
-  {
-   "name": "Homecoming",
-   "artists": [
-    "Kanye West",
-    "Chris Martin"
-   ],
-   "album": "Graduation",
-   "image": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe",
-   "played_at": "2026-11-27T16:29:37.135Z"
-  },
-  {
-   "name": "TOO SOON (feat. Babyface)",
-   "artists": [
-    "Jack Harlow",
-    "Babyface"
-   ],
-   "album": "TOO SOON (feat. Babyface)",
-   "image": "https://i.scdn.co/image/ab67616d00004851ef8ff7f32bc8da67754ab9b0",
-   "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ",
-   "played_at": "2026-11-27T16:26:48.842Z"
   }
  ],
  "top_artists": [
@@ -423,5 +423,5 @@
    ]
   }
  },
- "updated_at": "2026-11-27T23:12:50+00:00"
+ "updated_at": "2026-11-28T13:51:49+00:00"
 }
